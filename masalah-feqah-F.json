@@ -1,0 +1,625 @@
+[
+  {
+    "id": 1,
+    "category": "F",
+    "title": "Hukum mandi wajib",
+    "page": 179
+  },
+  {
+    "id": 2,
+    "category": "F",
+    "title": "Pengertian iltiqa’ al-khitanaini (pertemuan dua khitan iaitu persetubuhan)",
+    "page": 180
+  },
+  {
+    "id": 3,
+    "category": "F",
+    "title": "Tidak tahu darah haid atau istihadah",
+    "page": 181
+  },
+  {
+    "id": 4,
+    "category": "F",
+    "title": "Mimpi bersetubuh tetapi tidak keluar air mani",
+    "page": 182
+  },
+  {
+    "id": 5,
+    "category": "F",
+    "title": "Ragu-ragu tentang air mani atau air wadi",
+    "page": 182
+  },
+  {
+    "id": 6,
+    "category": "F",
+    "title": "Tidak mimpi basah tetapi ada air mani",
+    "page": 184
+  },
+  {
+    "id": 7,
+    "category": "F",
+    "title": "Membuang rambut yang terpotong ketika hadas besar",
+    "page": 185
+  },
+  {
+    "id": 8,
+    "category": "F",
+    "title": "Kencing sebelum mandi hadas",
+    "page": 188
+  },
+  {
+    "id": 9,
+    "category": "F",
+    "title": "Batas keluar air mani (sperma)",
+    "page": 188
+  },
+  {
+    "id": 10,
+    "category": "F",
+    "title": "Ragu-ragu keluar air mani atau tidak ketika bangun daripada tidur",
+    "page": 189
+  },
+  {
+    "id": 11,
+    "category": "F",
+    "title": "Tidak yakin air mani",
+    "page": 190
+  },
+  {
+    "id": 12,
+    "category": "F",
+    "title": "Cara mandi wajib yang sempurna",
+    "page": 191
+  },
+  {
+    "id": 13,
+    "category": "F",
+    "title": "Kesempurnaan dalam mandi junub",
+    "page": 193
+  },
+  {
+    "id": 14,
+    "category": "F",
+    "title": "Rukun-rukun mandi wajib",
+    "page": 193
+  },
+  {
+    "id": 15,
+    "category": "F",
+    "title": "Perkara-perkara yang makruh dalam mandi wajib",
+    "page": 194
+  },
+  {
+    "id": 16,
+    "category": "F",
+    "title": "Beberapa niat ketika mandi",
+    "page": 194
+  },
+  {
+    "id": 17,
+    "category": "F",
+    "title": "Sekali niat untuk junub berkali-kali",
+    "page": 196
+  },
+  {
+    "id": 18,
+    "category": "F",
+    "title": "Membaca “Bismillahir rahmanir rahim” sebelum mandi hadas",
+    "page": 197
+  },
+  {
+    "id": 19,
+    "category": "F",
+    "title": "Membasuh anggota wudhu’ ketika mandi wajib belum sempurna",
+    "page": 197
+  },
+  {
+    "id": 20,
+    "category": "F",
+    "title": "Satu basuhan menghilangkan hadas dan najis",
+    "page": 198
+  },
+  {
+    "id": 21,
+    "category": "F",
+    "title": "Niat mandi junub sekali gus niat mandi untuk solat Jumaat",
+    "page": 198
+  },
+  {
+    "id": 22,
+    "category": "F",
+    "title": "Niat mandi untuk menghilangkan hadas nifas dengan niat menghilangkan hadas haid",
+    "page": 199
+  },
+  {
+    "id": 23,
+    "category": "F",
+    "title": "Buang angin ketika mandi wajib",
+    "page": 200
+  },
+  {
+    "id": 24,
+    "category": "F",
+    "title": "Mandi tidak berpakaian (telanjang)",
+    "page": 200
+  },
+  {
+    "id": 25,
+    "category": "F",
+    "title": "Mandi wajib bertahap-tahap",
+    "page": 201
+  },
+  {
+    "id": 26,
+    "category": "F",
+    "title": "Membasuh hidung dan mulut ketika mandi junub",
+    "page": 203
+  },
+  {
+    "id": 27,
+    "category": "F",
+    "title": "Air yang menitis ke bahagian lain ketika mandi wajib",
+    "page": 204
+  },
+  {
+    "id": 28,
+    "category": "F",
+    "title": "Wajib membasuh kuku ketika mandi wajib",
+    "page": 204
+  },
+  {
+    "id": 29,
+    "category": "F",
+    "title": "Kotoran dalam kuku",
+    "page": 204
+  },
+  {
+    "id": 30,
+    "category": "F",
+    "title": "Anggota tubuh yang sukar terkena air",
+    "page": 205
+  },
+  {
+    "id": 31,
+    "category": "F",
+    "title": "Penyakit buasir ketika mandi janabah",
+    "page": 205
+  },
+  {
+    "id": 32,
+    "category": "F",
+    "title": "Mandi junub dengan menyelam",
+    "page": 206
+  },
+  {
+    "id": 33,
+    "category": "F",
+    "title": "Tidak ada tertib dalam mandi janabah",
+    "page": 206
+  },
+  {
+    "id": 34,
+    "category": "F",
+    "title": "Bercakap-cakap ketika mandi hadas",
+    "page": 206
+  },
+  {
+    "id": 35,
+    "category": "F",
+    "title": "Perlukah berwudhu’ selepas mandi wajib?",
+    "page": 207
+  },
+  {
+    "id": 36,
+    "category": "F",
+    "title": "Keluar air mani selepas mandi",
+    "page": 210
+  },
+  {
+    "id": 37,
+    "category": "F",
+    "title": "Solat sunat selepas mandi wajib",
+    "page": 211
+  },
+  {
+    "id": 38,
+    "category": "F",
+    "title": "Mencapai kemuncak tidak sama ketika berhubung badan",
+    "page": 212
+  },
+  {
+    "id": 39,
+    "category": "F",
+    "title": "Ada cat selepas mandi hadas",
+    "page": 212
+  },
+  {
+    "id": 40,
+    "category": "F",
+    "title": "Haid mewajibkan mandi hadas",
+    "page": 214
+  },
+  {
+    "id": 41,
+    "category": "F",
+    "title": "Hukum mempelajari ilmu tentang haid",
+    "page": 214
+  },
+  {
+    "id": 42,
+    "category": "F",
+    "title": "Umur perempuan mengalami haid",
+    "page": 215
+  },
+  {
+    "id": 43,
+    "category": "F",
+    "title": "Tempoh paling sedikit, paling lama dan kebiasaan darah haid",
+    "page": 217
+  },
+  {
+    "id": 44,
+    "category": "F",
+    "title": "Hitungan hari haid dan nifas mengikut mazhab",
+    "page": 217
+  },
+  {
+    "id": 45,
+    "category": "F",
+    "title": "Hukum-hukum yang berkaitan dengan haid",
+    "page": 219
+  },
+  {
+    "id": 46,
+    "category": "F",
+    "title": "Haid terputus-putus",
+    "page": 220
+  },
+  {
+    "id": 47,
+    "category": "F",
+    "title": "Solat ketika darah berhenti",
+    "page": 221
+  },
+  {
+    "id": 48,
+    "category": "F",
+    "title": "Maksud batas minima haid satu hari satu malam (24 jam)",
+    "page": 221
+  },
+  {
+    "id": 49,
+    "category": "F",
+    "title": "Haid datang setelah berjimak",
+    "page": 222
+  },
+  {
+    "id": 50,
+    "category": "F",
+    "title": "Beberapa perkara yang perlu diambil perhatian oleh perempuan ketika mengalami haid",
+    "page": 222
+  },
+  {
+    "id": 51,
+    "category": "F",
+    "title": "Perempuan haid membaca Ratibul Haddad",
+    "page": 223
+  },
+  {
+    "id": 52,
+    "category": "F",
+    "title": "Keluar darah selepas haid",
+    "page": 224
+  },
+  {
+    "id": 53,
+    "category": "F",
+    "title": "Perempuan haid di teras masjid",
+    "page": 225
+  },
+  {
+    "id": 54,
+    "category": "F",
+    "title": "Haid kerana minum ubat",
+    "page": 225
+  },
+  {
+    "id": 55,
+    "category": "F",
+    "title": "Ciri-ciri darah istihadhah (darah kotor)",
+    "page": 226
+  },
+  {
+    "id": 56,
+    "category": "F",
+    "title": "Hukum darah istihadhah",
+    "page": 226
+  },
+  {
+    "id": 57,
+    "category": "F",
+    "title": "Darah keluar kurang daripada 24 jam",
+    "page": 227
+  },
+  {
+    "id": 58,
+    "category": "F",
+    "title": "Darah keluar sebelum sempurna masa suci",
+    "page": 227
+  },
+  {
+    "id": 59,
+    "category": "F",
+    "title": "Darah istihadhah berhenti ketika solat",
+    "page": 228
+  },
+  {
+    "id": 60,
+    "category": "F",
+    "title": "Perempuan mustahadhah wajib mandi setiap kali selesai tempoh haid",
+    "page": 229
+  },
+  {
+    "id": 61,
+    "category": "F",
+    "title": "Pengertian wiladah",
+    "page": 229
+  },
+  {
+    "id": 62,
+    "category": "F",
+    "title": "Meninggal dunia sebelum mandi wiladah (melahirkan)",
+    "page": 231
+  },
+  {
+    "id": 63,
+    "category": "F",
+    "title": "Mandi wajib untuk kelahiran kembar dan secara Caesarean",
+    "page": 231
+  },
+  {
+    "id": 64,
+    "category": "F",
+    "title": "Ketentuan darah nifas",
+    "page": 232
+  },
+  {
+    "id": 65,
+    "category": "F",
+    "title": "Wajib mandi hadas kerana nifas",
+    "page": 232
+  },
+  {
+    "id": 66,
+    "category": "F",
+    "title": "Status darah yang keluar selepas melahirkan",
+    "page": 233
+  },
+  {
+    "id": 67,
+    "category": "F",
+    "title": "Nifas perempuan melahirkan bayi kembar",
+    "page": 234
+  },
+  {
+    "id": 68,
+    "category": "F",
+    "title": "Yakin darah nifas sudah kering",
+    "page": 235
+  },
+  {
+    "id": 69,
+    "category": "F",
+    "title": "Perbezaan antara mani, mazi dan wadi",
+    "page": 235
+  },
+  {
+    "id": 70,
+    "category": "F",
+    "title": "Wajib mandi apabila keluar air mani",
+    "page": 236
+  },
+  {
+    "id": 71,
+    "category": "F",
+    "title": "Makan atau minum dalam keadaan berhadas besar",
+    "page": 237
+  },
+  {
+    "id": 72,
+    "category": "F",
+    "title": "Perempuan haid memegang Al-Qur’an dengan alas",
+    "page": 238
+  },
+  {
+    "id": 73,
+    "category": "F",
+    "title": "Orang yang berhadas mengalihkan Al-Qur’an",
+    "page": 239
+  },
+  {
+    "id": 74,
+    "category": "F",
+    "title": "Orang yang berhadas menggondong (membawa) orang lain yang membawa Al-Qur’an",
+    "page": 239
+  },
+  {
+    "id": 75,
+    "category": "F",
+    "title": "Kanak-kanak mumayyiz yang berhadas membawa Al-Qur’an",
+    "page": 239
+  },
+  {
+    "id": 76,
+    "category": "F",
+    "title": "Perempuan haid melihat Al-Qur’an jatuh di lantai",
+    "page": 240
+  },
+  {
+    "id": 77,
+    "category": "F",
+    "title": "Orang berhadas membawa Al-Qur’an kerana darurat",
+    "page": 240
+  },
+  {
+    "id": 78,
+    "category": "F",
+    "title": "Orang yang dalam keadaan junub dan perempuan haid berzikir",
+    "page": 241
+  },
+  {
+    "id": 79,
+    "category": "F",
+    "title": "Perempuan haid bertakbir pada malam Hari Raya",
+    "page": 242
+  },
+  {
+    "id": 80,
+    "category": "F",
+    "title": "Berzikir ketika dalam keadaan nifas",
+    "page": 243
+  },
+  {
+    "id": 81,
+    "category": "F",
+    "title": "Penghafaz Al-Qur’an yang mengalami haid",
+    "page": 244
+  },
+  {
+    "id": 82,
+    "category": "F",
+    "title": "Datang haid ketika ujian/peperiksaan",
+    "page": 245
+  },
+  {
+    "id": 83,
+    "category": "F",
+    "title": "Orang junub atau haid berada di mushalla/surau",
+    "page": 246
+  },
+  {
+    "id": 84,
+    "category": "F",
+    "title": "Mandi wajib untuk muallaf",
+    "page": 247
+  },
+  {
+    "id": 85,
+    "category": "F",
+    "title": "Ukuran jimak yang mewajibkan mandi",
+    "page": 247
+  },
+  {
+    "id": 86,
+    "category": "F",
+    "title": "Keadaan zakar yang masuk yang tidak mewajibkan mandi",
+    "page": 249
+  },
+  {
+    "id": 87,
+    "category": "F",
+    "title": "Jimak sebelum mandi haid",
+    "page": 249
+  },
+  {
+    "id": 88,
+    "category": "F",
+    "title": "Mandi wajib walaupun jimak melalui dubur",
+    "page": 250
+  },
+  {
+    "id": 89,
+    "title": "Ingin melakukan jimak sedangkan kemaluan belum bersih",
+    "page": 251
+  },
+  {
+    "id": 90,
+    "title": "Belum dikhitan ketika jimak",
+    "page": 252
+  },
+  {
+    "id": 91,
+    "title": "Jimak menggunakan kondom",
+    "page": 252
+  },
+  {
+    "id": 92,
+    "title": "Wathi' (persetubuhan) antara yang diharamkan disebabkan hadas besar",
+    "page": 254
+  },
+  {
+    "id": 93,
+    "title": "Melakukan persetubuhan dengan mayat",
+    "page": 255
+  },
+  {
+    "id": 94,
+    "title": "Hukum seseorang yang telah baligh bersetubuh dengan orang yang belum baligh",
+    "page": 256
+  },
+  {
+    "id": 95,
+    "title": "Jimak dengan isteri yang istihadah",
+    "page": 256
+  },
+  {
+    "id": 96,
+    "title": "Jimak dengan jin",
+    "page": 257
+  },
+  {
+    "id": 97,
+    "title": "Perempuan keguguran",
+    "page": 257
+  },
+  {
+    "id": 98,
+    "title": "Perempuan hamil mengalami haid",
+    "page": 258
+  },
+  {
+    "id": 99,
+    "title": "Melahirkan melalui Caesarean",
+    "page": 259
+  },
+  {
+    "id": 100,
+    "title": "Melahirkan sebahagian tubuh bayi",
+    "page": 260
+  },
+  {
+    "id": 101,
+    "title": "Pembahagian perempuan",
+    "page": 261
+  },
+  {
+    "id": 102,
+    "title": "Perempuan wajib belajar ilmu berkaitan hukum-hakam haid, istihadah dan nifas",
+    "page": 262
+  },
+  {
+    "id": 103,
+    "title": "Mandi wajib (hadas besar) dapat menghilangkan hadas besar dan hadas kecil",
+    "page": 263
+  },
+  {
+    "id": 104,
+    "title": "Menunda mandi wajib",
+    "page": 263
+  },
+  {
+    "id": 105,
+    "title": "Antara keadaan yang tidak mewajibkan mandi",
+    "page": 264
+  },
+  {
+    "id": 106,
+    "title": "Berjunub ketika gila",
+    "page": 264
+  },
+  {
+    "id": 107,
+    "title": "Niat mandi wajib orang kafir tidak sah",
+    "page": 265
+  }
+]
