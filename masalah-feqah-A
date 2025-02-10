@@ -1,0 +1,104 @@
+[
+  {
+    "id": 1,
+    "category": "A",
+    "title": "Mesin basuh",
+    "page": 1
+  },
+  {
+    "id": 2,
+    "category": "A",
+    "title": "Mencuci pakaian dengan pencuci",
+    "page": 2
+  },
+  {
+    "id": 3,
+    "category": "A",
+    "title": "Air bekas minum kucing",
+    "page": 4
+  },
+  {
+    "id": 4,
+    "category": "A",
+    "title": "Air bercampur minyak",
+    "page": 4
+  },
+  {
+    "id": 5,
+    "category": "A",
+    "title": "Air kolam berubah kerana daun-daun yang jatuh",
+    "page": 5
+  },
+  {
+    "id": 6,
+    "category": "A",
+    "title": "Keadaan perubahan yang dapat menghilangkan kemutlakan air",
+    "page": 7
+  },
+  {
+    "id": 7,
+    "category": "A",
+    "title": "Semut masuk dalam air minuman",
+    "page": 8
+  },
+  {
+    "id": 8,
+    "category": "A",
+    "title": "Air dalam kolam atau tempat membasuh kaki",
+    "page": 8
+  },
+  {
+    "id": 9,
+    "category": "A",
+    "title": "Bersuci dengan air yang berubah keadaannya kerana lama tergenang (thul al-mukts) di suatu tempat",
+    "page": 9
+  },
+  {
+    "id": 10,
+    "category": "A",
+    "title": "Air berubah sifat kerana minyak 'ud (daripada kayu gaharu) dan yang sepertinya",
+    "page": 10
+  },
+  {
+    "id": 11,
+    "category": "A",
+    "title": "Air banyak yang berubah kerana bercampur benda najis dan benda suci",
+    "page": 10
+  },
+  {
+    "id": 12,
+    "category": "A",
+    "title": "Air bercampur dengan sesuatu yang suci",
+    "page": 10
+  },
+  {
+    "id": 13,
+    "category": "A",
+    "title": "Air kolam berubah warna dan bau",
+    "page": 11
+  },
+  {
+    "id": 14,
+    "category": "A",
+    "title": "Air reverse osmosis (RO)",
+    "page": 11
+  },
+  {
+    "id": 15,
+    "category": "A",
+    "title": "Bersuci dengan air mineral",
+    "page": 12
+  },
+  {
+    "id": 16,
+    "category": "A",
+    "title": "Air sungai tercemar",
+    "page": 13
+  },
+  {
+    "id": 17,
+    "category": "A",
+    "title": "Percikan titisan air baju jemuran yang terpercik semula dari tanah",
+    "page": 14
+  }
+]
