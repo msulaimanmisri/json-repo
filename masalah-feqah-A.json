@@ -1,1 +1,248 @@
-[{"id":1,"category":"A","title":"Mesin basuh","page":1},{"id":2,"category":"A","title":"Mencuci pakaian dengan pencuci","page":2},{"id":3,"category":"A","title":"Air bekas minum kucing","page":4},{"id":4,"category":"A","title":"Air bercampur minyak","page":4},{"id":5,"category":"A","title":"Air kolam berubah kerana daun-daun yang jatuh","page":5},{"id":6,"category":"A","title":"Keadaan perubahan yang dapat menghilangkan kemutlakan air","page":7},{"id":7,"category":"A","title":"Semut masuk dalam air minuman","page":7},{"id":8,"category":"A","title":"Air dalam kolam atau tempat membasuh kaki benda padat","page":8},{"id":9,"category":"A","title":"Mujawir dan kaitannya dengan status benda padat","page":9},{"id":10,"category":"A","title":"Bersuci dengan air yang berubah keadaannya kerana lama tergenang (thul al-mukts) di suatu tempat","page":9},{"id":11,"category":"A","title":"Air berubah sifat kerana minyak 'ud (daripada kayu gaharu) dan yang sepertinya","page":10},{"id":12,"category":"A","title":"Air banyak yang berubah kerana bercampur benda najis dan benda suci","page":10},{"id":13,"category":"A","title":"Air bercampur dengan sesuatu yang suci","page":10},{"id":14,"category":"A","title":"Air kolam berubah warna dan bau","page":11},{"id":15,"category":"A","title":"Air reverse osmosis (RO)","page":11},{"id":16,"category":"A","title":"Bersuci dengan air mineral","page":12},{"id":17,"category":"A","title":"Air sungai tercemar","page":13},{"id":18,"category":"A","title":"Percikan titisan air baju jemuran yang terpercik semula dari tanah","page":14},{"id":19,"category":"A","title":"Air musyammas (terkena panas terik matahari)","page":14},{"id":20,"category":"A","title":"Ukuran minima air 2 qullah (kolah)","page":16},{"id":21,"category":"A","title":"Kedudukan air yang bercampur sabun dan bersuci dengannya","page":17},{"id":22,"category":"A","title":"Air bercampur dengan minyak wangi","page":18},{"id":23,"category":"A","title":"Bersuci dengan air zamzam","page":19},{"id":24,"category":"A","title":"Air dalam akuarium","page":20},{"id":25,"category":"A","title":"Bersuci dengan air rebus","page":20},{"id":26,"category":"A","title":"Pengertian air musta'mal","page":21},{"id":27,"category":"A","title":"Adakah air musta'mal termasuk air mutlak?","page":22},{"id":28,"category":"A","title":"Syarat-syarat air musta'mal","page":22},{"id":29,"category":"A","title":"Memanfaatkan air musta'mal","page":22},{"id":30,"category":"A","title":"Air digunakan seseorang bermazhab Hanafi atau selain mereka yang tidak mewajibkan niat ketika wudhu' dan mandi","page":22},{"id":31,"category":"A","title":"Makna mujawir (مجاور) dan mukhalith (مخالط)","page":23},{"id":32,"category":"A","title":"Lalat jatuh ke dalam benda cair","page":25},{"id":33,"category":"A","title":"Wap daripada air mendidih","page":25},{"id":34,"category":"A","title":"Tidak mengetahui status air, suci atau tidak","page":26},{"id":35,"category":"A","title":"Air perigi berubah menjadi air sabun","page":26},{"id":36,"category":"A","title":"Air yang telah digunakan oleh kanak-kanak mumayyiz untuk berwudhu'","page":26},{"id":37,"category":"A","title":"Menjernihkan air dengan kapur","page":27},{"id":38,"category":"A","title":"Maksud air musta'mal suci pada dirinya","page":28},{"id":39,"category":"A","title":"Menghilangkan najis","page":28},{"id":40,"category":"A","title":"Membasuh kuku-kuku jari","page":29},{"id":41,"category":"A","title":"Hujan buatan","page":30}]
+[
+  {
+    "id": 1,
+    "category": "A",
+    "title": "Mesin basuh",
+    "page": 1
+  },
+  {
+    "id": 2,
+    "category": "A",
+    "title": "Mencuci pakaian dengan pencuci",
+    "page": 2
+  },
+  {
+    "id": 3,
+    "category": "A",
+    "title": "Air bekas minum kucing",
+    "page": 4
+  },
+  {
+    "id": 4,
+    "category": "A",
+    "title": "Air bercampur minyak",
+    "page": 4
+  },
+  {
+    "id": 5,
+    "category": "A",
+    "title": "Air kolam berubah kerana daun-daun yang jatuh",
+    "page": 5
+  },
+  {
+    "id": 6,
+    "category": "A",
+    "title": "Keadaan perubahan yang dapat menghilangkan kemutlakan air",
+    "page": 7
+  },
+  {
+    "id": 7,
+    "category": "A",
+    "title": "Semut masuk dalam air minuman",
+    "page": 7
+  },
+  {
+    "id": 8,
+    "category": "A",
+    "title": "Air dalam kolam atau tempat membasuh kaki benda padat",
+    "page": 8
+  },
+  {
+    "id": 9,
+    "category": "A",
+    "title": "Mujawir dan kaitannya dengan status benda padat",
+    "page": 9
+  },
+  {
+    "id": 10,
+    "category": "A",
+    "title": "Bersuci dengan air yang berubah keadaannya kerana lama tergenang (thul al-mukts) di suatu tempat",
+    "page": 9
+  },
+  {
+    "id": 11,
+    "category": "A",
+    "title": "Air berubah sifat kerana minyak 'ud (daripada kayu gaharu) dan yang sepertinya",
+    "page": 10
+  },
+  {
+    "id": 12,
+    "category": "A",
+    "title": "Air banyak yang berubah kerana bercampur benda najis dan benda suci",
+    "page": 10
+  },
+  {
+    "id": 13,
+    "category": "A",
+    "title": "Air bercampur dengan sesuatu yang suci",
+    "page": 10
+  },
+  {
+    "id": 14,
+    "category": "A",
+    "title": "Air kolam berubah warna dan bau",
+    "page": 11
+  },
+  {
+    "id": 15,
+    "category": "A",
+    "title": "Air reverse osmosis (RO)",
+    "page": 11
+  },
+  {
+    "id": 16,
+    "category": "A",
+    "title": "Bersuci dengan air mineral",
+    "page": 12
+  },
+  {
+    "id": 17,
+    "category": "A",
+    "title": "Air sungai tercemar",
+    "page": 13
+  },
+  {
+    "id": 18,
+    "category": "A",
+    "title": "Percikan titisan air baju jemuran yang terpercik semula dari tanah",
+    "page": 14
+  },
+  {
+    "id": 19,
+    "category": "A",
+    "title": "Air musyammas (terkena panas terik matahari)",
+    "page": 14
+  },
+  {
+    "id": 20,
+    "category": "A",
+    "title": "Ukuran minima air 2 qullah (kolah)",
+    "page": 16
+  },
+  {
+    "id": 21,
+    "category": "A",
+    "title": "Kedudukan air yang bercampur sabun dan bersuci dengannya",
+    "page": 17
+  },
+  {
+    "id": 22,
+    "category": "A",
+    "title": "Air bercampur dengan minyak wangi",
+    "page": 18
+  },
+  {
+    "id": 23,
+    "category": "A",
+    "title": "Bersuci dengan air zamzam",
+    "page": 19
+  },
+  {
+    "id": 24,
+    "category": "A",
+    "title": "Air dalam akuarium",
+    "page": 20
+  },
+  {
+    "id": 25,
+    "category": "A",
+    "title": "Bersuci dengan air rebus",
+    "page": 20
+  },
+  {
+    "id": 26,
+    "category": "A",
+    "title": "Pengertian air musta'mal",
+    "page": 21
+  },
+  {
+    "id": 27,
+    "category": "A",
+    "title": "Adakah air musta'mal termasuk air mutlak?",
+    "page": 22
+  },
+  {
+    "id": 28,
+    "category": "A",
+    "title": "Syarat-syarat air musta'mal",
+    "page": 22
+  },
+  {
+    "id": 29,
+    "category": "A",
+    "title": "Memanfaatkan air musta'mal",
+    "page": 22
+  },
+  {
+    "id": 30,
+    "category": "A",
+    "title": "Air digunakan seseorang bermazhab Hanafi atau selain mereka yang tidak mewajibkan niat ketika wudhu' dan mandi",
+    "page": 22
+  },
+  {
+    "id": 31,
+    "category": "A",
+    "title": "Makna mujawir (مجاور) dan mukhalith (مخالط)",
+    "page": 23
+  },
+  {
+    "id": 32,
+    "category": "A",
+    "title": "Lalat jatuh ke dalam benda cair",
+    "page": 25
+  },
+  {
+    "id": 33,
+    "category": "A",
+    "title": "Wap daripada air mendidih",
+    "page": 25
+  },
+  {
+    "id": 34,
+    "category": "A",
+    "title": "Tidak mengetahui status air, suci atau tidak",
+    "page": 26
+  },
+  {
+    "id": 35,
+    "category": "A",
+    "title": "Air perigi berubah menjadi air sabun",
+    "page": 26
+  },
+  {
+    "id": 36,
+    "category": "A",
+    "title": "Air yang telah digunakan oleh kanak-kanak mumayyiz untuk berwudhu'",
+    "page": 26
+  },
+  {
+    "id": 37,
+    "category": "A",
+    "title": "Menjernihkan air dengan kapur",
+    "page": 27
+  },
+  {
+    "id": 38,
+    "category": "A",
+    "title": "Maksud air musta'mal suci pada dirinya",
+    "page": 28
+  },
+  {
+    "id": 39,
+    "category": "A",
+    "title": "Menghilangkan najis",
+    "page": 28
+  },
+  {
+    "id": 40,
+    "category": "A",
+    "title": "Membasuh kuku-kuku jari",
+    "page": 29
+  },
+  {
+    "id": 41,
+    "category": "A",
+    "title": "Hujan buatan",
+    "page": 30
+  }
+]
