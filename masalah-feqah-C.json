@@ -1,0 +1,830 @@
+[
+  {
+    "id": 1,
+    "category": "C",
+    "title": "Pengertian najis",
+    "page": 49
+  },
+  {
+    "id": 2,
+    "category": "C",
+    "title": "Pembahagian najis",
+    "page": 50
+  },
+  {
+    "id": 3,
+    "category": "C",
+    "title": "Jenis najis yang dimaafkan (ma‘fu)",
+    "page": 52
+  },
+  {
+    "id": 4,
+    "category": "C",
+    "title": "Batas ‘umum al-balwa",
+    "page": 52
+  },
+  {
+    "id": 5,
+    "category": "C",
+    "title": "Najis terjatuh ke dalam air atau air terkena najis",
+    "page": 53
+  },
+  {
+    "id": 6,
+    "category": "C",
+    "title": "Najis antara 2 mazhab",
+    "page": 54
+  },
+  {
+    "id": 7,
+    "category": "C",
+    "title": "Pembahagian hukum darah dan nanah",
+    "page": 55
+  },
+  {
+    "id": 8,
+    "category": "C",
+    "title": "Darah najis",
+    "page": 57
+  },
+  {
+    "id": 9,
+    "category": "C",
+    "title": "Darah jerawat",
+    "page": 57
+  },
+  {
+    "id": 10,
+    "category": "C",
+    "title": "Darah bisul pecah setelah diletak ubat",
+    "page": 58
+  },
+  {
+    "id": 11,
+    "category": "C",
+    "title": "Darah luka bercampur ubat",
+    "page": 58
+  },
+  {
+    "id": 12,
+    "category": "C",
+    "title": "Darah bisul",
+    "page": 59
+  },
+  {
+    "id": 13,
+    "category": "C",
+    "title": "Membasuh gusi yang selalu berdarah",
+    "page": 59
+  },
+  {
+    "id": 14,
+    "category": "C",
+    "title": "Luka darah kering",
+    "page": 60
+  },
+  {
+    "id": 15,
+    "category": "C",
+    "title": "Nanah adalah najis",
+    "page": 61
+  },
+  {
+    "id": 16,
+    "category": "C",
+    "title": "Keadaan tangan yang belum dibasuh",
+    "page": 62
+  },
+  {
+    "id": 17,
+    "category": "C",
+    "title": "Badan anak kecil dan pakaiannya suci",
+    "page": 62
+  },
+  {
+    "id": 18,
+    "category": "C",
+    "title": "Rambut suci",
+    "page": 63
+  },
+  {
+    "id": 19,
+    "category": "C",
+    "title": "Air liur orang tidur",
+    "page": 63
+  },
+  {
+    "id": 20,
+    "category": "C",
+    "title": "Kotoran (tahi) telinga",
+    "page": 64
+  },
+  {
+    "id": 21,
+    "category": "C",
+    "title": "Kencing orang dewasa najis",
+    "page": 67
+  },
+  {
+    "id": 22,
+    "category": "C",
+    "title": "Terasa keluar air kencing selepas kencing",
+    "page": 67
+  },
+  {
+    "id": 23,
+    "category": "C",
+    "title": "Air mazi dan air wadi adalah najis",
+    "page": 68
+  },
+  {
+    "id": 24,
+    "category": "C",
+    "title": "Keluar mazi sebelum berhubung badan",
+    "page": 68
+  },
+  {
+    "id": 25,
+    "category": "C",
+    "title": "Status darah haid dan nifas",
+    "page": 69
+  },
+  {
+    "id": 26,
+    "category": "C",
+    "title": "Anggota tubuh perempuan haid adalah suci",
+    "page": 71
+  },
+  {
+    "id": 27,
+    "category": "C",
+    "title": "Bekas darah haid",
+    "page": 71
+  },
+  {
+    "id": 28,
+    "category": "C",
+    "title": "Keputihan",
+    "page": 71
+  },
+  {
+    "id": 29,
+    "category": "C",
+    "title": "Bau tidak sedap di tangan selepas istinja’",
+    "page": 74
+  },
+  {
+    "id": 30,
+    "category": "C",
+    "title": "Hukum percikan atau titisan air kencing orang yang mengalami salisul baul (kencing tidak lawas) dan darah perempuan mustahadhah",
+    "page": 74
+  },
+  {
+    "id": 31,
+    "category": "C",
+    "title": "Darah nyamuk pada pakaian",
+    "page": 76
+  },
+  {
+    "id": 32,
+    "category": "C",
+    "title": "Seluar panjang mengheret ke tanah",
+    "page": 78
+  },
+  {
+    "id": 33,
+    "category": "C",
+    "title": "Menyucikan najis dengan sabun",
+    "page": 79
+  },
+  {
+    "id": 34,
+    "category": "C",
+    "title": "Percikan air musta‘mal terkena pada pakaian",
+    "page": 80
+  },
+  {
+    "id": 35,
+    "category": "C",
+    "title": "Pakaian yang telah dibasuh tetapi masih ada bau najis atau masih ada bau dan warna najis",
+    "page": 80
+  },
+  {
+    "id": 36,
+    "category": "C",
+    "title": "Mencuci kulit telur",
+    "page": 81
+  },
+  {
+    "id": 37,
+    "category": "C",
+    "title": "Memasak telur tanpa dicuci",
+    "page": 81
+  },
+  {
+    "id": 38,
+    "category": "C",
+    "title": "Telur asin",
+    "page": 82
+  },
+  {
+    "id": 39,
+    "category": "C",
+    "title": "Sate yang masih berdarah dicampur kicap",
+    "page": 82
+  },
+  {
+    "id": 40,
+    "category": "C",
+    "title": "Kuah berwarna merah",
+    "page": 83
+  },
+  {
+    "id": 41,
+    "category": "C",
+    "title": "Najis jatuh ke dalam gula",
+    "page": 83
+  },
+  {
+    "id": 42,
+    "category": "C",
+    "title": "Najis termasuk di dalam rendang",
+    "page": 84
+  },
+  {
+    "id": 43,
+    "category": "C",
+    "title": "Kotoran masuk ke dalam susu binatang",
+    "page": 85
+  },
+  {
+    "id": 44,
+    "category": "C",
+    "title": "Baru ditelan, makanan keluar lagi",
+    "page": 85
+  },
+  {
+    "id": 45,
+    "category": "C",
+    "title": "Darah melekat pada daging",
+    "page": 86
+  },
+  {
+    "id": 46,
+    "category": "C",
+    "title": "Makan najis sebelum solat",
+    "page": 88
+  },
+  {
+    "id": 47,
+    "category": "C",
+    "title": "Makanan petis",
+    "page": 88
+  },
+  {
+    "id": 48,
+    "category": "C",
+    "title": "Memanggang ayam tanpa membersihkan kotoran",
+    "page": 89
+  },
+  {
+    "id": 49,
+    "category": "C",
+    "title": "Cairan hitam dalam badan sotong",
+    "page": 90
+  },
+  {
+    "id": 50,
+    "category": "C",
+    "title": "Membakar atau memanggang dengan benda najis",
+    "page": 91
+  },
+  {
+    "id": 51,
+    "category": "C",
+    "title": "Telur busuk",
+    "page": 92
+  },
+  {
+    "id": 52,
+    "category": "C",
+    "title": "Kotoran ikan",
+    "page": 94
+  },
+  {
+    "id": 53,
+    "category": "C",
+    "title": "Najis bercampur dengan minyak zaitun, minyak sapi, mentega dan semua jenis minyak",
+    "page": 96
+  },
+  {
+    "id": 54,
+    "category": "C",
+    "title": "Arak menjadi cuka dengan proses",
+    "page": 96
+  },
+  {
+    "id": 55,
+    "category": "C",
+    "title": "Jamu dengan campuran arak",
+    "page": 97
+  },
+  {
+    "id": 56,
+    "category": "C",
+    "title": "Minyak terkena najis",
+    "page": 97
+  },
+  {
+    "id": 57,
+    "category": "C",
+    "title": "Buah daripada baja atau air siraman daripada najis diletak atau disiram kepada tanaman",
+    "page": 99
+  },
+  {
+    "id": 58,
+    "category": "C",
+    "title": "Memakan kulit bangkai yang sudah disamak",
+    "page": 100
+  },
+  {
+    "id": 59,
+    "category": "C",
+    "title": "Susu dan telur daripada binatang yang mati (bangkai)",
+    "page": 102
+  },
+  {
+    "id": 60,
+    "category": "C",
+    "title": "Darah dalam telur",
+    "page": 103
+  },
+  {
+    "id": 61,
+    "category": "C",
+    "title": "Kencing dan muntah bayi pada baju ibu",
+    "page": 104
+  },
+  {
+    "id": 62,
+    "category": "C",
+    "title": "Mencuci puting bagi ibu yang menyusu",
+    "page": 105
+  },
+  {
+    "id": 63,
+    "category": "C",
+    "title": "Mencium bayi yang selalu muntah",
+    "page": 105
+  },
+  {
+    "id": 64,
+    "category": "C",
+    "title": "Kencing bayi yang meminum susu isian sejat atau serbuk",
+    "page": 106
+  },
+  {
+    "id": 65,
+    "category": "C",
+    "title": "Air mani daripada kanak-kanak yang belum berumur 9 tahun",
+    "page": 106
+  },
+  {
+    "id": 66,
+    "category": "C",
+    "title": "Ari-ari tidak najis",
+    "page": 107
+  },
+  {
+    "id": 67,
+    "category": "C",
+    "title": "Menjemur katil yang terkena najis",
+    "page": 107
+  },
+  {
+    "id": 68,
+    "category": "C",
+    "title": "Pembersih daripada bulu binatang",
+    "page": 108
+  },
+  {
+    "id": 69,
+    "category": "C",
+    "title": "Mencuci gelas yang terkena najis dengan memutar-mutarkannya dalam air yang tidak sampai 2 qullah",
+    "page": 108
+  },
+  {
+    "id": 70,
+    "category": "C",
+    "title": "Najis di bawah sejadah",
+    "page": 109
+  },
+  {
+    "id": 71,
+    "category": "C",
+    "title": "Minyak wangi beralkohol",
+    "page": 109
+  },
+  {
+    "id": 72,
+    "category": "C",
+    "title": "Batu bata daripada air atau benda najis",
+    "page": 112
+  },
+  {
+    "id": 73,
+    "category": "C",
+    "title": "Bangunan masjid daripada benda najis",
+    "page": 113
+  },
+  {
+    "id": 74,
+    "category": "C",
+    "title": "Gading atau tulang gajah dibuat perhiasan",
+    "page": 114
+  },
+  {
+    "id": 75,
+    "category": "C",
+    "title": "Kertas kitar semula (recycle)",
+    "page": 115
+  },
+  {
+    "id": 76,
+    "category": "C",
+    "title": "Mencuci kulit Al-Qur’an yang terkena tahi cicak",
+    "page": 115
+  },
+  {
+    "id": 77,
+    "category": "C",
+    "title": "Bintik air di luar gelas",
+    "page": 116
+  },
+  {
+    "id": 78,
+    "category": "C",
+    "title": "Asap daripada pembakaran najis",
+    "page": 116
+  },
+  {
+    "id": 79,
+    "category": "C",
+    "title": "Cara menyucikan cerek atau kendi yang terkena najis yang tidak nampak mata (hukmiyyah)",
+    "page": 118
+  },
+  {
+    "id": 80,
+    "category": "C",
+    "title": "Pisau dijirus dengan air najis",
+    "page": 119
+  },
+  {
+    "id": 81,
+    "category": "C",
+    "title": "Cincin ada darah",
+    "page": 119
+  },
+  {
+    "id": 82,
+    "category": "C",
+    "title": "Keadaan lantai rumah",
+    "page": 120
+  },
+  {
+    "id": 83,
+    "category": "C",
+    "title": "Masuk ke dalam masjid dalam keadaan kaki basah selepas memijak najis",
+    "page": 120
+  },
+  {
+    "id": 84,
+    "category": "C",
+    "title": "Cara menyuci najis di lantai",
+    "page": 121
+  },
+  {
+    "id": 85,
+    "category": "C",
+    "title": "Najis yang tersebar",
+    "page": 122
+  },
+  {
+    "id": 86,
+    "category": "C",
+    "title": "Kaki basah memijak najis kering",
+    "page": 122
+  },
+  {
+    "id": 87,
+    "category": "C",
+    "title": "Mengelap najis kencing dengan kain",
+    "page": 122
+  },
+  {
+    "id": 88,
+    "category": "C",
+    "title": "Ragu-ragu tentang kebersihan lantai yang dilalui ketika menuju ke ruang solat",
+    "page": 123
+  },
+  {
+    "id": 89,
+    "category": "C",
+    "title": "Hukum solat di kandang kambing",
+    "page": 125
+  },
+  {
+    "id": 90,
+    "category": "C",
+    "title": "Keadaan solat di tempat yang tidak dapat dielakkan yang bernajis",
+    "page": 125
+  },
+  {
+    "id": 91,
+    "category": "C",
+    "title": "Cara menyucikan perigi yang terkena najis",
+    "page": 126
+  },
+  {
+    "id": 92,
+    "category": "C",
+    "title": "Bio gas",
+    "page": 127
+  },
+  {
+    "id": 93,
+    "category": "C",
+    "title": "Lumpur di jalan",
+    "page": 127
+  },
+  {
+    "id": 94,
+    "category": "C",
+    "title": "Tanah becak ada banyak bekas tapak kaki anjing",
+    "page": 128
+  },
+  {
+    "id": 95,
+    "category": "C",
+    "title": "Percikan air di jalan raya",
+    "page": 129
+  },
+  {
+    "id": 96,
+    "category": "C",
+    "title": "Tanah terkena najis lalu kering disebabkan panas matahari",
+    "page": 129
+  },
+  {
+    "id": 97,
+    "category": "C",
+    "title": "Percikan air hujan",
+    "page": 129
+  },
+  {
+    "id": 98,
+    "category": "C",
+    "title": "Menyucikan najis khinzir (babi)",
+    "page": 130
+  },
+  {
+    "id": 99,
+    "category": "C",
+    "title": "Menyucikan najis anjing dengan sabun",
+    "page": 131
+  },
+  {
+    "id": 100,
+    "category": "C",
+    "title": "Mengapa menyucikan najis mughallazah dengan air tanah dan sebanyak 7 kali basuhan?",
+    "page": 132
+  },
+  {
+    "id": 101,
+    "category": "C",
+    "title": "Menyentuh anjing ketika kering",
+    "page": 132
+  },
+  {
+    "id": 102,
+    "category": "C",
+    "title": "Mengubat anjing yang terluka",
+    "page": 133
+  },
+  {
+    "id": 103,
+    "category": "C",
+    "title": "Bahagian tubuh babi",
+    "page": 133
+  },
+  {
+    "id": 104,
+    "category": "C",
+    "title": "Betis digigit anjing",
+    "page": 133
+  },
+  {
+    "id": 105,
+    "category": "C",
+    "title": "Termakan daging babi atau anjing",
+    "page": 134
+  },
+  {
+    "id": 106,
+    "category": "C",
+    "title": "Bulu kucing melekat di pakaian untuk solat",
+    "page": 135
+  },
+  {
+    "id": 107,
+    "category": "C",
+    "title": "Bulu binatang yang halal tertanggal atau tercabut",
+    "page": 136
+  },
+  {
+    "id": 108,
+    "category": "C",
+    "title": "Bulu binatang yang tidak diketahui asalnya",
+    "page": 136
+  },
+  {
+    "id": 109,
+    "category": "C",
+    "title": "Kotoran (najis) ikan dalam air (kolam)",
+    "page": 137
+  },
+  {
+    "id": 110,
+    "category": "C",
+    "title": "Kotoran binatang adalah najis",
+    "page": 138
+  },
+  {
+    "id": 111,
+    "category": "C",
+    "title": "Bangkai semut dalam air minuman",
+    "page": 138
+  },
+  {
+    "id": 112,
+    "category": "C",
+    "title": "Sperma binatang",
+    "page": 140
+  },
+  {
+    "id": 113,
+    "category": "C",
+    "title": "Binatang makan benda najis",
+    "page": 140
+  },
+  {
+    "id": 114,
+    "category": "C",
+    "title": "Ragu-ragu binatang mempunyai darah mengalir atau tidak",
+    "page": 141
+  },
+  {
+    "id": 115,
+    "category": "C",
+    "title": "Bangkai ikan dalam air",
+    "page": 141
+  },
+  {
+    "id": 116,
+    "category": "C",
+    "title": "Air liur dan peluh binatang",
+    "page": 142
+  },
+  {
+    "id": 117,
+    "category": "C",
+    "title": "Lalat hinggap di najis yang basah",
+    "page": 143
+  },
+  {
+    "id": 118,
+    "category": "C",
+    "title": "Pendapat yang mengatakan bangkai yang tidak ada darah yang mengalir adalah suci",
+    "page": 143
+  },
+  {
+    "id": 119,
+    "category": "C",
+    "title": "Hukum memberi makan binatang najis",
+    "page": 144
+  },
+  {
+    "id": 120,
+    "category": "C",
+    "title": "Cairan keluar dari hati binatang yang sudah disembelih",
+    "page": 144
+  },
+  {
+    "id": 121,
+    "category": "C",
+    "title": "Kotoran anai-anai (rayap)",
+    "page": 145
+  },
+  {
+    "id": 122,
+    "category": "C",
+    "title": "Membunuh nyamuk di dalam masjid",
+    "page": 145
+  },
+  {
+    "id": 123,
+    "category": "C",
+    "title": "Kencing atau najis tikus yang tidak dapat dilihat",
+    "page": 146
+  },
+  {
+    "id": 124,
+    "category": "C",
+    "title": "Terpijak kelekatu",
+    "page": 146
+  },
+  {
+    "id": 125,
+    "category": "C",
+    "title": "Kesucian benda yang menitis dari binatang yang suci",
+    "page": 147
+  },
+  {
+    "id": 126,
+    "category": "C",
+    "title": "Bisa ular najis",
+    "page": 147
+  },
+  {
+    "id": 127,
+    "category": "C",
+    "title": "Sarang labah-labah",
+    "page": 147
+  },
+  {
+    "id": 128,
+    "category": "C",
+    "title": "Kotoran (tahi) cicak",
+    "page": 148
+  },
+  {
+    "id": 129,
+    "category": "C",
+    "title": "Air mani, jenis binatang, binatang laut dan bangkai ikan",
+    "page": 148
+  },
+  {
+    "id": 130,
+    "category": "C",
+    "title": "Mengelap najis dengan kain",
+    "page": 148
+  },
+  {
+    "id": 131,
+    "category": "C",
+    "title": "Alternatif alat menghilangkan najis selain daripada air",
+    "page": 149
+  },
+  {
+    "id": 132,
+    "category": "C",
+    "title": "Air sebagai penghalang najis",
+    "page": 150
+  },
+  {
+    "id": 133,
+    "category": "C",
+    "title": "Ragu-ragu antara najis atau tidak",
+    "page": 151
+  },
+  {
+    "id": 134,
+    "category": "C",
+    "title": "Najis hilang dengan sendirinya",
+    "page": 151
+  },
+  {
+    "id": 135,
+    "category": "C",
+    "title": "Ragu-ragu memijak najis",
+    "page": 152
+  },
+  {
+    "id": 136,
+    "category": "C",
+    "title": "Tidak membersihkan najis dengan segera",
+    "page": 153
+  },
+  {
+    "id": 137,
+    "category": "C",
+    "title": "Cairan yang keluar daripada tubuh",
+    "page": 153
+  },
+  {
+    "id": 138,
+    "category": "C",
+    "title": "Cara menyucikan najis-najis mukhaffafah (ringan)",
+    "page": 154
+  }
+]
