@@ -1,1 +1,140 @@
-[{"id":1,"category":"B","title":"Pembahagian sesuatu yang keluar dari qubul dan dubur yang berkaitan dengan istinja'","page":31},{"id":2,"category":"B","title":"Syarat-syarat beristinja’ dengan batu","page":32},{"id":3,"category":"B","title":"Tabir atau penutup ketika membuang air","page":33},{"id":4,"category":"B","title":"Adab ketika membuang air","page":34},{"id":5,"category":"B","title":"Maksud istiqbal (menghadap kiblat) dan istidbar (membelakangi kiblat) ketika membuang hajat","page":35},{"id":6,"category":"B","title":"Mengelap najis bayi dengan kain","page":37},{"id":7,"category":"B","title":"Istinja’ dengan tisu","page":38},{"id":8,"category":"B","title":"Beristinja’ menggunakan pokok atau tumbuh-tumbuhan","page":39},{"id":9,"category":"B","title":"Cara istinja’ untuk perempuan","page":40},{"id":10,"category":"B","title":"Berdehem-dehem di dalam tandas untuk memberitahu keberadaan di dalamnya","page":40},{"id":11,"category":"B","title":"Masih ada bau di tangan selepas istinja’","page":41},{"id":12,"category":"B","title":"Mengusap zakar dengan tangan ketika terpaksa","page":41},{"id":13,"category":"B","title":"Dilarang beristinja’ dengan tangan kanan","page":43},{"id":14,"category":"B","title":"Ingin melakukan hubungan badan (jimak) setelah beristinja’ dengan batu","page":43},{"id":15,"category":"B","title":"Istinja’ dengan tembok batu atau kayu","page":44},{"id":16,"category":"B","title":"Istinja’ dengan kertas daripada buku-buku pelajaran (buku teks)","page":45},{"id":17,"category":"B","title":"Beristinja’ dengan kertas tentang ilmu kesihatan","page":45},{"id":18,"category":"B","title":"Cacing kerawit","page":46},{"id":19,"category":"B","title":"Anak mengistinja’kan orang tua","page":47},{"id":20,"category":"B","title":"Aurat terbuka ketika buang hajat","page":47},{"id":21,"category":"B","title":"Dubur berbulu","page":47},{"id":22,"category":"B","title":"Beristinja’ selepas wudhu’","page":48},{"id":23,"category":"B","title":"Beristinja’ dengan tulang ayam","page":48}]
+[
+  {
+    "id": 1,
+    "category": "B",
+    "title": "Pembahagian sesuatu yang keluar dari qubul dan dubur yang berkaitan dengan istinja'",
+    "page": 31
+  },
+  {
+    "id": 2,
+    "category": "B",
+    "title": "Syarat-syarat beristinja’ dengan batu",
+    "page": 32
+  },
+  {
+    "id": 3,
+    "category": "B",
+    "title": "Tabir atau penutup ketika membuang air",
+    "page": 33
+  },
+  {
+    "id": 4,
+    "category": "B",
+    "title": "Adab ketika membuang air",
+    "page": 34
+  },
+  {
+    "id": 5,
+    "category": "B",
+    "title": "Maksud istiqbal (menghadap kiblat) dan istidbar (membelakangi kiblat) ketika membuang hajat",
+    "page": 35
+  },
+  {
+    "id": 6,
+    "category": "B",
+    "title": "Mengelap najis bayi dengan kain",
+    "page": 37
+  },
+  {
+    "id": 7,
+    "category": "B",
+    "title": "Istinja’ dengan tisu",
+    "page": 38
+  },
+  {
+    "id": 8,
+    "category": "B",
+    "title": "Beristinja’ menggunakan pokok atau tumbuh-tumbuhan",
+    "page": 39
+  },
+  {
+    "id": 9,
+    "category": "B",
+    "title": "Cara istinja’ untuk perempuan",
+    "page": 40
+  },
+  {
+    "id": 10,
+    "category": "B",
+    "title": "Berdehem-dehem di dalam tandas untuk memberitahu keberadaan di dalamnya",
+    "page": 40
+  },
+  {
+    "id": 11,
+    "category": "B",
+    "title": "Masih ada bau di tangan selepas istinja’",
+    "page": 41
+  },
+  {
+    "id": 12,
+    "category": "B",
+    "title": "Mengusap zakar dengan tangan ketika terpaksa",
+    "page": 41
+  },
+  {
+    "id": 13,
+    "category": "B",
+    "title": "Dilarang beristinja’ dengan tangan kanan",
+    "page": 43
+  },
+  {
+    "id": 14,
+    "category": "B",
+    "title": "Ingin melakukan hubungan badan (jimak) setelah beristinja’ dengan batu",
+    "page": 43
+  },
+  {
+    "id": 15,
+    "category": "B",
+    "title": "Istinja’ dengan tembok batu atau kayu",
+    "page": 44
+  },
+  {
+    "id": 16,
+    "category": "B",
+    "title": "Istinja’ dengan kertas daripada buku-buku pelajaran (buku teks)",
+    "page": 45
+  },
+  {
+    "id": 17,
+    "category": "B",
+    "title": "Beristinja’ dengan kertas tentang ilmu kesihatan",
+    "page": 45
+  },
+  {
+    "id": 18,
+    "category": "B",
+    "title": "Cacing kerawit",
+    "page": 46
+  },
+  {
+    "id": 19,
+    "category": "B",
+    "title": "Anak mengistinja’kan orang tua",
+    "page": 47
+  },
+  {
+    "id": 20,
+    "category": "B",
+    "title": "Aurat terbuka ketika buang hajat",
+    "page": 47
+  },
+  {
+    "id": 21,
+    "category": "B",
+    "title": "Dubur berbulu",
+    "page": 47
+  },
+  {
+    "id": 22,
+    "category": "B",
+    "title": "Beristinja’ selepas wudhu’",
+    "page": 48
+  },
+  {
+    "id": 23,
+    "category": "B",
+    "title": "Beristinja’ dengan tulang ayam",
+    "page": 48
+  }
+]
