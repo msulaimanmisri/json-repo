@@ -1,1 +1,2816 @@
-
+[
+  {
+    "id": 1,
+    "category": "N",
+    "title": "Solat fardhu lima waktu wajib",
+    "page": 459
+  },
+  {
+    "id": 2,
+    "category": "N",
+    "title": "Solat lima waktu mempunyai waktu-waktu tertentu",
+    "page": 460
+  },
+  {
+    "id": 3,
+    "category": "N",
+    "title": "Penentuan waktu-waktu solat",
+    "page": 460
+  },
+  {
+    "id": 4,
+    "category": "N",
+    "title": "Berdiri (qiyam) di dalam solat",
+    "page": 463
+  },
+  {
+    "id": 5,
+    "category": "N",
+    "title": "Orang tua yang bongkok kerana sakit tulang belakang",
+    "page": 464
+  },
+  {
+    "id": 6,
+    "category": "N",
+    "title": "Solat duduk kerana tempat terlalu sempit",
+    "page": 465
+  },
+  {
+    "id": 7,
+    "category": "N",
+    "title": "Dibantu orang lain untuk qiyam",
+    "page": 465
+  },
+  {
+    "id": 8,
+    "category": "N",
+    "title": "Solat menggunakan tongkat",
+    "page": 465
+  },
+  {
+    "id": 9,
+    "category": "N",
+    "title": "Cara solat sambil duduk",
+    "page": 466
+  },
+  {
+    "id": 10,
+    "category": "N",
+    "title": "Orang yang mampu wajib solat fardhu dalam keadaan berdiri",
+    "page": 467
+  },
+  {
+    "id": 11,
+    "category": "N",
+    "title": "Badan tidak mampu bergerak kerana terbakar atau sakit",
+    "page": 467
+  },
+  {
+    "id": 12,
+    "category": "N",
+    "title": "Kewajipan solat ke atas seseorang yang sakit teruk dan tidak mampu berdiri, duduk dan menghilangkan najis",
+    "page": 468
+  },
+  {
+    "id": 13,
+    "category": "N",
+    "title": "Solat sambil bersandar",
+    "page": 468
+  },
+  {
+    "id": 14,
+    "category": "N",
+    "title": "Niat solat",
+    "page": 469
+  },
+  {
+    "id": 15,
+    "category": "N",
+    "title": "Sunat melafazkan niat solat",
+    "page": 470
+  },
+  {
+    "id": 16,
+    "category": "N",
+    "title": "3 rukun niat dalam solat fardhu",
+    "page": 470
+  },
+  {
+    "id": 17,
+    "category": "N",
+    "title": "Maksud istihdar dalam niat",
+    "page": 471
+  },
+  {
+    "id": 18,
+    "category": "N",
+    "title": "Penyelesaian bagi orang yang waswas dalam niat solat",
+    "page": 471
+  },
+  {
+    "id": 19,
+    "category": "N",
+    "title": "Niat membatalkan solat ketika solat dengan kedatangan seseorang",
+    "page": 473
+  },
+  {
+    "id": 20,
+    "category": "N",
+    "title": "Menukarkan niat daripada satu solat kepada solat yang lain",
+    "page": 473
+  },
+  {
+    "id": 21,
+    "category": "N",
+    "title": "Membatalkan solat kerana ingin berjemaah",
+    "page": 474
+  },
+  {
+    "id": 22,
+    "category": "N",
+    "title": "Mengerjakan solat qadha' dengan niat ada’an",
+    "page": 477
+  },
+  {
+    "id": 23,
+    "category": "N",
+    "title": "Bacaan takbiratul ihram",
+    "page": 477
+  },
+  {
+    "id": 24,
+    "category": "N",
+    "title": "Cara meletakkan tangan selepas takbiratul ihram",
+    "page": 478
+  },
+  {
+    "id": 25,
+    "category": "N",
+    "title": "Mengulang-ulang takbiratul ihram",
+    "page": 479
+  },
+  {
+    "id": 26,
+    "category": "N",
+    "title": "Takbiratul ihram bagi orang yang bisu",
+    "page": 481
+  },
+  {
+    "id": 27,
+    "category": "N",
+    "title": "Sunat mengangkat kedua-dua tangan ketika takbiratul ihram",
+    "page": 482
+  },
+  {
+    "id": 28,
+    "category": "N",
+    "title": "Takbir pembukaan untuk solat (takbirah al-iftitah) hanyalah pada rakaat pertama",
+    "page": 482
+  },
+  {
+    "id": 29,
+    "category": "N",
+    "title": "Batas mendapat fadhilat takbiratul ihram",
+    "page": 483
+  },
+  {
+    "id": 30,
+    "category": "N",
+    "title": "Hukum membaca surah Al-Fatihah",
+    "page": 483
+  },
+  {
+    "id": 31,
+    "category": "N",
+    "title": "Isti'azah sebelum membaca Al-Fatihah",
+    "page": 485
+  },
+  {
+    "id": 32,
+    "category": "N",
+    "title": "Menyaringkan bacaan Al-Fatihah dan memperlahankannya",
+    "page": 485
+  },
+  {
+    "id": 33,
+    "category": "N",
+    "title": "Lahn (salah atau merubah bacaan) dalam solat",
+    "page": 487
+  },
+  {
+    "id": 34,
+    "category": "N",
+    "title": "Kalimah 'Amin' ada 4 cara bacaan",
+    "page": 488
+  },
+  {
+    "id": 35,
+    "category": "N",
+    "title": "Makmum membaca: 'Amin' bersama dengan imam",
+    "page": 489
+  },
+  {
+    "id": 36,
+    "category": "N",
+    "title": "Mendengar Al-Fatihah dengan telinga sendiri",
+    "page": 489
+  },
+  {
+    "id": 37,
+    "category": "N",
+    "title": "Muallaf tidak membaca Al-Fatihah kerana belum pandai",
+    "page": 490
+  },
+  {
+    "id": 38,
+    "category": "N",
+    "title": "Menggantikan membaca surah Al-Fatihah dengan hadis",
+    "page": 491
+  },
+  {
+    "id": 39,
+    "category": "N",
+    "title": "Membaca surah Al-Fatihah dua kali",
+    "page": 491
+  },
+  {
+    "id": 40,
+    "category": "N",
+    "title": "Membaca 'Rabbighfir li' selepas membaca surah Al-Fatihah",
+    "page": 492
+  },
+  {
+    "id": 41,
+    "category": "N",
+    "title": "Hukum rukuk",
+    "page": 492
+  },
+  {
+    "id": 42,
+    "category": "N",
+    "title": "Tasbih dalam rukuk",
+    "page": 493
+  },
+  {
+    "id": 43,
+    "category": "N",
+    "title": "Hikmah sebutan 'Al-Azhim' (Allah Yang Maha Agung) dalam rukuk dan 'Al-A'la' (Allah Yang Maha Tinggi) dalam sujud",
+    "page": 493
+  },
+  {
+    "id": 44,
+    "category": "N",
+    "title": "Mengangkat kedua-dua tangan ketika hendak rukuk, bangkit dari rukuk dan ketika berdiri selepas tahiyyat awal",
+    "page": 494
+  },
+  {
+    "id": 45,
+    "category": "N",
+    "title": "Mengambil barang terjatuh sambil rukuk",
+    "page": 494
+  },
+  {
+    "id": 46,
+    "category": "N",
+    "title": "Tidak ada bacaan Al-Qur'an ketika rukuk",
+    "page": 495
+  },
+  {
+    "id": 47,
+    "category": "N",
+    "title": "Iktidal adalah rukun dalam solat",
+    "page": 496
+  },
+  {
+    "id": 48,
+    "category": "N",
+    "title": "Hukum sujud",
+    "page": 496
+  },
+  {
+    "id": 49,
+    "category": "N",
+    "title": "Jumlah sujud dalam setiap rakaat",
+    "page": 497
+  },
+  {
+    "id": 50,
+    "category": "N",
+    "title": "Wajib menutup kedua-dua lutut daripada anggota sujud",
+    "page": 497
+  },
+  {
+    "id": 51,
+    "category": "N",
+    "title": "Merenggangkan kedua-dua paha dan merenggangkan perut daripada paha ketika sujud",
+    "page": 498
+  },
+  {
+    "id": 52,
+    "category": "N",
+    "title": "Sebahagian rambut menutup dahi ketika sujud",
+    "page": 498
+  },
+  {
+    "id": 53,
+    "category": "N",
+    "title": "Membaca tasbih di dalam sujud",
+    "page": 500
+  },
+  {
+    "id": 54,
+    "category": "N",
+    "title": "Bangun daripada sujud kerana terkejut",
+    "page": 500
+  },
+  {
+    "id": 55,
+    "category": "N",
+    "title": "Sujud di atas serban",
+    "page": 501
+  },
+  {
+    "id": 56,
+    "category": "N",
+    "title": "Melihat najis di tempat sujud",
+    "page": 501
+  },
+  {
+    "id": 57,
+    "category": "N",
+    "title": "Sujud dengan kepala berbalut",
+    "page": 502
+  },
+  {
+    "id": 58,
+    "category": "N",
+    "title": "Hidung tidak kena tempat sujud",
+    "page": 503
+  },
+  {
+    "id": 59,
+    "category": "N",
+    "title": "Sujud di tumit orang",
+    "page": 503
+  },
+  {
+    "id": 60,
+    "category": "N",
+    "title": "Sujud dengan meletakkan hujung jari-jari kaki",
+    "page": 504
+  },
+  {
+    "id": 61,
+    "category": "N",
+    "title": "Tempat dahi lebih tinggi ketika sujud",
+    "page": 504
+  },
+  {
+    "id": 62,
+    "category": "N",
+    "title": "Mendekam ketika sujud",
+    "page": 504
+  },
+  {
+    "id": 63,
+    "category": "N",
+    "title": "Perut jari-jari kaki tidak menempel ke tempat sujud ketika sujud",
+    "page": 505
+  },
+  {
+    "id": 64,
+    "category": "N",
+    "title": "Lupa duduk antara dua sujud",
+    "page": 505
+  },
+  {
+    "id": 65,
+    "category": "N",
+    "title": "Duduk untuk tasyahhud akhir",
+    "page": 506
+  },
+  {
+    "id": 66,
+    "category": "N",
+    "title": "Tahiyyat orang yang tidak boleh solat duduk",
+    "page": 506
+  },
+  {
+    "id": 67,
+    "category": "N",
+    "title": "Duduk untuk tasyahhud akhir kerana terkejut ketika sujud",
+    "page": 507
+  },
+  {
+    "id": 68,
+    "category": "N",
+    "title": "Kenapa selawat ke atas Nabi Muhammad ﷺ selalu digabungkan dengan selawat ke atas Nabi Ibrahim dan bukan para Nabi yang lain?",
+    "page": 507
+  },
+  {
+    "id": 69,
+    "category": "N",
+    "title": "Membaca: 'Sayyidina' mengiringi nama Baginda Nabi ﷺ dalam tahiyyat akhir",
+    "page": 508
+  },
+  {
+    "id": 70,
+    "category": "N",
+    "title": "Hukum salam dalam solat",
+    "page": 509
+  },
+  {
+    "id": 71,
+    "category": "N",
+    "title": "Bila mula dan selesai berpaling muka ketika salam?",
+    "page": 510
+  },
+  {
+    "id": 72,
+    "category": "N",
+    "title": "Menoleh ke kiri ketika salam yang pertama",
+    "page": 511
+  },
+  {
+    "id": 73,
+    "category": "N",
+    "title": "Berhadas selepas salam yang pertama",
+    "page": 511
+  },
+  {
+    "id": 74,
+    "category": "N",
+    "title": "Perbezaan antara sunat ab‘adh dan sunat hai’ah",
+    "page": 512
+  },
+  {
+    "id": 75,
+    "category": "N",
+    "title": "Doa iftitah",
+    "page": 512
+  },
+  {
+    "id": 76,
+    "category": "N",
+    "title": "Hukum tasyahhud awal",
+    "page": 513
+  },
+  {
+    "id": 77,
+    "category": "N",
+    "title": "Duduk untuk tasyahhud awal",
+    "page": 513
+  },
+  {
+    "id": 78,
+    "category": "N",
+    "title": "Kenapa tidak disunatkan membaca selawat kepada keluarga Nabi ﷺ pada tasyahhud awal?",
+    "page": 513
+  },
+  {
+    "id": 79,
+    "category": "N",
+    "title": "Bacaan doa qunut",
+    "page": 514
+  },
+  {
+    "id": 80,
+    "category": "N",
+    "title": "Tidak membaca doa iftitah",
+    "page": 514
+  },
+  {
+    "id": 81,
+    "category": "N",
+    "title": "Membaca surah Al-Ikhlas dan Al-Mu‘awwizataian di akhir solat Witir",
+    "page": 515
+  },
+  {
+    "id": 82,
+    "category": "N",
+    "title": "Mengusap muka selepas membaca qunut",
+    "page": 515
+  },
+  {
+    "id": 83,
+    "category": "N",
+    "title": "Kadar boleh menggaru-garu dalam solat",
+    "page": 516
+  },
+  {
+    "id": 84,
+    "category": "N",
+    "title": "Tubuh bergetar dan penyakit parkinson",
+    "page": 516
+  },
+  {
+    "id": 85,
+    "category": "N",
+    "title": "Mengerak-gerak jari, bibir, lidah atau zakar",
+    "page": 517
+  },
+  {
+    "id": 86,
+    "category": "N",
+    "title": "Membunyikan jari-jari ketika solat",
+    "page": 517
+  },
+  {
+    "id": 87,
+    "category": "N",
+    "title": "Bergerak secara ringan dengan niat bermain-main",
+    "page": 517
+  },
+  {
+    "id": 88,
+    "category": "N",
+    "title": "Bergerak lebih 3 daripada kali",
+    "page": 518
+  },
+  {
+    "id": 89,
+    "category": "N",
+    "title": "Mengarahkan pandangan mata dalam solat",
+    "page": 519
+  },
+  {
+    "id": 90,
+    "category": "N",
+    "title": "Memakai semula kopiah yang jatuh ketika solat",
+    "page": 519
+  },
+  {
+    "id": 91,
+    "category": "N",
+    "title": "Mengangkat tangan untuk menggaru ketika sujud",
+    "page": 520
+  },
+  {
+    "id": 92,
+    "category": "N",
+    "title": "Memalingkan muka ketika solat",
+    "page": 521
+  },
+  {
+    "id": 93,
+    "category": "N",
+    "title": "Bercakap ketika solat",
+    "page": 524
+  },
+  {
+    "id": 94,
+    "category": "N",
+    "title": "Dipanggil orang tua (ayah atau ibu) ketika solat",
+    "page": 525
+  },
+  {
+    "id": 95,
+    "category": "N",
+    "title": "Bersin ketika solat",
+    "page": 526
+  },
+  {
+    "id": 96,
+    "category": "N",
+    "title": "Makan dan minum ketika solat",
+    "page": 526
+  },
+  {
+    "id": 97,
+    "category": "N",
+    "title": "Batuk mengeluarkan dua huruf",
+    "page": 527
+  },
+  {
+    "id": 98,
+    "category": "N",
+    "title": "Ketawa ketika solat",
+    "page": 528
+  },
+  {
+    "id": 99,
+    "category": "N",
+    "title": "Menelan air liur yang bercampur gula",
+    "page": 528
+  },
+  {
+    "id": 100,
+    "category": "N",
+    "title": "Pergerakan tubuh dan anggota badan dalam solat yang membatalkan dan tidak membatalkan solat",
+    "page": 529
+  },
+  {
+    "id": 101,
+    "category": "N",
+    "title": "Menahan dahak dalam solat",
+    "page": 531
+  },
+  {
+    "id": 102,
+    "category": "N",
+    "title": "Menelan lendir ketika solat",
+    "page": 532
+  },
+  {
+    "id": 103,
+    "category": "N",
+    "title": "Menghisap dan menelan hingus ketika solat",
+    "page": 533
+  },
+  {
+    "id": 104,
+    "category": "N",
+    "title": "Merangkul atau menyentuh budak kecil yang belum berkhitan",
+    "page": 533
+  },
+  {
+    "id": 105,
+    "category": "N",
+    "title": "Memegang orang yang membawa najis",
+    "page": 533
+  },
+  {
+    "id": 106,
+    "category": "N",
+    "title": "Tidak tahu membawa najis ketika solat",
+    "page": 534
+  },
+  {
+    "id": 107,
+    "category": "N",
+    "title": "Keadaan darah keluar ketika solat",
+    "page": 534
+  },
+  {
+    "id": 108,
+    "category": "N",
+    "title": "Solat sambil membawa jarum suntikan",
+    "page": 535
+  },
+  {
+    "id": 109,
+    "category": "N",
+    "title": "Keadaan menahan hadas ketika solat",
+    "page": 535
+  },
+  {
+    "id": 110,
+    "category": "N",
+    "title": "Berhadas dalam solat",
+    "page": 537
+  },
+  {
+    "id": 111,
+    "category": "N",
+    "title": "Tertidur ketika mendirikan solat",
+    "page": 538
+  },
+  {
+    "id": 112,
+    "category": "N",
+    "title": "Solat membawa telefon bimbit (hand phone)",
+    "page": 538
+  },
+  {
+    "id": 113,
+    "category": "N",
+    "title": "Mengelamun ketika solat",
+    "page": 539
+  },
+  {
+    "id": 114,
+    "category": "N",
+    "title": "Lupa tahiyyat awal",
+    "page": 539
+  },
+  {
+    "id": 115,
+    "category": "N",
+    "title": "Menguap ketika solat",
+    "page": 540
+  },
+  {
+    "id": 116,
+    "category": "N",
+    "title": "Menangis ketika solat",
+    "page": 540
+  },
+  {
+    "id": 117,
+    "category": "N",
+    "title": "Tidur ketika solat",
+    "page": 541
+  },
+  {
+    "id": 118,
+    "category": "N",
+    "title": "Melihat mashaf Al-Qur’an ketika solat",
+    "page": 541
+  },
+  {
+    "id": 119,
+    "category": "N",
+    "title": "Perbezaan antara lelaki dan perempuan ketika solat",
+    "page": 543
+  },
+  {
+    "id": 120,
+    "category": "N",
+    "title": "Makruh mengangkat pandangan ketika solat",
+    "page": 545
+  },
+  {
+    "id": 121,
+    "category": "N",
+    "title": "Sunat meluruskan dan merapatkan saf ketika solat",
+    "page": 546
+  },
+  {
+    "id": 122,
+    "category": "N",
+    "title": "Membaca selawat dan menjawab azan ketika solat",
+    "page": 546
+  },
+  {
+    "id": 123,
+    "category": "N",
+    "title": "Duduk ketika sedang solat",
+    "page": 547
+  },
+  {
+    "id": 124,
+    "category": "N",
+    "title": "Menyelamatkan kanak-kanak yang belum mumayyiz ketika solat",
+    "page": 547
+  },
+  {
+    "id": 125,
+    "category": "N",
+    "title": "Niat zakat ketika solat",
+    "page": 548
+  },
+  {
+    "id": 126,
+    "category": "N",
+    "title": "Menyingsingkan pakaian ketika solat",
+    "page": 548
+  },
+  {
+    "id": 127,
+    "category": "N",
+    "title": "Solat di atas sutera",
+    "page": 549
+  },
+  {
+    "id": 128,
+    "category": "N",
+    "title": "Meninggalkan sunat-sunat dalam solat",
+    "page": 549
+  },
+  {
+    "id": 129,
+    "category": "N",
+    "title": "Keadaan dan hukum gerakan dan berdehem ketika solat",
+    "page": 549
+  },
+  {
+    "id": 130,
+    "category": "N",
+    "title": "Melihat najis di pakaian orang yang sedang solat",
+    "page": 550
+  },
+  {
+    "id": 131,
+    "category": "N",
+    "title": "Melihat aurat dalam solat",
+    "page": 551
+  },
+  {
+    "id": 132,
+    "category": "N",
+    "title": "Melihat orang yang sedang solat terlihat auratnya",
+    "page": 552
+  },
+  {
+    "id": 133,
+    "category": "N",
+    "title": "Hukum menggerak-gerakkan jari telunjuk ketika tasyahhud",
+    "page": 552
+  },
+  {
+    "id": 134,
+    "category": "N",
+    "title": "Serba salah (taraddud) sama ada menghentikan solat atau tidak",
+    "page": 552
+  },
+  {
+    "id": 135,
+    "category": "N",
+    "title": "Solat berjemaah disyariatkan secara ijmak",
+    "page": 553
+  },
+  {
+    "id": 136,
+    "category": "N",
+    "title": "Hukum solat berjemaah",
+    "page": 553
+  },
+  {
+    "id": 137,
+    "category": "N",
+    "title": "Jumlah jemaah paling sedikit",
+    "page": 554
+  },
+  {
+    "id": 138,
+    "category": "N",
+    "title": "Orang lelaki lebih afdal solat berjemaah di masjid",
+    "page": 554
+  },
+  {
+    "id": 139,
+    "category": "N",
+    "title": "Orang perempuan lebih afdal solat berjemaah di rumah",
+    "page": 555
+  },
+  {
+    "id": 140,
+    "category": "N",
+    "title": "Mendapat pahala solat berjemaah yang sempurna",
+    "page": 555
+  },
+  {
+    "id": 141,
+    "category": "N",
+    "title": "Saf diselangi mimbar",
+    "page": 556
+  },
+  {
+    "id": 142,
+    "category": "N",
+    "title": "Kedudukan rahbah dan harim al-masjid dalam hukum solat berjemaah",
+    "page": 557
+  },
+  {
+    "id": 143,
+    "category": "N",
+    "title": "Makmum terbatal wudhu’ ketika dalam saf solat berjemaah",
+    "page": 558
+  },
+  {
+    "id": 144,
+    "category": "N",
+    "title": "Bermakmum melalui televisyen",
+    "page": 558
+  },
+  {
+    "id": 145,
+    "category": "N",
+    "title": "Niat menjadi imam sebelum ada makmum",
+    "page": 558
+  },
+  {
+    "id": 146,
+    "category": "N",
+    "title": "Lama ketika solat berjemaah",
+    "page": 559
+  },
+  {
+    "id": 147,
+    "category": "N",
+    "title": "Imam berbeza mazhab",
+    "page": 560
+  },
+  {
+    "id": 148,
+    "category": "N",
+    "title": "Kanak-kanak berada di barisan pertama",
+    "page": 560
+  },
+  {
+    "id": 149,
+    "category": "N",
+    "title": "Ada jemaah yang batal di barisan pertama",
+    "page": 561
+  },
+  {
+    "id": 150,
+    "category": "N",
+    "title": "Solat bersendirian lebih khusyuk",
+    "page": 561
+  },
+  {
+    "id": 151,
+    "category": "N",
+    "title": "Kain tirai untuk jemaah perempuan",
+    "page": 562
+  },
+  {
+    "id": 152,
+    "category": "N",
+    "title": "Membuat saf atau barisan baharu sebelum saf di hadapannya penuh",
+    "page": 563
+  },
+  {
+    "id": 153,
+    "category": "N",
+    "title": "Solat berjemaah di rumah apakah mendapat fadhilat berjemaah?",
+    "page": 564
+  },
+  {
+    "id": 154,
+    "category": "N",
+    "title": "Mengerjakan solat fardhu berjemaah dengan solat sunat",
+    "page": 564
+  },
+  {
+    "id": 155,
+    "category": "N",
+    "title": "Sempat berjemaah pada rakaat terakhir bersama imam",
+    "page": 565
+  },
+  {
+    "id": 156,
+    "category": "N",
+    "title": "Makmum masbuk mesti berdiri menambah rakaat selepas imam salam",
+    "page": 565
+  },
+  {
+    "id": 157,
+    "category": "N",
+    "title": "Antara keuzuran untuk solat berjemaah",
+    "page": 566
+  },
+  {
+    "id": 158,
+    "category": "N",
+    "title": "Hukum solat Jumaat",
+    "page": 567
+  },
+  {
+    "id": 159,
+    "category": "N",
+    "title": "Masuk waktu solat Jumaat ialah selepas tergelincir matahari",
+    "page": 567
+  },
+  {
+    "id": 160,
+    "category": "N",
+    "title": "Sifat solat Jumaat",
+    "page": 568
+  },
+  {
+    "id": 161,
+    "category": "N",
+    "title": "3 istilah untuk tempat didirikan solat Jumaat",
+    "page": 568
+  },
+  {
+    "id": 162,
+    "category": "N",
+    "title": "Pelaksanaan solat Jumaat secara berjemaah",
+    "page": 569
+  },
+  {
+    "id": 163,
+    "category": "N",
+    "title": "Solat sunat sebelum solat Jumaat",
+    "page": 569
+  },
+  {
+    "id": 164,
+    "category": "N",
+    "title": "Bacaan Al-Qur’an sebelum solat Jumaat",
+    "page": 569
+  },
+  {
+    "id": 165,
+    "category": "N",
+    "title": "Membuat pengumuman selepas azan Jumaat",
+    "page": 570
+  },
+  {
+    "id": 166,
+    "category": "N",
+    "title": "Menyaringkan bacaan dalam solat Jumaat",
+    "page": 571
+  },
+  {
+    "id": 167,
+    "category": "N",
+    "title": "Solat sunat selepas solat Jumaat",
+    "page": 571
+  },
+  {
+    "id": 168,
+    "category": "N",
+    "title": "Solat Jumaat di universiti atau kolej kerana masjid tidak dapat menampung jemaah",
+    "page": 571
+  },
+  {
+    "id": 169,
+    "category": "N",
+    "title": "Solat Jumaat di padang atau lapangan",
+    "page": 572
+  },
+  {
+    "id": 170,
+    "category": "N",
+    "title": "Guru dan pelajar wajib solat Jumaat",
+    "page": 573
+  },
+  {
+    "id": 171,
+    "category": "N",
+    "title": "Imam solat Jumaat tidak mendengar khutbah",
+    "page": 573
+  },
+  {
+    "id": 172,
+    "category": "N",
+    "title": "Solat Zuhur selepas solat Jumaat",
+    "page": 574
+  },
+  {
+    "id": 173,
+    "category": "N",
+    "title": "Jemaah solat Jumaat kurang daripada 40 orang",
+    "page": 575
+  },
+  {
+    "id": 174,
+    "category": "N",
+    "title": "Solat Jumaat di atas kapal",
+    "page": 577
+  },
+  {
+    "id": 175,
+    "category": "N",
+    "title": "Takbir musafir selepas takbir penduduk setempat",
+    "page": 577
+  },
+  {
+    "id": 176,
+    "category": "N",
+    "title": "Solat Jumaat termasuk maktubah?",
+    "page": 578
+  },
+  {
+    "id": 177,
+    "category": "N",
+    "title": "Solat Jumaat 2 kali (2 lapis)",
+    "page": 578
+  },
+  {
+    "id": 178,
+    "category": "N",
+    "title": "Perempuan solat Jumaat sebagai pengganti solat Zuhur",
+    "page": 579
+  },
+  {
+    "id": 179,
+    "category": "N",
+    "title": "Solat Jumaat tanpa mustauthinin dan muqimin",
+    "page": 580
+  },
+  {
+    "id": 180,
+    "category": "N",
+    "title": "Mendapatkan satu rakaat solat Jumaat",
+    "page": 581
+  },
+  {
+    "id": 181,
+    "category": "N",
+    "title": "Mendapatkan kurang daripada satu rakaat",
+    "page": 581
+  },
+  {
+    "id": 182,
+    "category": "N",
+    "title": "Qadha’ solat Jumaat",
+    "page": 582
+  },
+  {
+    "id": 183,
+    "category": "N",
+    "title": "Menunggu orang sakit pada hari Jumaat",
+    "page": 583
+  },
+  {
+    "id": 184,
+    "category": "N",
+    "title": "Batas daerah dikatakan 2 tempat",
+    "page": 583
+  },
+  {
+    "id": 185,
+    "category": "N",
+    "title": "Solat Jumaat di luar daerah sendiri",
+    "page": 583
+  },
+  {
+    "id": 186,
+    "category": "N",
+    "title": "Solat Jumaat bagi orang buta",
+    "page": 584
+  },
+  {
+    "id": 187,
+    "category": "N",
+    "title": "Mendahului takbiratul ihram",
+    "page": 585
+  },
+  {
+    "id": 188,
+    "category": "N",
+    "title": "Satu daerah tidak mendirikan solat Jumaat",
+    "page": 585
+  },
+  {
+    "id": 189,
+    "category": "N",
+    "title": "Bermakmum kepada makmum yang masbuk",
+    "page": 585
+  },
+  {
+    "id": 190,
+    "category": "N",
+    "title": "Waktu zuhur hampir habis dan tidak cukup untuk khutbah dan solat Jumaat",
+    "page": 586
+  },
+  {
+    "id": 191,
+    "category": "N",
+    "title": "Jemaah Jumaat yang boleh membaca Al-Fatihah dengan baik tidak lebih daripada 40 orang",
+    "page": 586
+  },
+  {
+    "id": 192,
+    "category": "N",
+    "title": "Hukum khutbah Jumaat",
+    "page": 587
+  },
+  {
+    "id": 193,
+    "category": "N",
+    "title": "Menaiki mimbar perlahan-lahan",
+    "page": 587
+  },
+  {
+    "id": 194,
+    "category": "N",
+    "title": "Membaca “Bismillah” sebelum berkhutbah",
+    "page": 588
+  },
+  {
+    "id": 195,
+    "category": "N",
+    "title": "Membaca ayat Al-Qur’an lebih utama (afdhal) pada khutbah pertama",
+    "page": 588
+  },
+  {
+    "id": 196,
+    "category": "N",
+    "title": "Kadar panjang waktu membaca khutbah",
+    "page": 588
+  },
+  {
+    "id": 197,
+    "category": "N",
+    "title": "Memendekkan khutbah",
+    "page": 588
+  },
+  {
+    "id": 198,
+    "category": "N",
+    "title": "Khutbah sebagai ganti 2 rakaat Zuhur",
+    "page": 589
+  },
+  {
+    "id": 199,
+    "category": "N",
+    "title": "Berkhutbah di atas mimbar",
+    "page": 590
+  },
+  {
+    "id": 200,
+    "category": "N",
+    "title": "Berdiri ketika berkhutbah",
+    "page": 590
+  },
+  {
+    "id": 201,
+    "category": "N",
+    "title": "Mengumpulkan dua rukun khutbah dalam satu ayat",
+    "page": 591
+  },
+  {
+    "id": 202,
+    "category": "N",
+    "title": "Basmalah sebelum membaca ayat ketika khutbah",
+    "page": 591
+  },
+  {
+    "id": 203,
+    "category": "N",
+    "title": "Tangan khatib bergerak-gerak (seperti berceramah) ketika berkhutbah Jumaat",
+    "page": 591
+  },
+  {
+    "id": 204,
+    "category": "N",
+    "title": "Bercakap ketika khutbah Jumaat",
+    "page": 592
+  },
+  {
+    "id": 205,
+    "category": "N",
+    "title": "Kotak tabung ketika khutbah Jumaat",
+    "page": 593
+  },
+  {
+    "id": 206,
+    "category": "N",
+    "title": "Membaca selawat adalah rukun khutbah",
+    "page": 594
+  },
+  {
+    "id": 207,
+    "category": "N",
+    "title": "Berkhutbah dalam bahasa Arab",
+    "page": 594
+  },
+  {
+    "id": 208,
+    "category": "N",
+    "title": "Dalil muraqqi",
+    "page": 594
+  },
+  {
+    "id": 209,
+    "category": "N",
+    "title": "Bacaan tarqiyah (bacaan muraqqi) dengan bahasa Melayu",
+    "page": 595
+  },
+  {
+    "id": 210,
+    "category": "N",
+    "title": "Hukum memegang tongkat ketika berkhutbah",
+    "page": 595
+  },
+  {
+    "id": 211,
+    "category": "N",
+    "title": "Solat ketika khatib sedang berkhutbah",
+    "page": 595
+  },
+  {
+    "id": 212,
+    "category": "N",
+    "title": "Mendengar khutbah dari rumah",
+    "page": 596
+  },
+  {
+    "id": 213,
+    "category": "N",
+    "title": "Khatib membuka-buka buku ketika duduk antara khutbah",
+    "page": 596
+  },
+  {
+    "id": 214,
+    "category": "N",
+    "title": "Kadar terus menerus (muwalat) antara dua khutbah",
+    "page": 596
+  },
+  {
+    "id": 215,
+    "category": "N",
+    "title": "Hukum mendengar khutbah walaupun tidak faham",
+    "page": 597
+  },
+  {
+    "id": 216,
+    "category": "N",
+    "title": "Menterjemahkan khutbah Jumaat selain rukunnya",
+    "page": 597
+  },
+  {
+    "id": 217,
+    "category": "N",
+    "title": "Rukhsah untuk mengqasharkan solat dan tidak berpuasa kepada orang yang musafir",
+    "page": 598
+  },
+  {
+    "id": 218,
+    "category": "N",
+    "title": "Jarak 2 marhalah",
+    "page": 598
+  },
+  {
+    "id": 219,
+    "category": "N",
+    "title": "Menjamak solat Jumaat dengan Asar",
+    "page": 599
+  },
+  {
+    "id": 220,
+    "category": "N",
+    "title": "Jarak jauh, tetapi boleh ditempuh dalam masa singkat",
+    "page": 599
+  },
+  {
+    "id": 221,
+    "category": "N",
+    "title": "Musafir dengan tujuan taat dan maksiat",
+    "page": 600
+  },
+  {
+    "id": 222,
+    "category": "N",
+    "title": "Menggunakan jalan yang lebih jauh",
+    "page": 601
+  },
+  {
+    "id": 223,
+    "category": "N",
+    "title": "Orang sakit mengqashar solat",
+    "page": 602
+  },
+  {
+    "id": 224,
+    "category": "N",
+    "title": "Musafir berpindah-pindah tempat",
+    "page": 603
+  },
+  {
+    "id": 225,
+    "category": "N",
+    "title": "Musafir selepas Subuh",
+    "page": 603
+  },
+  {
+    "id": 226,
+    "category": "N",
+    "title": "Jamak solat kerana menjadi pengantin",
+    "page": 603
+  },
+  {
+    "id": 227,
+    "category": "N",
+    "title": "Memulakan musafir ketika waktu solat telah masuk",
+    "page": 604
+  },
+  {
+    "id": 228,
+    "category": "N",
+    "title": "Perjalanan jauh tetapi dekat dengan rumah",
+    "page": 605
+  },
+  {
+    "id": 229,
+    "category": "N",
+    "title": "Bakal-bakal haji melakukan jamak dan qashar di Makkah",
+    "page": 605
+  },
+  {
+    "id": 230,
+    "category": "N",
+    "title": "Keadaan rukhsah untuk orang yang selalu musafir dan orang yang ada 2 rumah yang berjauhan",
+    "page": 606
+  },
+  {
+    "id": 231,
+    "category": "N",
+    "title": "Batas sakit yang dibolehkan solat jamak",
+    "page": 607
+  },
+  {
+    "id": 232,
+    "category": "N",
+    "title": "Solat qashar untuk pemandu",
+    "page": 608
+  },
+  {
+    "id": 233,
+    "category": "N",
+    "title": "Solat jamak qashar kerana bersukan",
+    "page": 608
+  },
+  {
+    "id": 234,
+    "category": "N",
+    "title": "Mengqashar solat qadha’",
+    "page": 609
+  },
+  {
+    "id": 235,
+    "category": "N",
+    "title": "Menggantungkan niat qashar",
+    "page": 609
+  },
+  {
+    "id": 236,
+    "category": "N",
+    "title": "Mengqasharkan solat yang dinazarkan",
+    "page": 609
+  },
+  {
+    "id": 237,
+    "category": "N",
+    "title": "Kewajipan solat dalam keadaan yang tidak memungkinkan",
+    "page": 610
+  },
+  {
+    "id": 238,
+    "category": "N",
+    "title": "Niat jamak di tengah solat",
+    "page": 610
+  },
+  {
+    "id": 239,
+    "category": "N",
+    "title": "Musafir tanpa tujuan yang khusus",
+    "page": 610
+  },
+  {
+    "id": 240,
+    "category": "N",
+    "title": "Teringat barang tertinggal selepas menjamak dan mengqashar solat",
+    "page": 611
+  },
+  {
+    "id": 241,
+    "category": "N",
+    "title": "Batas dibolehkan jamak qashar bagi seorang pedagang",
+    "page": 611
+  },
+  {
+    "id": 242,
+    "category": "N",
+    "title": "Berwudhu’ antara 2 solat jamak",
+    "page": 611
+  },
+  {
+    "id": 243,
+    "category": "N",
+    "title": "Solat Rawatib ketika jamak",
+    "page": 612
+  },
+  {
+    "id": 244,
+    "category": "N",
+    "title": "Qadha’ solat dengan imam yang solat qashar",
+    "page": 613
+  },
+  {
+    "id": 245,
+    "category": "N",
+    "title": "Bermakmum kepada imam yang solat sempurna (mutim)",
+    "page": 613
+  },
+  {
+    "id": 246,
+    "category": "N",
+    "title": "Menginap di rumah saudara ketika dalam perjalanan musafir",
+    "page": 613
+  },
+  {
+    "id": 247,
+    "category": "N",
+    "title": "Mengqashar solat untuk rekreasi",
+    "page": 614
+  },
+  {
+    "id": 248,
+    "category": "N",
+    "title": "Menjamak solat kerana kesibukan yang sukar ditunda",
+    "page": 614
+  },
+  {
+    "id": 249,
+    "category": "N",
+    "title": "Solat sunat yang diharamkan pada 5 waktu tahrim",
+    "page": 615
+  },
+  {
+    "id": 250,
+    "category": "N",
+    "title": "Pengertian makruh tahrim",
+    "page": 617
+  },
+  {
+    "id": 251,
+    "category": "N",
+    "title": "Makruh solat yang tidak ada sebab pada waktu yang dilarang solat",
+    "page": 617
+  },
+  {
+    "id": 252,
+    "category": "N",
+    "title": "Solat sunat pada waktu malam lebih afdhal daripada solat sunat pada waktu siang",
+    "page": 618
+  },
+  {
+    "id": 253,
+    "category": "N",
+    "title": "Solat sunat yang dibaca kuat",
+    "page": 618
+  },
+  {
+    "id": 254,
+    "category": "N",
+    "title": "Solat sunat Fajar",
+    "page": 619
+  },
+  {
+    "id": 255,
+    "category": "N",
+    "title": "Mengqadha’ sunat sunat Rawatib",
+    "page": 620
+  },
+  {
+    "id": 256,
+    "category": "N",
+    "title": "Satu salam untuk 4 rakaat solat Rawatib",
+    "page": 620
+  },
+  {
+    "id": 257,
+    "category": "N",
+    "title": "Waktu solat sunat Isyraq",
+    "page": 620
+  },
+  {
+    "id": 258,
+    "category": "N",
+    "title": "Solat gerhana (bulan dan matahari) lebih daripada 2 rakaat",
+    "page": 621
+  },
+  {
+    "id": 259,
+    "category": "N",
+    "title": "Hukum solat Tahiyyatul Masjid",
+    "page": 621
+  },
+  {
+    "id": 260,
+    "category": "N",
+    "title": "Solat sunat Tahiyyatul Masjid setiap kali masuk ke masjid",
+    "page": 622
+  },
+  {
+    "id": 261,
+    "category": "N",
+    "title": "Solat sunat Tahiyyatul Masjid satu rakaat",
+    "page": 622
+  },
+  {
+    "id": 262,
+    "category": "N",
+    "title": "Keadaan solat Tahiyyatul Masjid boleh gugur",
+    "page": 623
+  },
+  {
+    "id": 263,
+    "category": "N",
+    "title": "Mengerjakan Tarawih secara berjemaah",
+    "page": 623
+  },
+  {
+    "id": 264,
+    "category": "N",
+    "title": "Jumlah rakaat solat Tarawih",
+    "page": 624
+  },
+  {
+    "id": 265,
+    "category": "N",
+    "title": "Berselawat dan taradhdhi antara rakaat solat Tarawih",
+    "page": 624
+  },
+  {
+    "id": 266,
+    "category": "N",
+    "title": "Solat Tarawih sebelum solat Isya’",
+    "page": 625
+  },
+  {
+    "id": 267,
+    "category": "N",
+    "title": "Solat sunat Hari Raya khusus untuk umat Nabi Muhammad ﷺ",
+    "page": 625
+  },
+  {
+    "id": 268,
+    "category": "N",
+    "title": "2 rakaat solat Hari Raya (Aidil Fitri dan Aidil Adha)",
+    "page": 626
+  },
+  {
+    "id": 269,
+    "category": "N",
+    "title": "Solat Hari Raya (Aidil Fitri dan Aidil Adha) dikerjakan secara berjemaah",
+    "page": 627
+  },
+  {
+    "id": 270,
+    "category": "N",
+    "title": "Solat sunat Hari Raya di tanah lapang",
+    "page": 627
+  },
+  {
+    "id": 271,
+    "category": "N",
+    "title": "Makan dahulu sebelum menunaikan solat sunat Hari Raya Aidil Fitri",
+    "page": 628
+  },
+  {
+    "id": 272,
+    "category": "N",
+    "title": "Hari Raya jatuh pada hari Jumaat",
+    "page": 629
+  },
+  {
+    "id": 273,
+    "category": "N",
+    "title": "Khutbah Hari Raya sebelum ibtu Hari Raya",
+    "page": 629
+  },
+  {
+    "id": 274,
+    "category": "N",
+    "title": "Hukum dan cara solat sunat Awwabin",
+    "page": 630
+  },
+  {
+    "id": 275,
+    "category": "N",
+    "title": "Sunat menjadikan solat Witir sebagai penutup solat malam",
+    "page": 630
+  },
+  {
+    "id": 276,
+    "category": "N",
+    "title": "Boleh solat Witir 3 rakaat sekali gus",
+    "page": 630
+  },
+  {
+    "id": 277,
+    "category": "N",
+    "title": "Qunut dalam solat Witir pada malam separuh kedua bulan Ramadhan",
+    "page": 630
+  },
+  {
+    "id": 278,
+    "category": "N",
+    "title": "Surah yang dibaca dalam solat Witir",
+    "page": 631
+  },
+  {
+    "id": 279,
+    "category": "N",
+    "title": "Solat Tahajjud selepas Witir",
+    "page": 631
+  },
+  {
+    "id": 280,
+    "category": "N",
+    "title": "Solat Witir dua kali",
+    "page": 633
+  },
+  {
+    "id": 281,
+    "category": "N",
+    "title": "Hukum sujud tilawah",
+    "page": 634
+  },
+  {
+    "id": 282,
+    "category": "N",
+    "title": "Cara melakukan sujud tilawah dalam solat",
+    "page": 636
+  },
+  {
+    "id": 283,
+    "category": "N",
+    "title": "Cara melakukan sujud tilawah di luar solat",
+    "page": 636
+  },
+  {
+    "id": 284,
+    "category": "N",
+    "title": "Perbezaan antara sujud sahwi dan sujud tilawah",
+    "page": 638
+  },
+  {
+    "id": 285,
+    "category": "N",
+    "title": "Maksud bacaan masyru‘ (مشروع) dalam sujud tilawah",
+    "page": 639
+  },
+  {
+    "id": 286,
+    "category": "N",
+    "title": "Sujud mengikut sujud orang yang membaca ayat sujud tilawah",
+    "page": 640
+  },
+  {
+    "id": 287,
+    "category": "N",
+    "title": "Sujud tilawah kerana mendengar bacaan burung",
+    "page": 640
+  },
+  {
+    "id": 288,
+    "category": "N",
+    "title": "Mendengar ayat sajadah daripada radio",
+    "page": 641
+  },
+  {
+    "id": 289,
+    "category": "N",
+    "title": "Ketetapan sujud syukur",
+    "page": 641
+  },
+  {
+    "id": 290,
+    "category": "N",
+    "title": "Beberapa perkara tentang sujud syukur",
+    "page": 641
+  },
+  {
+    "id": 291,
+    "category": "N",
+    "title": "Hukum sujud sahwi",
+    "page": 642
+  },
+  {
+    "id": 292,
+    "category": "N",
+    "title": "Sujud sahwi dalam solat fardhu dan solat sunat",
+    "page": 643
+  },
+  {
+    "id": 293,
+    "category": "N",
+    "title": "Bertakbir ketika hendak sujud sahwi",
+    "page": 643
+  },
+  {
+    "id": 294,
+    "category": "N",
+    "title": "Melakukan sujud sahwi walaupun tidak ada yang lupa (iaitu solat sudah sempurna)",
+    "page": 643
+  },
+  {
+    "id": 295,
+    "category": "N",
+    "title": "Meninggalkan sebahagian bacaan dalam doa qunut Subuh",
+    "page": 644
+  },
+  {
+    "id": 296,
+    "category": "N",
+    "title": "Mengikuti imam dalam sujud sahwi",
+    "page": 644
+  },
+  {
+    "id": 297,
+    "category": "N",
+    "title": "Makmum lupa, imam tidak",
+    "page": 645
+  },
+  {
+    "id": 298,
+    "category": "N",
+    "title": "Sujud sahwi dalam solat jenazah",
+    "page": 645
+  },
+  {
+    "id": 299,
+    "category": "N",
+    "title": "Niat ketika sujud sahwi",
+    "page": 645
+  },
+  {
+    "id": 300,
+    "category": "N",
+    "title": "Hukum imam berniat menjadi imam",
+    "page": 646
+  },
+  {
+    "id": 301,
+    "category": "N",
+    "title": "Imam ragu-ragu dalam niat",
+    "page": 647
+  },
+  {
+    "id": 302,
+    "category": "N",
+    "title": "Imam terbatal wudhu’",
+    "page": 648
+  },
+  {
+    "id": 303,
+    "category": "N",
+    "title": "Imam solat duduk",
+    "page": 648
+  },
+  {
+    "id": 304,
+    "category": "N",
+    "title": "Jarak imam dan makmum",
+    "page": 649
+  },
+  {
+    "id": 305,
+    "category": "N",
+    "title": "Imam menambah satu lagi rakaat",
+    "page": 650
+  },
+  {
+    "id": 306,
+    "category": "N",
+    "title": "Menyaringkan suara dalam takbir dan tasmi’",
+    "page": 652
+  },
+  {
+    "id": 307,
+    "category": "N",
+    "title": "Imam berpaling daripada kiblat selepas memberi salam",
+    "page": 652
+  },
+  {
+    "id": 308,
+    "category": "N",
+    "title": "Kedudukan imam lelaki bersama jemaah perempuan",
+    "page": 653
+  },
+  {
+    "id": 309,
+    "category": "N",
+    "title": "Kedudukan imam perempuan bersama jemaah perempuan",
+    "page": 653
+  },
+  {
+    "id": 310,
+    "category": "N",
+    "title": "Imam berhadas ketika membaca surah Al-Fatihah dan ketika duduk",
+    "page": 654
+  },
+  {
+    "id": 311,
+    "category": "N",
+    "title": "Menjadi makmum kepada orang yang berhadas",
+    "page": 655
+  },
+  {
+    "id": 312,
+    "category": "N",
+    "title": "Tempat makmum seorang diri berdiri dekat dengan imam",
+    "page": 656
+  },
+  {
+    "id": 313,
+    "category": "N",
+    "title": "Imam berdehem-dehem",
+    "page": 656
+  },
+  {
+    "id": 314,
+    "category": "N",
+    "title": "Imam tidak naik ke rakaat yang ketiga selepas tahiyyat awal",
+    "page": 657
+  },
+  {
+    "id": 315,
+    "category": "N",
+    "title": "Imam tidak membaca basmalah ketika membaca surah Al-Fatihah",
+    "page": 657
+  },
+  {
+    "id": 316,
+    "category": "N",
+    "title": "Orang buta menjadi imam",
+    "page": 658
+  },
+  {
+    "id": 317,
+    "category": "N",
+    "title": "Imam Tarawih terlalu cepat",
+    "page": 658
+  },
+  {
+    "id": 318,
+    "category": "N",
+    "title": "Siapa yang layak menjadi imam antara seorang yang alim dalam feqah dan seorang yang hafaz Al-Qur’an",
+    "page": 659
+  },
+  {
+    "id": 319,
+    "category": "N",
+    "title": "Perempuan menjadi imam kepada kanak-kanak",
+    "page": 659
+  },
+  {
+    "id": 320,
+    "category": "N",
+    "title": "Imam berwudhu’ dan makmum bertayammum dan sebaliknya",
+    "page": 660
+  },
+  {
+    "id": 321,
+    "category": "N",
+    "title": "Makmum berdiri sama (sejajar) dengan imam",
+    "page": 660
+  },
+  {
+    "id": 322,
+    "category": "N",
+    "title": "Makmum tidak tahu imam dalam keadaan berhadas atau mempunyai najis",
+    "page": 661
+  },
+  {
+    "id": 323,
+    "category": "N",
+    "title": "Makmum berniat makmum ketika tengah solat",
+    "page": 664
+  },
+  {
+    "id": 324,
+    "category": "N",
+    "title": "Mengingatkan imam yang lupa",
+    "page": 664
+  },
+  {
+    "id": 325,
+    "category": "N",
+    "title": "Membaca doa iftitah atau mendengar bacaan imam",
+    "page": 665
+  },
+  {
+    "id": 326,
+    "category": "N",
+    "title": "Makmum wajib membaca Al-Fatihah",
+    "page": 665
+  },
+  {
+    "id": 327,
+    "category": "N",
+    "title": "Makmum lupa membaca Al-Fatihah",
+    "page": 666
+  },
+  {
+    "id": 328,
+    "category": "N",
+    "title": "Makmum lupa tidak membaca Al-Fatihah ketika sedang rukuk",
+    "page": 667
+  },
+  {
+    "id": 329,
+    "category": "N",
+    "title": "Syarat makmum masbuk mendapat rakaat dan gugur Al-Fatihah",
+    "page": 668
+  },
+  {
+    "id": 330,
+    "category": "N",
+    "title": "Membaca: “Sami‘allahu liman hamidah” untuk imam dan makmum",
+    "page": 669
+  },
+  {
+    "id": 331,
+    "category": "N",
+    "title": "Bermakmumkan makmum yang masbuk, apakah mendapat pahala berjemaah?",
+    "page": 669
+  },
+  {
+    "id": 332,
+    "category": "N",
+    "title": "Makmum masbuk menjadi imam",
+    "page": 671
+  },
+  {
+    "id": 333,
+    "category": "N",
+    "title": "Masbuk dengan imam yang bangun pada rakaat tambahan",
+    "page": 672
+  },
+  {
+    "id": 334,
+    "category": "N",
+    "title": "Keadaan imam dan makmum berada di dalam dan di luar masjid",
+    "page": 673
+  },
+  {
+    "id": 335,
+    "category": "N",
+    "title": "Berada di tingkat atas menjadi makmum dalam solat berjemaah dan imam di tingkat bawah",
+    "page": 673
+  },
+  {
+    "id": 336,
+    "category": "N",
+    "title": "Makmum mengetahui pergerakan imam melalui pembesar suara (loud speaker)",
+    "page": 676
+  },
+  {
+    "id": 337,
+    "category": "N",
+    "title": "Rabith seorang perempuan",
+    "page": 678
+  },
+  {
+    "id": 338,
+    "category": "N",
+    "title": "Muballigh dalam solat",
+    "page": 678
+  },
+  {
+    "id": 339,
+    "category": "N",
+    "title": "Takbir muballigh sama dengan takbir imam",
+    "page": 678
+  },
+  {
+    "id": 340,
+    "category": "N",
+    "title": "Lampu padam ketika solat berjemaah",
+    "page": 679
+  },
+  {
+    "id": 341,
+    "category": "N",
+    "title": "Makmum mengikut imam sujud sahwi",
+    "page": 679
+  },
+  {
+    "id": 342,
+    "category": "N",
+    "title": "Makmum sama (serentak) atau lebih dahulu daripada imam",
+    "page": 680
+  },
+  {
+    "id": 343,
+    "category": "N",
+    "title": "Dalam keadaan tertentu makmum wajib mendahului imam",
+    "page": 683
+  },
+  {
+    "id": 344,
+    "category": "N",
+    "title": "Menunggu imam salam pertama atau kedua?",
+    "page": 684
+  },
+  {
+    "id": 345,
+    "category": "N",
+    "title": "Makmum salam bersama imam",
+    "page": 685
+  },
+  {
+    "id": 346,
+    "category": "N",
+    "title": "Mengetahui perpindahan rukun solat imam (intiqal) melalui televisyen",
+    "page": 685
+  },
+  {
+    "id": 347,
+    "category": "N",
+    "title": "Orang yang menggantikan imam, bukan daripada jemaah solat",
+    "page": 686
+  },
+  {
+    "id": 348,
+    "category": "N",
+    "title": "Susunan jemaah perempuan",
+    "page": 687
+  },
+  {
+    "id": 349,
+    "category": "N",
+    "title": "Bermakmum kepada orang yang fasiq",
+    "page": 687
+  },
+  {
+    "id": 350,
+    "category": "N",
+    "title": "Sujud sahwi ketika imam meninggalkan mengerjakan sunat ab‘adh kerana lupa atau sengaja",
+    "page": 688
+  },
+  {
+    "id": 351,
+    "category": "N",
+    "title": "Dua jemaah solat di dua tingkat",
+    "page": 688
+  },
+  {
+    "id": 352,
+    "category": "N",
+    "title": "Saf di 2 tingkat",
+    "page": 688
+  },
+  {
+    "id": 353,
+    "category": "N",
+    "title": "Solat berjemaah di kampung, taman atau tempat tinggal",
+    "page": 689
+  },
+  {
+    "id": 354,
+    "category": "N",
+    "title": "Berpindah imam",
+    "page": 689
+  },
+  {
+    "id": 355,
+    "category": "N",
+    "title": "Jarak antara imam dan makmum",
+    "page": 690
+  },
+  {
+    "id": 356,
+    "category": "N",
+    "title": "Saf pertama solat berjemaah",
+    "page": 690
+  },
+  {
+    "id": 357,
+    "category": "N",
+    "title": "Makmum masbuk bangun sebelum imam memberi salam",
+    "page": 691
+  },
+  {
+    "id": 358,
+    "category": "N",
+    "title": "Makmum masbuk menyentuh bahu imam",
+    "page": 692
+  },
+  {
+    "id": 359,
+    "category": "N",
+    "title": "Orang yang tidak sah menjadi makmum",
+    "page": 693
+  },
+  {
+    "id": 360,
+    "category": "N",
+    "title": "Membaca 'alaihimas salam'",
+    "page": 693
+  },
+  {
+    "id": 361,
+    "category": "N",
+    "title": "Makmum berada di ruang lain",
+    "page": 693
+  },
+  {
+    "id": 362,
+    "category": "N",
+    "title": "Berjemaah dalam solat-solat sunat yang tidak sunat berjemaah",
+    "page": 694
+  },
+  {
+    "id": 363,
+    "category": "N",
+    "title": "Makmum tidak melakukan tashahhud, terus berdiri",
+    "page": 696
+  },
+  {
+    "id": 364,
+    "category": "N",
+    "title": "Makmum terlambat membaca doa qunut",
+    "page": 696
+  },
+  {
+    "id": 365,
+    "category": "N",
+    "title": "Hukum makmum qari’ bermakmum imam ummi",
+    "page": 696
+  },
+  {
+    "id": 366,
+    "category": "N",
+    "title": "Imam duduk istirahat tetapi makmum tidak melakukannya atau sebaliknya",
+    "page": 697
+  },
+  {
+    "id": 367,
+    "category": "N",
+    "title": "Hukum mengqadha’ solat",
+    "page": 698
+  },
+  {
+    "id": 368,
+    "category": "N",
+    "title": "Meninggalkan solat dengan mengingkari kewajipannya adalah kufur",
+    "page": 699
+  },
+  {
+    "id": 369,
+    "category": "N",
+    "title": "Wajib qadha’ solat kepada orang yang lupa dan orang yang tidur",
+    "page": 699
+  },
+  {
+    "id": 370,
+    "category": "N",
+    "title": "Hukum meninggalkan solat kerana malas",
+    "page": 700
+  },
+  {
+    "id": 371,
+    "category": "N",
+    "title": "Hilang akal kerana sesuatu yang tidak diharamkan",
+    "page": 701
+  },
+  {
+    "id": 372,
+    "category": "N",
+    "title": "Meninggal dunia dalam keadaan mempunyai hutang solat",
+    "page": 701
+  },
+  {
+    "id": 373,
+    "category": "N",
+    "title": "Tidak ingat berapa banyak solat yang perlu diqadha’kan",
+    "page": 704
+  },
+  {
+    "id": 374,
+    "category": "N",
+    "title": "Mengerjakan solat sunat dalam keadaan masih ada solat qadha’",
+    "page": 706
+  },
+  {
+    "id": 375,
+    "category": "N",
+    "title": "Solat qadha’ secara berjemaah",
+    "page": 707
+  },
+  {
+    "id": 376,
+    "category": "N",
+    "title": "Mengqadha’ solat orang yang sudah meninggal dunia",
+    "page": 707
+  },
+  {
+    "id": 377,
+    "category": "N",
+    "title": "Mengqadha’ solat bagi orang nyanyuk (pikun)",
+    "page": 707
+  },
+  {
+    "id": 378,
+    "category": "N",
+    "title": "Mengqadha’ solat bagi orang yang dibius",
+    "page": 708
+  },
+  {
+    "id": 379,
+    "category": "N",
+    "title": "Pengertian thaharah",
+    "page": 709
+  },
+  {
+    "id": 380,
+    "category": "N",
+    "title": "Air yang boleh digunakan untuk bersuci",
+    "page": 709
+  },
+  {
+    "id": 381,
+    "category": "N",
+    "title": "Thaharah (bersuci) adalah syarat sah solat",
+    "page": 710
+  },
+  {
+    "id": 382,
+    "category": "N",
+    "title": "Aurat dalam solat",
+    "page": 711
+  },
+  {
+    "id": 383,
+    "category": "N",
+    "title": "Pakaian terbuka ketika solat",
+    "page": 713
+  },
+  {
+    "id": 384,
+    "category": "N",
+    "title": "Memakai pakaian ketat",
+    "page": 713
+  },
+  {
+    "id": 385,
+    "category": "N",
+    "title": "Pakaian nipis",
+    "page": 714
+  },
+  {
+    "id": 386,
+    "category": "N",
+    "title": "Pakaian atau sejadah ada gambar",
+    "page": 715
+  },
+  {
+    "id": 387,
+    "category": "N",
+    "title": "Solat dengan pakaian yang haram",
+    "page": 716
+  },
+  {
+    "id": 388,
+    "category": "N",
+    "title": "Solat dengan tali pinggang daripada kulit ular",
+    "page": 716
+  },
+  {
+    "id": 389,
+    "category": "N",
+    "title": "Pakaian terkena najis ketika solat di masjid",
+    "page": 718
+  },
+  {
+    "id": 390,
+    "category": "N",
+    "title": "Tahi cicak terkena baju ketika solat",
+    "page": 719
+  },
+  {
+    "id": 391,
+    "category": "N",
+    "title": "Pakaian terkena lumpur di tepi jalan",
+    "page": 719
+  },
+  {
+    "id": 392,
+    "category": "N",
+    "title": "Pakaian terkena darah",
+    "page": 720
+  },
+  {
+    "id": 393,
+    "category": "N",
+    "title": "Afdhal solat memakai dua pakaian",
+    "page": 720
+  },
+  {
+    "id": 394,
+    "category": "N",
+    "title": "Hukum solat dengan memakai pakaian bukan Islam",
+    "page": 720
+  },
+  {
+    "id": 395,
+    "category": "N",
+    "title": "Memakai serban dan pakaian putih dalam solat dan ziarah kubur",
+    "page": 721
+  },
+  {
+    "id": 396,
+    "category": "N",
+    "title": "Solat menggunakan stokin atau sarung tangan",
+    "page": 722
+  },
+  {
+    "id": 397,
+    "category": "N",
+    "title": "Kadar lubang pada kain yang boleh membatalkan solat",
+    "page": 723
+  },
+  {
+    "id": 398,
+    "category": "N",
+    "title": "Melihat lubang pada pakaian selepas solat",
+    "page": 723
+  },
+  {
+    "id": 399,
+    "category": "N",
+    "title": "Membawa bangkai nyamuk dan semut ketika solat",
+    "page": 723
+  },
+  {
+    "id": 400,
+    "category": "N",
+    "title": "Menghadap kiblat dalam solat",
+    "page": 724
+  },
+  {
+    "id": 401,
+    "category": "N",
+    "title": "Menghadap kiblat adalah syarat sah solat",
+    "page": 724
+  },
+  {
+    "id": 402,
+    "category": "N",
+    "title": "Kewajipan menghadap kiblat bagi orang sakit",
+    "page": 725
+  },
+  {
+    "id": 403,
+    "category": "N",
+    "title": "Dialih daripada kiblat dan ditahan daripada rukuk ketika solat",
+    "page": 725
+  },
+  {
+    "id": 404,
+    "category": "N",
+    "title": "Kiblat solat sunat di atas haiwan tunggangan (kenderaan) ketika musafir",
+    "page": 726
+  },
+  {
+    "id": 405,
+    "category": "N",
+    "title": "Solat di atas kapal",
+    "page": 726
+  },
+  {
+    "id": 406,
+    "category": "N",
+    "title": "Menghadap kiblat 'sebelah barat'",
+    "page": 726
+  },
+  {
+    "id": 407,
+    "category": "N",
+    "title": "Beberapa keadaan menghadap kiblat",
+    "page": 727
+  },
+  {
+    "id": 408,
+    "category": "N",
+    "title": "Solat menghadap sutrah",
+    "page": 728
+  },
+  {
+    "id": 409,
+    "category": "N",
+    "title": "Lalu di hadapan orang yang sedang solat yang telah diletakkan pembatas (sutrah)",
+    "page": 730
+  },
+  {
+    "id": 410,
+    "category": "N",
+    "title": "Azan disyariatkan untuk solat lima waktu",
+    "page": 730
+  },
+  {
+    "id": 411,
+    "category": "N",
+    "title": "Sunat azan berdiri",
+    "page": 731
+  },
+  {
+    "id": 412,
+    "category": "N",
+    "title": "Azan dalam keadaan duduk",
+    "page": 731
+  },
+  {
+    "id": 413,
+    "category": "N",
+    "title": "Perempuan tidak diwajibkan azan dan iqamah",
+    "page": 732
+  },
+  {
+    "id": 414,
+    "category": "N",
+    "title": "Tidak ada azan dan iqamah dalam solat Istisqa’ (minta hujan)",
+    "page": 733
+  },
+  {
+    "id": 415,
+    "category": "N",
+    "title": "Selawat sebelum azan",
+    "page": 733
+  },
+  {
+    "id": 416,
+    "category": "N",
+    "title": "Mendengar azan ketika di dalam tandas",
+    "page": 734
+  },
+  {
+    "id": 417,
+    "category": "N",
+    "title": "Mendengar beberapa suara azan yang dilaungkan bersama",
+    "page": 734
+  },
+  {
+    "id": 418,
+    "category": "N",
+    "title": "Mendengar azan yang dilaungkan bukan untuk solat",
+    "page": 735
+  },
+  {
+    "id": 419,
+    "category": "N",
+    "title": "Tatswib (membaca: 'ash-shalatu khairum minan naum') ketika menjawab azan solat Subuh",
+    "page": 735
+  },
+  {
+    "id": 420,
+    "category": "N",
+    "title": "Pujian selepas azan",
+    "page": 736
+  },
+  {
+    "id": 421,
+    "category": "N",
+    "title": "Menjawab azan daripada media elektronik",
+    "page": 736
+  },
+  {
+    "id": 422,
+    "category": "N",
+    "title": "Menjawab azan daripada pembesar suara (loud speaker)",
+    "page": 736
+  },
+  {
+    "id": 423,
+    "category": "N",
+    "title": "Menjawab sebahagian azan",
+    "page": 737
+  },
+  {
+    "id": 424,
+    "category": "N",
+    "title": "Pembesar suara (loud speaker) sebagai pengganti menara",
+    "page": 737
+  },
+  {
+    "id": 425,
+    "category": "N",
+    "title": "Azan dan iqamah oleh orang yang berhadas",
+    "page": 737
+  },
+  {
+    "id": 426,
+    "category": "N",
+    "title": "Berdoa pada waktu di antara azan dan iqamah",
+    "page": 738
+  },
+  {
+    "id": 427,
+    "category": "N",
+    "title": "Solat tanpa iqamah",
+    "page": 739
+  },
+  {
+    "id": 428,
+    "category": "N",
+    "title": "Menutup aurat menjadi syarat sah solat",
+    "page": 741
+  },
+  {
+    "id": 429,
+    "category": "N",
+    "title": "Solat tetapi nampak telapak kaki bagi perempuan?",
+    "page": 741
+  },
+  {
+    "id": 430,
+    "category": "N",
+    "title": "Solat nampak dagu, pergelangan tangan (ketika diangkat), betis bagi perempuan yang memakai stokin (ketika sujud)",
+    "page": 741
+  },
+  {
+    "id": 431,
+    "category": "N",
+    "title": "Ruang lebih pada sejadah",
+    "page": 743
+  },
+  {
+    "id": 432,
+    "category": "N",
+    "title": "Perempuan mustahadhah tetap solat",
+    "page": 744
+  },
+  {
+    "id": 433,
+    "category": "N",
+    "title": "Perempuan haid dan nifas tidak boleh solat dan tidak qadha’",
+    "page": 744
+  },
+  {
+    "id": 434,
+    "category": "N",
+    "title": "Haid setelah masuk waktu solat",
+    "page": 745
+  },
+  {
+    "id": 435,
+    "category": "N",
+    "title": "Haid berhenti sebelum habis waktu solat",
+    "page": 745
+  },
+  {
+    "id": 436,
+    "category": "N",
+    "title": "Tidak tahu secara pasti perbuatan dalam solat antara yang fardhu dan sunat",
+    "page": 746
+  },
+  {
+    "id": 437,
+    "category": "N",
+    "title": "Solat yang tidak ada qunut",
+    "page": 746
+  },
+  {
+    "id": 438,
+    "category": "N",
+    "title": "Tempat makruh membaca Al-Qur’an ketika solat",
+    "page": 747
+  },
+  {
+    "id": 439,
+    "category": "N",
+    "title": "Bilakah Qunut Nazilah disunatkan dibaca?",
+    "page": 747
+  },
+  {
+    "id": 440,
+    "category": "N",
+    "title": "Lalu di hadapan orang yang sedang solat (mushalli)",
+    "page": 749
+  },
+  {
+    "id": 441,
+    "category": "N",
+    "title": "Bersalam-salaman selepas solat",
+    "page": 750
+  },
+  {
+    "id": 442,
+    "category": "N",
+    "title": "Keadaan solat Subuh dan Asar di akhir waktu sehingga masuk waktu solat lain",
+    "page": 751
+  },
+  {
+    "id": 443,
+    "category": "N",
+    "title": "Membatalkan solat kerana menenangkan anak kecil yang menangis",
+    "page": 752
+  },
+  {
+    "id": 444,
+    "category": "N",
+    "title": "Solat qashar tetapi tidak tahu hukumnya",
+    "page": 752
+  },
+  {
+    "id": 445,
+    "category": "N",
+    "title": "Membentangkan sejadah kepada orang lain ketika dia solat",
+    "page": 753
+  },
+  {
+    "id": 446,
+    "category": "N",
+    "title": "Luka di tangan dan lutut",
+    "page": 753
+  },
+  {
+    "id": 447,
+    "category": "N",
+    "title": "Duduk ketika berdiri dalam solat",
+    "page": 754
+  },
+  {
+    "id": 448,
+    "category": "N",
+    "title": "Solat di dalam bas",
+    "page": 755
+  },
+  {
+    "id": 449,
+    "category": "N",
+    "title": "Buta dan pekak sejak lahir",
+    "page": 755
+  },
+  {
+    "id": 450,
+    "category": "N",
+    "title": "Terus-menerus solat fardhu di satu tempat",
+    "page": 755
+  },
+  {
+    "id": 451,
+    "category": "N",
+    "title": "Keadaan solat kembar Siam",
+    "page": 756
+  },
+  {
+    "id": 452,
+    "category": "N",
+    "title": "Keadaan wajib mengulang solat bagi orang yang bertayammum",
+    "page": 757
+  },
+  {
+    "id": 453,
+    "category": "N",
+    "title": "Berjumpa air ketika tengah solat",
+    "page": 757
+  },
+  {
+    "id": 454,
+    "category": "N",
+    "title": "Tayammum untuk 2 solat fardhu kerana luka",
+    "page": 758
+  },
+  {
+    "id": 455,
+    "category": "N",
+    "title": "Tersentuh perempuan haid ketika solat",
+    "page": 758
+  },
+  {
+    "id": 456,
+    "category": "N",
+    "title": "Mengqadha’kan solat yang ditinggalkan sewaktu haid ketika suci",
+    "page": 758
+  },
+  {
+    "id": 457,
+    "category": "N",
+    "title": "Tarhim sebelum solat Subuh",
+    "page": 759
+  },
+  {
+    "id": 458,
+    "category": "N",
+    "title": "Membangunkan orang yang belum solat",
+    "page": 759
+  },
+  {
+    "id": 459,
+    "category": "N",
+    "title": "Lupa solat kerana belajar",
+    "page": 760
+  },
+  {
+    "id": 460,
+    "category": "N",
+    "title": "Lupa solat kerana bermain game",
+    "page": 760
+  },
+  {
+    "id": 461,
+    "category": "N",
+    "title": "Solat sambil menggendong atau menyentuh anak kecil yang belum dikhitan",
+    "page": 761
+  },
+  {
+    "id": 462,
+    "category": "N",
+    "title": "Sujud selepas solat",
+    "page": 761
+  },
+  {
+    "id": 463,
+    "category": "N",
+    "title": "Wirid selepas solat",
+    "page": 762
+  },
+  {
+    "id": 464,
+    "category": "N",
+    "title": "Membaca jahar (kuat) ketika solat bersendirian (munfarid) untuk solat-solat yang disunatkan jahar",
+    "page": 762
+  },
+  {
+    "id": 465,
+    "category": "N",
+    "title": "Bacaan perlahan dalam doa qunut",
+    "page": 762
+  },
+  {
+    "id": 466,
+    "category": "N",
+    "title": "Gusi berdarah ketika solat",
+    "page": 763
+  },
+  {
+    "id": 467,
+    "category": "N",
+    "title": "Basmalah sebelum solat",
+    "page": 763
+  },
+  {
+    "id": 468,
+    "category": "N",
+    "title": "Siapa yang berkewajipan menyuruh anak untuk solat",
+    "page": 764
+  },
+  {
+    "id": 469,
+    "category": "N",
+    "title": "Memukul anaknya untuk menyuruhnya solat",
+    "page": 764
+  }
+]
