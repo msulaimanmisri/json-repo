@@ -1,1 +1,68 @@
-
+[
+  {
+    "id": 1,
+    "category": "L",
+    "title": "Memakai handy plus ketika berwudhu’",
+    "page": 429
+  },
+  {
+    "id": 2,
+    "category": "L",
+    "title": "Mengusap balutan dengan rata",
+    "page": 430
+  },
+  {
+    "id": 3,
+    "category": "L",
+    "title": "Darah meresap pada balutan",
+    "page": 431
+  },
+  {
+    "id": 4,
+    "category": "L",
+    "title": "Balutan berlumuran darah",
+    "page": 431
+  },
+  {
+    "id": 5,
+    "category": "L",
+    "title": "Balutan terlepas ketika solat",
+    "page": 431
+  },
+  {
+    "id": 6,
+    "category": "L",
+    "title": "Keadaan seluruh tubuh dibalut",
+    "page": 432
+  },
+  {
+    "id": 7,
+    "category": "L",
+    "title": "Balutan lebih daripada satu",
+    "page": 433
+  },
+  {
+    "id": 8,
+    "category": "L",
+    "title": "Bersuci dengan tayammum sebelum memakai balutan",
+    "page": 435
+  },
+  {
+    "id": 9,
+    "category": "L",
+    "title": "Niat tayammum ketika meminta tolong kepada orang lain untuk ditayammumkan",
+    "page": 435
+  },
+  {
+    "id": 10,
+    "category": "L",
+    "title": "Cara berwudhu’ dan bertayammum pada anggota yang ada balutan atau tampalan",
+    "page": 435
+  },
+  {
+    "id": 11,
+    "category": "L",
+    "title": "Qadha’ solat untuk orang yang memakai balutan",
+    "page": 449
+  }
+]
