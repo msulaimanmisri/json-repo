@@ -1,1 +1,801 @@
 
+[
+  {
+    "id": 1,
+    "category": "J",
+    "title": "Hukum wudhu’",
+    "page": 291
+  },
+  {
+    "id": 2,
+    "category": "J",
+    "title": "Wudhu’ sebelum masuk waktu solat",
+    "page": 292
+  },
+  {
+    "id": 3,
+    "category": "J",
+    "title": "Berwudhu’ dan bersuci dengan air mutlak",
+    "page": 292
+  },
+  {
+    "id": 4,
+    "category": "J",
+    "title": "Berwudhu’ dengan air mineral",
+    "page": 293
+  },
+  {
+    "id": 5,
+    "category": "J",
+    "title": "Air musabbal li asy-syurbi",
+    "page": 293
+  },
+  {
+    "id": 6,
+    "category": "J",
+    "title": "Berwudhu’ dengan air limbah dan air mutanajjis yang mengalami proses reverse osmosis (RO)",
+    "page": 294
+  },
+  {
+    "id": 7,
+    "category": "J",
+    "title": "Berwudhu’ dengan air rebus",
+    "page": 294
+  },
+  {
+    "id": 8,
+    "category": "J",
+    "title": "Berwudhu’ dengan air kelapa",
+    "page": 295
+  },
+  {
+    "id": 9,
+    "category": "J",
+    "title": "Berwudhu’ dengan salji atau embun",
+    "page": 295
+  },
+  {
+    "id": 10,
+    "category": "J",
+    "title": "Berwudhu’ dengan air sabun",
+    "page": 295
+  },
+  {
+    "id": 11,
+    "category": "J",
+    "title": "Yakin berwudhu’ dengan air suci dan menyucikan, tetapi sebenarnya tidak menyucikan",
+    "page": 296
+  },
+  {
+    "id": 12,
+    "category": "J",
+    "title": "Fardhu wudhu’ 6 perkara",
+    "page": 297
+  },
+  {
+    "id": 13,
+    "category": "J",
+    "title": "Berkumur-kumur (madhmadhah) dan menyedut air ke dalam hidup (istinsyaq)",
+    "page": 298
+  },
+  {
+    "id": 14,
+    "category": "J",
+    "title": "Niat dan lafaz ketika berwudhu’",
+    "page": 299
+  },
+  {
+    "id": 15,
+    "category": "J",
+    "title": "Antara lafaz niat wudhu’",
+    "page": 301
+  },
+  {
+    "id": 16,
+    "category": "J",
+    "title": "Niat wudhu’ untuk menyentuh atau membawa Al-Qur’an boleh dipakai untuk solat",
+    "page": 301
+  },
+  {
+    "id": 17,
+    "category": "J",
+    "title": "Wudhu’ dengan niat thaharah (bersuci)",
+    "page": 302
+  },
+  {
+    "id": 18,
+    "category": "J",
+    "title": "Ragu-ragu sudah berniat wudhu’ atau belum",
+    "page": 303
+  },
+  {
+    "id": 19,
+    "category": "J",
+    "title": "Kesempurnaan membasuh muka",
+    "page": 303
+  },
+  {
+    "id": 20,
+    "category": "J",
+    "title": "Wajib dalam bersuci pada anggota wudhu’ hanyalah sekali",
+    "page": 304
+  },
+  {
+    "id": 21,
+    "category": "J",
+    "title": "Menyampaikan air ke kulit pada janggut",
+    "page": 304
+  },
+  {
+    "id": 22,
+    "category": "J",
+    "title": "Mengusap janggut selepas membasuh muka",
+    "page": 305
+  },
+  {
+    "id": 23,
+    "category": "J",
+    "title": "Menyela janggut dalam wudhu’ bukan wajib",
+    "page": 305
+  },
+  {
+    "id": 24,
+    "category": "J",
+    "title": "Kadar tebal janggut",
+    "page": 305
+  },
+  {
+    "id": 25,
+    "category": "J",
+    "title": "Membasuh rambut (side burn) di bahagian tellinga bagi peremptuan",
+    "page": 306
+  },
+  {
+    "id": 26,
+    "category": "J",
+    "title": "Membasuh tangan dan kaki palsu",
+    "page": 306
+  },
+  {
+    "id": 27,
+    "category": "J",
+    "title": "Afdhal mendahulukan yang kanan daripada yang kiri",
+    "page": 308
+  },
+  {
+    "id": 28,
+    "category": "J",
+    "title": "Kuku termasuk anggota wudhu’",
+    "page": 308
+  },
+  {
+    "id": 29,
+    "category": "J",
+    "title": "Kadar menyapu rambut ketika berwudhu’",
+    "page": 308
+  },
+  {
+    "id": 30,
+    "category": "J",
+    "title": "Membasuh kepala",
+    "page": 309
+  },
+  {
+    "id": 31,
+    "category": "J",
+    "title": "Mengusap rambut panjang",
+    "page": 309
+  },
+  {
+    "id": 32,
+    "category": "J",
+    "title": "Mengusap serban ketika berwudhu’",
+    "page": 310
+  },
+  {
+    "id": 33,
+    "category": "J",
+    "title": "Mengusap bahagian belakang tellinga",
+    "page": 311
+  },
+  {
+    "id": 34,
+    "category": "J",
+    "title": "Hukum membasuh leher",
+    "page": 311
+  },
+  {
+    "id": 35,
+    "category": "J",
+    "title": "Tatslits dalam mengusap kepala",
+    "page": 312
+  },
+  {
+    "id": 36,
+    "category": "J",
+    "title": "Wajib tertib dalam wudhu’",
+    "page": 312
+  },
+  {
+    "id": 37,
+    "category": "J",
+    "title": "Satu pengecualian dalam perkara tertib",
+    "page": 314
+  },
+  {
+    "id": 38,
+    "category": "J",
+    "title": "Berwudhu’ dengan menyelam",
+    "page": 314
+  },
+  {
+    "id": 39,
+    "category": "J",
+    "title": "Waktu niat ightiraf (menjadikan tangan sebagai gayung ketika mencedok)",
+    "page": 316
+  },
+  {
+    "id": 40,
+    "category": "J",
+    "title": "Luka darah kering",
+    "page": 316
+  },
+  {
+    "id": 41,
+    "category": "J",
+    "title": "Luka yang tidak dibalut",
+    "page": 317
+  },
+  {
+    "id": 42,
+    "category": "J",
+    "title": "Perkara-perkara makruh ketika berwudhu’",
+    "page": 317
+  },
+  {
+    "id": 43,
+    "category": "J",
+    "title": "Berwudhu’ sambil bercakap",
+    "page": 318
+  },
+  {
+    "id": 44,
+    "category": "J",
+    "title": "Mengelap bekas air wudhu’",
+    "page": 318
+  },
+  {
+    "id": 45,
+    "category": "J",
+    "title": "Berwudhu’ di billik mandi",
+    "page": 321
+  },
+  {
+    "id": 46,
+    "category": "J",
+    "title": "Berwudhu’ di tandas",
+    "page": 321
+  },
+  {
+    "id": 47,
+    "category": "J",
+    "title": "Membasuh tangan dari siku ketika berwudhu’",
+    "page": 322
+  },
+  {
+    "id": 48,
+    "category": "J",
+    "title": "Mengibas-ngibas air wudhu’",
+    "page": 323
+  },
+  {
+    "id": 49,
+    "category": "J",
+    "title": "Membaca doa wudhu’ dalam tandas",
+    "page": 323
+  },
+  {
+    "id": 50,
+    "category": "J",
+    "title": "Israf (berlebih-lebihan) dalam wudhu’ atau mandi",
+    "page": 324
+  },
+  {
+    "id": 51,
+    "category": "J",
+    "title": "Perkara yang membatalkan wudhu’",
+    "page": 326
+  },
+  {
+    "id": 52,
+    "category": "J",
+    "title": "Umur yang boleh membatalkan wudhu’",
+    "page": 328
+  },
+  {
+    "id": 53,
+    "category": "J",
+    "title": "Tahi mata selepas berwudhu’",
+    "page": 332
+  },
+  {
+    "id": 54,
+    "category": "J",
+    "title": "Lubang ditebuk di perut untuk membuang najis",
+    "page": 333
+  },
+  {
+    "id": 55,
+    "category": "J",
+    "title": "Saluran kencing atau saluran buang air besar di badan",
+    "page": 335
+  },
+  {
+    "id": 56,
+    "category": "J",
+    "title": "Memegang dubur buatan",
+    "page": 338
+  },
+  {
+    "id": 57,
+    "category": "J",
+    "title": "Membasuh bahagian dalam kuku yang panjang",
+    "page": 338
+  },
+  {
+    "id": 58,
+    "category": "J",
+    "title": "Meminum minuman keras (seperti arak) membatalkan wudhu’",
+    "page": 338
+  },
+  {
+    "id": 59,
+    "category": "J",
+    "title": "Batal wudhu’ disebabkan tidur",
+    "page": 339
+  },
+  {
+    "id": 60,
+    "category": "J",
+    "title": "Mengantuk ketika menunggu waktu solat",
+    "page": 341
+  },
+  {
+    "id": 61,
+    "category": "J",
+    "title": "Ragu-ragu kedudukan duduk",
+    "page": 341
+  },
+  {
+    "id": 62,
+    "category": "J",
+    "title": "Wudhu’ bagi pesakit buasir",
+    "page": 342
+  },
+  {
+    "id": 63,
+    "category": "J",
+    "title": "Sesuatu keluar dari dubur",
+    "page": 342
+  },
+  {
+    "id": 64,
+    "category": "J",
+    "title": "Tidak yakin air kencing menitis ketika solat",
+    "page": 343
+  },
+  {
+    "id": 65,
+    "category": "J",
+    "title": "Tidak wajib berwudhu’ setelah memakan suatu makanan yang dibakar dengan api",
+    "page": 344
+  },
+  {
+    "id": 66,
+    "category": "J",
+    "title": "Gila dan pengsan membatalkan wudhu’",
+    "page": 345
+  },
+  {
+    "id": 67,
+    "category": "J",
+    "title": "Ragu-ragu apakah wudhu’ sah atau tidak",
+    "page": 345
+  },
+  {
+    "id": 68,
+    "category": "J",
+    "title": "Diberitahu keluar angin",
+    "page": 346
+  },
+  {
+    "id": 69,
+    "category": "J",
+    "title": "Duri di kaki",
+    "page": 347
+  },
+  {
+    "id": 70,
+    "category": "J",
+    "title": "Ragu-ragu membasuh anggota wudhu’",
+    "page": 349
+  },
+  {
+    "id": 71,
+    "category": "J",
+    "title": "Semata-mata keluar air mani tidak membatalkan wudhu’",
+    "page": 350
+  },
+  {
+    "id": 72,
+    "category": "J",
+    "title": "Terkejut boleh membatalkan wudhu’",
+    "page": 350
+  },
+  {
+    "id": 73,
+    "category": "J",
+    "title": "Air mesti sampai ke anggota wudhu’ ketika berwudhu’",
+    "page": 351
+  },
+  {
+    "id": 74,
+    "category": "J",
+    "title": "Wudhu’ memakai cincin dan jam tangan",
+    "page": 351
+  },
+  {
+    "id": 75,
+    "category": "J",
+    "title": "Bekas kosmetik ketika berwudhu’",
+    "page": 352
+  },
+  {
+    "id": 76,
+    "category": "J",
+    "title": "Sisik ikan pada anggota wudhu’",
+    "page": 353
+  },
+  {
+    "id": 77,
+    "category": "J",
+    "title": "Kotoran kuku di tangan dan kaki",
+    "page": 354
+  },
+  {
+    "id": 78,
+    "category": "J",
+    "title": "Minyak pada anggota wudhu’",
+    "page": 356
+  },
+  {
+    "id": 79,
+    "category": "J",
+    "title": "Hukum wudhu’ sekiranya ada warna atau dakwat marker",
+    "page": 357
+  },
+  {
+    "id": 80,
+    "category": "J",
+    "title": "Getah pokok menghalang air wudhu’",
+    "page": 357
+  },
+  {
+    "id": 81,
+    "category": "J",
+    "title": "Bedak menghalang air wudhu’",
+    "page": 357
+  },
+  {
+    "id": 82,
+    "category": "J",
+    "title": "Kulit terbakar",
+    "page": 358
+  },
+  {
+    "id": 83,
+    "category": "J",
+    "title": "Melihat cat di tangan selepas berwudhu’",
+    "page": 358
+  },
+  {
+    "id": 84,
+    "category": "J",
+    "title": "Kulit kering menghalang air wudhu’",
+    "page": 359
+  },
+  {
+    "id": 85,
+    "category": "J",
+    "title": "Perbezaan antara orang yang menyentuh (al-lamis/ الْمَاسِعِ) dengan orang yang disentuh (al-malmus/ الْمَلْمُوسِ) dan hukum kedua-duanya",
+    "page": 359
+  },
+  {
+    "id": 86,
+    "category": "J",
+    "title": "Perbezaan antara 'lamas' (لَمَسَ) (sentuh) dan 'mass' (مَسَّ) (pegang)",
+    "page": 361
+  },
+  {
+    "id": 87,
+    "category": "J",
+    "title": "Syarat bersentuh yang membatalkan wudhu’",
+    "page": 361
+  },
+  {
+    "id": 88,
+    "category": "J",
+    "title": "Kadar perut tapak tangan yang wudhu’ menjadi batal jika menyentuhnya",
+    "page": 362
+  },
+  {
+    "id": 89,
+    "category": "J",
+    "title": "Bahagian kemaluan dan faraj yang jika tersentuh oleh perut tapak tangan akan membatalkan wudhu’",
+    "page": 363
+  },
+  {
+    "id": 90,
+    "category": "J",
+    "title": "Batal orang yang menyentuh kemaluan, bukan yang disentuh",
+    "page": 364
+  },
+  {
+    "id": 91,
+    "category": "J",
+    "title": "Menyentuh zakar dengan perut telapak tangan dalam keadaan terlupa ketika solat dan wudhu’",
+    "page": 364
+  },
+  {
+    "id": 92,
+    "category": "J",
+    "title": "Hukum menyentuh kemaluan seseorang yang mati pucuk atau kemaluan orang yang terpotong atau kemaluan kanak-kanak",
+    "page": 365
+  },
+  {
+    "id": 93,
+    "category": "J",
+    "title": "Menyentuh kemaluan binatang",
+    "page": 365
+  },
+  {
+    "id": 94,
+    "category": "J",
+    "title": "Menyentuh isteri",
+    "page": 366
+  },
+  {
+    "id": 95,
+    "category": "J",
+    "title": "Menyentuh mertua",
+    "page": 366
+  },
+  {
+    "id": 96,
+    "category": "J",
+    "title": "Menyentuh anak angkat",
+    "page": 367
+  },
+  {
+    "id": 97,
+    "category": "J",
+    "title": "Ayah tiri menyentuh anak tirinya",
+    "page": 367
+  },
+  {
+    "id": 98,
+    "category": "J",
+    "title": "Menyentuh ibu tiri",
+    "page": 367
+  },
+  {
+    "id": 99,
+    "category": "J",
+    "title": "Menyentuh ibu mertua tiri",
+    "page": 368
+  },
+  {
+    "id": 100,
+    "category": "J",
+    "title": "Menyentuh sepupu",
+    "page": 369
+  },
+  {
+    "id": 101,
+    "category": "J",
+    "title": "Menyentuh saudara tiri",
+    "page": 369
+  },
+  {
+    "id": 102,
+    "category": "J",
+    "title": "Menyentuh ipar",
+    "page": 369
+  },
+  {
+    "id": 103,
+    "category": "J",
+    "title": "Bersentuh kulit dengan khuntsa",
+    "page": 370
+  },
+  {
+    "id": 104,
+    "category": "J",
+    "title": "Bersentuh kulit dengan perempuan ajnabiyyah di tempat penuh sesak",
+    "page": 370
+  },
+  {
+    "id": 105,
+    "category": "J",
+    "title": "Bersentuh kulit dengan orang sejenis walaupun selepas pembedahan menggantikan kelamin",
+    "page": 371
+  },
+  {
+    "id": 106,
+    "category": "J",
+    "title": "Hukum wudhu’ tangan lelaki disambung kepada tangan perempuan",
+    "page": 371
+  },
+  {
+    "id": 107,
+    "category": "J",
+    "title": "Menyentuh kulit tampalan dari jantina berbeza",
+    "page": 372
+  },
+  {
+    "id": 108,
+    "category": "J",
+    "title": "Menyentuh kemaluan jin",
+    "page": 372
+  },
+  {
+    "id": 109,
+    "category": "J",
+    "title": "2 cara niat wudhu’",
+    "page": 373
+  },
+  {
+    "id": 110,
+    "category": "J",
+    "title": "Da’im al-hadats dan hukum-hukumnya",
+    "page": 375
+  },
+  {
+    "id": 111,
+    "category": "J",
+    "title": "Cara wudhu’ dan ibadah perempuan yang mengalami istihadhah",
+    "page": 377
+  },
+  {
+    "id": 112,
+    "category": "J",
+    "title": "Berwudhu’ sebelum waktu solat bagi perempuan mustahadhah",
+    "page": 377
+  },
+  {
+    "id": 113,
+    "category": "J",
+    "title": "Batas seseorang yang ada salisul baul (kencing tak lawas) dan keadaan wudhu’ mereka",
+    "page": 378
+  },
+  {
+    "id": 114,
+    "category": "J",
+    "title": "Apakah yang mewajibkan wudhu’ hadas atau bangkit untuk solat?",
+    "page": 379
+  },
+  {
+    "id": 115,
+    "category": "J",
+    "title": "Solat yang boleh dikerjakan dengan wudhu’",
+    "page": 379
+  },
+  {
+    "id": 116,
+    "category": "J",
+    "title": "Meminta tolong dalam berwudhu’",
+    "page": 380
+  },
+  {
+    "id": 117,
+    "category": "J",
+    "title": "Cara berwudhu’ ketika waktu solat terlalu sempit",
+    "page": 381
+  },
+  {
+    "id": 118,
+    "category": "J",
+    "title": "Wudhu’ orang yang belum pandai ilmu agama",
+    "page": 382
+  },
+  {
+    "id": 119,
+    "category": "J",
+    "title": "Azan berkumandang ketika berwudhu’",
+    "page": 382
+  },
+  {
+    "id": 120,
+    "category": "J",
+    "title": "Solat tanpa wudhu’",
+    "page": 382
+  },
+  {
+    "id": 121,
+    "category": "J",
+    "title": "Had jauh mencari air",
+    "page": 383
+  },
+  {
+    "id": 122,
+    "category": "J",
+    "title": "Memperbaharui wudhu’ (tajdid al-wudhu’)",
+    "page": 384
+  },
+  {
+    "id": 123,
+    "category": "J",
+    "title": "Niat dalam tajdid al-wudhu’ (memperbaharui wudhu’)",
+    "page": 385
+  },
+  {
+    "id": 124,
+    "category": "J",
+    "title": "Keadaan disunatkan berwudhu’",
+    "page": 386
+  },
+  {
+    "id": 125,
+    "category": "J",
+    "title": "Wudhu’ orang yang sangat kurus",
+    "page": 387
+  },
+  {
+    "id": 126,
+    "category": "J",
+    "title": "Berwudhu’ dengan air untuk kenderaan",
+    "page": 387
+  },
+  {
+    "id": 127,
+    "category": "J",
+    "title": "Cara bersuci ketika seluruh badan terbakar",
+    "page": 388
+  },
+  {
+    "id": 128,
+    "category": "J",
+    "title": "Membuang air kumuran ke dalam kolah",
+    "page": 389
+  },
+  {
+    "id": 129,
+    "category": "J",
+    "title": "Wudhu’ cara mazhab Maliki",
+    "page": 389
+  },
+  {
+    "id": 130,
+    "category": "J",
+    "title": "Musafir menemukan bekas air (kendi) yang disedekahkan untuk diminum di tengah permusafiran",
+    "page": 390
+  },
+  {
+    "id": 131,
+    "category": "J",
+    "title": "Wudhu’ orang yang terpotong tangan",
+    "page": 390
+  },
+  {
+    "id": 132,
+    "category": "J",
+    "title": "Lupa membaca basmalah ketika berwudhu’",
+    "page": 391
+  },
+  {
+    "id": 133,
+    "category": "J",
+    "title": "Minayak wangi pada anggota wudhu’",
+    "page": 391
+  }
+]
