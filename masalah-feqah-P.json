@@ -1,1 +1,830 @@
-
+[
+  {
+    "id": 1,
+    "category": "P",
+    "title": "Hukum zakat",
+    "page": 891
+  },
+  {
+    "id": 2,
+    "category": "P",
+    "title": "Mengingkari hukum zakat",
+    "page": 892
+  },
+  {
+    "id": 3,
+    "category": "P",
+    "title": "Pembahagian zakat",
+    "page": 892
+  },
+  {
+    "id": 4,
+    "category": "P",
+    "title": "Syarat wajib zakat",
+    "page": 893
+  },
+  {
+    "id": 5,
+    "category": "P",
+    "title": "Nisab sebagai salah satu syarat wajib zakat",
+    "page": 893
+  },
+  {
+    "id": 6,
+    "category": "P",
+    "title": "Pengertian fakir dan miskin",
+    "page": 894
+  },
+  {
+    "id": 7,
+    "category": "P",
+    "title": "Kumpulan mu’allafata qulubuhum (orang yang dilembutkan hati mereka)",
+    "page": 895
+  },
+  {
+    "id": 8,
+    "category": "P",
+    "title": "Beberapa keadaan gharimin (orang yang berhutang)",
+    "page": 895
+  },
+  {
+    "id": 9,
+    "category": "P",
+    "title": "Harta kepunyaan anak kecil dan orang gila",
+    "page": 896
+  },
+  {
+    "id": 10,
+    "category": "P",
+    "title": "Mas kahwin dalam bentuk harta yang wajib zakat",
+    "page": 897
+  },
+  {
+    "id": 11,
+    "category": "P",
+    "title": "Harta mencapai nisab jika dicampur dengan harta yang dihutang oleh orang lain",
+    "page": 897
+  },
+  {
+    "id": 12,
+    "category": "P",
+    "title": "Patung dalam bentuk manusia atau binatang",
+    "page": 898
+  },
+  {
+    "id": 13,
+    "category": "P",
+    "title": "Rumah sewa beberapa tahun",
+    "page": 898
+  },
+  {
+    "id": 14,
+    "category": "P",
+    "title": "Zakat mal (harta) digantikan dengan makanan asasi (pokok)",
+    "page": 898
+  },
+  {
+    "id": 15,
+    "category": "P",
+    "title": "Harta perniagaan yang diwariskan",
+    "page": 899
+  },
+  {
+    "id": 16,
+    "category": "P",
+    "title": "Zakat orang yang banyak hutang",
+    "page": 900
+  },
+  {
+    "id": 17,
+    "category": "P",
+    "title": "Zakat harta perniagaan yang hilang, dirampas atau dihutang",
+    "page": 900
+  },
+  {
+    "id": 18,
+    "category": "P",
+    "title": "Haul harta tijarah (perniagaan) sekiranya berpindah kepada ahli waris",
+    "page": 901
+  },
+  {
+    "id": 19,
+    "category": "P",
+    "title": "Pengusaha mempunyai harta dagangan dan mempunyai hutang",
+    "page": 902
+  },
+  {
+    "id": 20,
+    "category": "P",
+    "title": "Mengeluarkan zakat tijarah (perniagaan) pada bulan tertentu",
+    "page": 902
+  },
+  {
+    "id": 21,
+    "category": "P",
+    "title": "Membayar zakat perdagangan lebih awal sebelum genap satu nisab (ta’jil az-zakah)",
+    "page": 902
+  },
+  {
+    "id": 22,
+    "category": "P",
+    "title": "Bonus diniatkan zakat",
+    "page": 903
+  },
+  {
+    "id": 23,
+    "category": "P",
+    "title": "Modal perniagaan daripada hutang",
+    "page": 903
+  },
+  {
+    "id": 24,
+    "category": "P",
+    "title": "Haul (cukup setahun) dan tambahan modal",
+    "page": 904
+  },
+  {
+    "id": 25,
+    "category": "P",
+    "title": "Lori yang dibeli untuk keperluan sendiri",
+    "page": 904
+  },
+  {
+    "id": 26,
+    "category": "P",
+    "title": "Perempuan harus memakai perhiasan daripada emas dan perak",
+    "page": 905
+  },
+  {
+    "id": 27,
+    "category": "P",
+    "title": "Keadaan emas dan perak yang wajib dikeluarkan zakat",
+    "page": 905
+  },
+  {
+    "id": 28,
+    "category": "P",
+    "title": "Perhiasan yang disimpan",
+    "page": 906
+  },
+  {
+    "id": 29,
+    "category": "P",
+    "title": "Mengeluarkan zakat tijarah (perniagaan) dan emas dalam bentuk duit",
+    "page": 906
+  },
+  {
+    "id": 30,
+    "category": "P",
+    "title": "Tidak zakat bagi barang kemas yang dipakai",
+    "page": 907
+  },
+  {
+    "id": 31,
+    "category": "P",
+    "title": "Cincin tanpa izin rakan kongsi (syirkah) dikenakan zakat",
+    "page": 908
+  },
+  {
+    "id": 32,
+    "category": "P",
+    "title": "Zakat tanaman di dalam beberapa petak",
+    "page": 909
+  },
+  {
+    "id": 33,
+    "category": "P",
+    "title": "Zakat tanaman di dalam beberapa petak yang berbeza",
+    "page": 910
+  },
+  {
+    "id": 34,
+    "category": "P",
+    "title": "Mempunyai 2 petak sawah padi; yang pertama lebih pengairan, yang kedua tidak",
+    "page": 910
+  },
+  {
+    "id": 35,
+    "category": "P",
+    "title": "Perbelanjaan untuk memetik, mengangkut dan mengeringkan kurma",
+    "page": 911
+  },
+  {
+    "id": 36,
+    "category": "P",
+    "title": "Mengeluarkan zakat tanaman sebelum ia layak digunakan (sebelum tua)",
+    "page": 911
+  },
+  {
+    "id": 37,
+    "category": "P",
+    "title": "Kos bai' as-salam (jaminan) tidak termasuk dalam kiraan zakat",
+    "page": 912
+  },
+  {
+    "id": 38,
+    "category": "P",
+    "title": "Hutang lebih banyak daripada hasil pertanian",
+    "page": 913
+  },
+  {
+    "id": 39,
+    "category": "P",
+    "title": "Mengumpul 2 kali hasil tanaman",
+    "page": 914
+  },
+  {
+    "id": 40,
+    "category": "P",
+    "title": "Zakat jagung yang sudah digiling",
+    "page": 914
+  },
+  {
+    "id": 41,
+    "category": "P",
+    "title": "Tukar menukar zakat",
+    "page": 915
+  },
+  {
+    "id": 42,
+    "category": "P",
+    "title": "Memiliki 2 sawah yang hasilnya berbeza sebulan",
+    "page": 915
+  },
+  {
+    "id": 43,
+    "category": "P",
+    "title": "Zakat duit",
+    "page": 916
+  },
+  {
+    "id": 44,
+    "category": "P",
+    "title": "Tabungan (simpanan) atau wang kertas",
+    "page": 916
+  },
+  {
+    "id": 45,
+    "category": "P",
+    "title": "Pemberian zakat dalam bentuk biasiswa kepada pelajar atau mahasiswa",
+    "page": 917
+  },
+  {
+    "id": 46,
+    "category": "P",
+    "title": "Sedapat sebahagian awal Syawal antara syarat wajib zakat fitrah",
+    "page": 917
+  },
+  {
+    "id": 47,
+    "category": "P",
+    "title": "Sedapat awal akhir Ramadhan dan wajib zakat fitrah",
+    "page": 918
+  },
+  {
+    "id": 48,
+    "category": "P",
+    "title": "Zakat fitrah untuk bayi baru lahir",
+    "page": 918
+  },
+  {
+    "id": 49,
+    "category": "P",
+    "title": "Waktu mengeluarkan zakat fitrah",
+    "page": 920
+  },
+  {
+    "id": 50,
+    "category": "P",
+    "title": "Tempat zakat fitrah dikeluarkan",
+    "page": 922
+  },
+  {
+    "id": 51,
+    "category": "P",
+    "title": "Berdoa untuk orang yang membayar zakat hukumnya sunat",
+    "page": 923
+  },
+  {
+    "id": 52,
+    "category": "P",
+    "title": "Ahli keluarga yang wajib dikeluarkan zakat fitrah",
+    "page": 923
+  },
+  {
+    "id": 53,
+    "category": "P",
+    "title": "Siapa yang menanggung nafkah dan fitrah perempuan yang telah diceraikan?",
+    "page": 923
+  },
+  {
+    "id": 54,
+    "category": "P",
+    "title": "Berbeza makanan pokok bagi orang yang mengeluarkan zakat fitrah (mu’add) dan orang yang dikeluarkan zakat fitrah untuknya (mu’adda ‘anhu)",
+    "page": 924
+  },
+  {
+    "id": 55,
+    "category": "P",
+    "title": "Orang yang dikeluarkan untuknya zakat fitrah ketika harta kurang",
+    "page": 924
+  },
+  {
+    "id": 56,
+    "category": "P",
+    "title": "Membayar zakat fitrah sebelum Hari Raya",
+    "page": 925
+  },
+  {
+    "id": 57,
+    "category": "P",
+    "title": "Mengeluarkan zakat fitrah selepas solat sunat Aidil Fitri",
+    "page": 926
+  },
+  {
+    "id": 58,
+    "category": "P",
+    "title": "Makanan asasi untuk zakat fitrah",
+    "page": 926
+  },
+  {
+    "id": 59,
+    "category": "P",
+    "title": "Mengeluarkan zakat fitrah berupa jagung bagi orang yang makanan asasnya beras",
+    "page": 927
+  },
+  {
+    "id": 60,
+    "category": "P",
+    "title": "Beras campur jagung untuk zakat fitrah",
+    "page": 927
+  },
+  {
+    "id": 61,
+    "category": "P",
+    "title": "Zakat fitrah pembantu rumah",
+    "page": 927
+  },
+  {
+    "id": 62,
+    "category": "P",
+    "title": "Tidak ada makanan asasi",
+    "page": 928
+  },
+  {
+    "id": 63,
+    "category": "P",
+    "title": "Zakat fitrah suami miskin yang beristerikan orang kaya",
+    "page": 928
+  },
+  {
+    "id": 64,
+    "category": "P",
+    "title": "Mengeluarkan zakat fitrah kurang daripada 1 sha‘ (gantang)",
+    "page": 929
+  },
+  {
+    "id": 65,
+    "category": "P",
+    "title": "Zakat fitrah dibayar dengan duit",
+    "page": 929
+  },
+  {
+    "id": 66,
+    "category": "P",
+    "title": "Satu niat untuk zakat fitrah sekeluarga",
+    "page": 933
+  },
+  {
+    "id": 67,
+    "category": "P",
+    "title": "Membayar zakat untuk anak yang berada di daerah atau negeri lain",
+    "page": 934
+  },
+  {
+    "id": 68,
+    "category": "P",
+    "title": "Kadar satu sha‘ (gantang) untuk zakat fitrah",
+    "page": 935
+  },
+  {
+    "id": 69,
+    "category": "P",
+    "title": "Membayar zakat fitrah untuk orang lain yang bukan di bawah tanggungannya",
+    "page": 935
+  },
+  {
+    "id": 70,
+    "category": "P",
+    "title": "Termasuk “orang kaya” yang wajib mengeluarkan zakat fitrah",
+    "page": 936
+  },
+  {
+    "id": 71,
+    "category": "P",
+    "title": "Mengeluarkan zakat fitrah walaupun ada hutang",
+    "page": 936
+  },
+  {
+    "id": 72,
+    "category": "P",
+    "title": "Tidak mampu mengeluarkan zakat fitrah kerana melarat (terlalu miskin)",
+    "page": 937
+  },
+  {
+    "id": 73,
+    "category": "P",
+    "title": "Memadai beras zakat jika mengenyangkan",
+    "page": 937
+  },
+  {
+    "id": 74,
+    "category": "P",
+    "title": "Anak lahir pada 1 Syawal",
+    "page": 938
+  },
+  {
+    "id": 75,
+    "category": "P",
+    "title": "Amil menjual beras zakat fitrah sebelum dibahagi-bahagikan kepada mustahiknya (orang yang berhak menerimanya)",
+    "page": 938
+  },
+  {
+    "id": 76,
+    "category": "P",
+    "title": "Membayar zakat fitrah lebih awal (ta’jil az-zakah)",
+    "page": 939
+  },
+  {
+    "id": 77,
+    "category": "P",
+    "title": "Niat zakat di lisan",
+    "page": 939
+  },
+  {
+    "id": 78,
+    "category": "P",
+    "title": "Zakat atas nama orang lain",
+    "page": 940
+  },
+  {
+    "id": 79,
+    "category": "P",
+    "title": "Menjadi kaya selepas terbenam matahari",
+    "page": 941
+  },
+  {
+    "id": 80,
+    "category": "P",
+    "title": "Tidak ada zakat untuk permata seperti intan, mutiara dan lain-lain",
+    "page": 941
+  },
+  {
+    "id": 81,
+    "category": "P",
+    "title": "Penternakan kuda, itik dan ayam tidak dikenakan zakat",
+    "page": 942
+  },
+  {
+    "id": 82,
+    "category": "P",
+    "title": "Menyimpan sebahagian hasil perniagaan",
+    "page": 942
+  },
+  {
+    "id": 83,
+    "category": "P",
+    "title": "Binatang untuk membajak sawah",
+    "page": 943
+  },
+  {
+    "id": 84,
+    "category": "P",
+    "title": "Buah-buahan selain kurma dan anggur",
+    "page": 943
+  },
+  {
+    "id": 85,
+    "category": "P",
+    "title": "Binatang ternak diberi makan",
+    "page": 944
+  },
+  {
+    "id": 86,
+    "category": "P",
+    "title": "Zakat untuk dana milik masjid",
+    "page": 944
+  },
+  {
+    "id": 87,
+    "category": "P",
+    "title": "Keuntungan jualan untuk keperluan sehari-hari",
+    "page": 944
+  },
+  {
+    "id": 88,
+    "category": "P",
+    "title": "Rumah dan kereta, adakah dikeluarkan zakat?",
+    "page": 945
+  },
+  {
+    "id": 89,
+    "category": "P",
+    "title": "Amil zakat seorang perempuan",
+    "page": 945
+  },
+  {
+    "id": 90,
+    "category": "P",
+    "title": "Siapakah yang melantik amil?",
+    "page": 945
+  },
+  {
+    "id": 91,
+    "category": "P",
+    "title": "Pembahagian zakat",
+    "page": 947
+  },
+  {
+    "id": 92,
+    "category": "P",
+    "title": "Memberikan zakat selain zakat fitrah hanya kepada satu golongan daripada asnaf yang lapan",
+    "page": 949
+  },
+  {
+    "id": 93,
+    "category": "P",
+    "title": "Maksud “fi sabilillah”",
+    "page": 949
+  },
+  {
+    "id": 94,
+    "category": "P",
+    "title": "Memberi zakat kepada para ulama atau pengasuh pondok",
+    "page": 950
+  },
+  {
+    "id": 95,
+    "category": "P",
+    "title": "Zakat kepada pelajar",
+    "page": 952
+  },
+  {
+    "id": 96,
+    "category": "P",
+    "title": "Zakat diberikan kepada keturunan (zurriyyah) Nabi ﷺ",
+    "page": 953
+  },
+  {
+    "id": 97,
+    "category": "P",
+    "title": "Zakat diberikan kepada kerabat sendiri",
+    "page": 954
+  },
+  {
+    "id": 98,
+    "category": "P",
+    "title": "Zakat untuk pembangunan masjid, membeli kafan dan lain-lain atas nama sabil al-khair (jalan kebaikan)",
+    "page": 955
+  },
+  {
+    "id": 99,
+    "category": "P",
+    "title": "Zakat diberikan kepada orang yang tidak solat",
+    "page": 959
+  },
+  {
+    "id": 100,
+    "category": "P",
+    "title": "Zakat diberikan kepada orang tidak dikenali yang mengaku orang miskin atau gharim (berhutang)",
+    "page": 961
+  },
+  {
+    "id": 101,
+    "category": "P",
+    "title": "Suami tidak boleh memberikan zakat kepada isterinya",
+    "page": 961
+  },
+  {
+    "id": 102,
+    "category": "P",
+    "title": "Memberi zakat kepada orang yang di bawah tanggungannya",
+    "page": 962
+  },
+  {
+    "id": 103,
+    "category": "P",
+    "title": "Kenapa orang tua atau anak yang menjadi tanggungannya tidak boleh menerima zakat atas nama fakir atau miskin?",
+    "page": 963
+  },
+  {
+    "id": 104,
+    "category": "P",
+    "title": "Memberi zakat kepada orang bukan Islam",
+    "page": 963
+  },
+  {
+    "id": 105,
+    "category": "P",
+    "title": "Zakat isteri diberikan untuk suami",
+    "page": 964
+  },
+  {
+    "id": 106,
+    "category": "P",
+    "title": "Suami menerima zakat daripada orang tuanya",
+    "page": 965
+  },
+  {
+    "id": 107,
+    "category": "P",
+    "title": "Membayar zakat untuk ibu tiri",
+    "page": 965
+  },
+  {
+    "id": 108,
+    "category": "P",
+    "title": "Menerima 2 bahagian zakat kerana berstatus amil dan miskin",
+    "page": 966
+  },
+  {
+    "id": 109,
+    "category": "P",
+    "title": "Anak menerima zakat daripada orang tuanya",
+    "page": 967
+  },
+  {
+    "id": 110,
+    "category": "P",
+    "title": "Zakat untuk datuk dan nenek",
+    "page": 967
+  },
+  {
+    "id": 111,
+    "category": "P",
+    "title": "Mampu bekerja tetapi menumpukan belajar ilmu syarak",
+    "page": 968
+  },
+  {
+    "id": 112,
+    "category": "P",
+    "title": "Tahap (batas) orang kaya yang haram menerima zakat",
+    "page": 968
+  },
+  {
+    "id": 113,
+    "category": "P",
+    "title": "Zakat kepada orang tua",
+    "page": 969
+  },
+  {
+    "id": 114,
+    "category": "P",
+    "title": "Zakat diberikan kepada selain daripada golongan yang disebutkan oleh orang yang membayar zakat (muzakki)",
+    "page": 970
+  },
+  {
+    "id": 115,
+    "category": "P",
+    "title": "Memberi zakat kepada anak yatim",
+    "page": 970
+  },
+  {
+    "id": 116,
+    "category": "P",
+    "title": "Zakat anak kecil",
+    "page": 971
+  },
+  {
+    "id": 117,
+    "category": "P",
+    "title": "Zakat untuk melunasi hutang mayat",
+    "page": 971
+  },
+  {
+    "id": 118,
+    "category": "P",
+    "title": "Mana satu yang perlu didahulukan; zakat atau hutang si mati?",
+    "page": 972
+  },
+  {
+    "id": 119,
+    "category": "P",
+    "title": "Menjual harta zakat, kemudian memberikan kepada asnaf dalam bentuk duit",
+    "page": 972
+  },
+  {
+    "id": 120,
+    "category": "P",
+    "title": "Bersedekah atau membayarkan zakat kepada kaum kerabat yang tidak menjadi kewajipan untuk menafkahkan mereka",
+    "page": 973
+  },
+  {
+    "id": 121,
+    "category": "P",
+    "title": "Menjual harta yang termasuk dizakat sebelum datang masa wajib zakat",
+    "page": 974
+  },
+  {
+    "id": 122,
+    "category": "P",
+    "title": "Menentukan barang atau harta yang dizakat ketika niat zakat",
+    "page": 974
+  },
+  {
+    "id": 123,
+    "category": "P",
+    "title": "Meninggal dunia dalam keadaan mempunyai hutang zakat dan hutang kepada orang lain",
+    "page": 975
+  },
+  {
+    "id": 124,
+    "category": "P",
+    "title": "Menyebutkan barang atau harta yang diberikan kepada penerima zakat adalah zakat",
+    "page": 976
+  },
+  {
+    "id": 125,
+    "category": "P",
+    "title": "Menukar zakat ternakan, tanaman dan buah-buahan dengan duit",
+    "page": 976
+  },
+  {
+    "id": 126,
+    "category": "P",
+    "title": "Zakat yang wajib dikeluarkan ketika seseorang murtad",
+    "page": 976
+  },
+  {
+    "id": 127,
+    "category": "P",
+    "title": "Mengakhirkan mengeluarkan zakat setelah mampu",
+    "page": 977
+  },
+  {
+    "id": 128,
+    "category": "P",
+    "title": "Mengakhirkan mengeluarkan zakat kerana menunggu orang yang berhak menerimanya",
+    "page": 977
+  },
+  {
+    "id": 129,
+    "category": "P",
+    "title": "Niat zakat sekali gus sedekah atau niat sedekah sekali gus zakat",
+    "page": 978
+  },
+  {
+    "id": 130,
+    "category": "P",
+    "title": "Penerima zakat tidak tahu yang diterimanya adalah zakat",
+    "page": 979
+  },
+  {
+    "id": 131,
+    "category": "P",
+    "title": "Ta'jil (mendahulukan) mengeluarkan zakat",
+    "page": 979
+  },
+  {
+    "id": 132,
+    "category": "P",
+    "title": "Mengingkari kewajipan zakat",
+    "page": 980
+  },
+  {
+    "id": 133,
+    "category": "P",
+    "title": "Mewakilkan pembayaran zakat sebelum waktunya",
+    "page": 981
+  },
+  {
+    "id": 134,
+    "category": "P",
+    "title": "Membayar zakat untuk melunasi hutang",
+    "page": 981
+  },
+  {
+    "id": 135,
+    "category": "P",
+    "title": "Memindahkan zakat ke daerah atau tempat lain",
+    "page": 981
+  },
+  {
+    "id": 136,
+    "category": "P",
+    "title": "Zakat dengan memindahkan barang",
+    "page": 984
+  },
+  {
+    "id": 137,
+    "category": "P",
+    "title": "Mengeluarkan zakat kepada seseorang dan memberi syarat zakat tersebut digunakan untuk membayar hutang kepadanya",
+    "page": 985
+  },
+  {
+    "id": 138,
+    "category": "P",
+    "title": "Berada di dalam satu daerah, lalu memberikan zakatnya kepada orang yang berada di luar daerahnya, dikira memindahkan zakat",
+    "page": 985
+  }
+]
