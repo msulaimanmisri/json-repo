@@ -1,1 +1,800 @@
-
+[
+  {
+    "id": 1,
+    "category": "U",
+    "title": "Hukum memandikan mayat",
+    "page": 1099
+  },
+  {
+    "id": 2,
+    "category": "U",
+    "title": "Memandikan jenazah adalah untuk memuliakannya",
+    "page": 1101
+  },
+  {
+    "id": 3,
+    "category": "U",
+    "title": "Orang yang memandikan mayat",
+    "page": 1102
+  },
+  {
+    "id": 4,
+    "category": "U",
+    "title": "Mewudhu’ mayat",
+    "page": 1102
+  },
+  {
+    "id": 5,
+    "category": "U",
+    "title": "Niat orang yang memandikan jenazah",
+    "page": 1103
+  },
+  {
+    "id": 6,
+    "category": "U",
+    "title": "Menguruskan (tajhiz) mayat terbakar",
+    "page": 1103
+  },
+  {
+    "id": 7,
+    "category": "U",
+    "title": "Jenazah perempuan haid",
+    "page": 1104
+  },
+  {
+    "id": 8,
+    "category": "U",
+    "title": "Memandikan jenazah perempuan yang bukan mahram berlainan jantina",
+    "page": 1105
+  },
+  {
+    "id": 9,
+    "category": "U",
+    "title": "Kotoran (najis) keluar selepas dimandikan",
+    "page": 1105
+  },
+  {
+    "id": 10,
+    "category": "U",
+    "title": "Memandikan jenazah dengan air laut",
+    "page": 1106
+  },
+  {
+    "id": 11,
+    "category": "U",
+    "title": "Air tidak cukup untuk memandikan jenazah",
+    "page": 1106
+  },
+  {
+    "id": 12,
+    "category": "U",
+    "title": "Jenazah sudah dimandikan di hospital oleh petugas yang boleh dipercayai",
+    "page": 1106
+  },
+  {
+    "id": 13,
+    "category": "U",
+    "title": "Mayat terdampar di laut",
+    "page": 1107
+  },
+  {
+    "id": 14,
+    "category": "U",
+    "title": "Mayat tidak dapat dimandikan dan tidak dapat ditayammumkan",
+    "page": 1107
+  },
+  {
+    "id": 15,
+    "category": "U",
+    "title": "Lelaki memandikan jenazah perempuan dan sebaliknya",
+    "page": 1108
+  },
+  {
+    "id": 16,
+    "category": "U",
+    "title": "Suami memandikan mayat isteri dan sebaliknya",
+    "page": 1108
+  },
+  {
+    "id": 17,
+    "category": "U",
+    "title": "Perempuan memandikan mayat kanak-kanak",
+    "page": 1109
+  },
+  {
+    "id": 18,
+    "category": "U",
+    "title": "Darah mayat sentiasa keluar",
+    "page": 1110
+  },
+  {
+    "id": 19,
+    "category": "U",
+    "title": "Organ mayat terkeluar",
+    "page": 1110
+  },
+  {
+    "id": 20,
+    "category": "U",
+    "title": "Anggota badan orang yang masih hidup terpotong",
+    "page": 1110
+  },
+  {
+    "id": 21,
+    "category": "U",
+    "title": "Memasukkan kapas ke dalam badan mayat",
+    "page": 1111
+  },
+  {
+    "id": 22,
+    "category": "U",
+    "title": "Memotong kuku dan rambut jenazah",
+    "page": 1111
+  },
+  {
+    "id": 23,
+    "category": "U",
+    "title": "Keadaan mandi dan wudhu’ mayat yang tersentuh dengan perempuan ajnabiyyah",
+    "page": 1112
+  },
+  {
+    "id": 24,
+    "category": "U",
+    "title": "Mayat terlerai sekiranya dimandikan",
+    "page": 1112
+  },
+  {
+    "id": 25,
+    "category": "U",
+    "title": "Berzikir ketika memandikan jenazah",
+    "page": 1112
+  },
+  {
+    "id": 26,
+    "category": "U",
+    "title": "Meninggal di luar negara dan tidak pasti sudah dimandikan atau belum",
+    "page": 1113
+  },
+  {
+    "id": 27,
+    "category": "U",
+    "title": "Mayat orang yang menjaga anjing",
+    "page": 1113
+  },
+  {
+    "id": 28,
+    "category": "U",
+    "title": "Hukum mengafankan mayat",
+    "page": 1114
+  },
+  {
+    "id": 29,
+    "category": "U",
+    "title": "Paling kurang untuk mengkafankan mayat ialah sehelai kain",
+    "page": 1114
+  },
+  {
+    "id": 30,
+    "category": "U",
+    "title": "Kain kafan selain berwarna putih",
+    "page": 1116
+  },
+  {
+    "id": 31,
+    "category": "U",
+    "title": "Antara kain kafan baru atau lama",
+    "page": 1116
+  },
+  {
+    "id": 32,
+    "category": "U",
+    "title": "Menggantikan kain dengan daun ketika mengafan",
+    "page": 1117
+  },
+  {
+    "id": 33,
+    "category": "U",
+    "title": "Kotoran (najis) keluar selepas dikafan",
+    "page": 1117
+  },
+  {
+    "id": 34,
+    "category": "U",
+    "title": "Mayat terpotong-potong anggota badan",
+    "page": 1117
+  },
+  {
+    "id": 35,
+    "category": "U",
+    "title": "Mayat reput",
+    "page": 1118
+  },
+  {
+    "id": 36,
+    "category": "U",
+    "title": "Mayat kanak-kanak yang belum dikhatan",
+    "page": 1120
+  },
+  {
+    "id": 37,
+    "category": "U",
+    "title": "Mayat belum dikhatan",
+    "page": 1121
+  },
+  {
+    "id": 38,
+    "category": "U",
+    "title": "Mengafankan mayat dengan kain sutera",
+    "page": 1123
+  },
+  {
+    "id": 39,
+    "category": "U",
+    "title": "Lutut mayat terbuka",
+    "page": 1124
+  },
+  {
+    "id": 40,
+    "category": "U",
+    "title": "Bapa berwasiat untuk dikafankan dengan pakaian yang tidak sempurna menutup auratnya",
+    "page": 1124
+  },
+  {
+    "id": 41,
+    "category": "U",
+    "title": "Kedudukan jenazah ketika disolatkan",
+    "page": 1125
+  },
+  {
+    "id": 42,
+    "category": "U",
+    "title": "Sunat-sunat solat Jenazah",
+    "page": 1129
+  },
+  {
+    "id": 43,
+    "category": "U",
+    "title": "Solat Jenazah dilakukan berdiri",
+    "page": 1130
+  },
+  {
+    "id": 44,
+    "category": "U",
+    "title": "Orang yang paling berhak menjadi imam dalam solat Jenazah",
+    "page": 1130
+  },
+  {
+    "id": 45,
+    "category": "U",
+    "title": "Tempat imam berdiri dekat jenazah",
+    "page": 1131
+  },
+  {
+    "id": 46,
+    "category": "U",
+    "title": "Syarat niat dalam solat Jenazah",
+    "page": 1131
+  },
+  {
+    "id": 47,
+    "category": "U",
+    "title": "Sekali solat untuk jenazah yang ramai",
+    "page": 1132
+  },
+  {
+    "id": 48,
+    "category": "U",
+    "title": "Menyebut nama jenazah dalam niat solat Jenazah",
+    "page": 1132
+  },
+  {
+    "id": 49,
+    "category": "U",
+    "title": "Takbir dalam solat Jenazah adalah 4 kali",
+    "page": 1133
+  },
+  {
+    "id": 50,
+    "category": "U",
+    "title": "Takbir solat Jenazah 3 kali",
+    "page": 1133
+  },
+  {
+    "id": 51,
+    "category": "U",
+    "title": "Tertinggal 2 takbir daripada imam tanpa uzur",
+    "page": 1133
+  },
+  {
+    "id": 52,
+    "category": "U",
+    "title": "Boleh mensolatkan dua jenazah atau lebih sekali gus",
+    "page": 1134
+  },
+  {
+    "id": 53,
+    "category": "U",
+    "title": "Solat Jenazah di masjid",
+    "page": 1134
+  },
+  {
+    "id": 54,
+    "category": "U",
+    "title": "Solat Jenazah berkali-kali",
+    "page": 1134
+  },
+  {
+    "id": 55,
+    "category": "U",
+    "title": "Solat Jenazah berperingkat-peringkat",
+    "page": 1136
+  },
+  {
+    "id": 56,
+    "category": "U",
+    "title": "Makmum lebih terkedepan daripada imam atau lebih terkedepan daripada jenazah ketika solat Jenazah",
+    "page": 1136
+  },
+  {
+    "id": 57,
+    "category": "U",
+    "title": "Persaksian terhadap mayat",
+    "page": 1137
+  },
+  {
+    "id": 58,
+    "category": "U",
+    "title": "Solat Jenazah selepas jenazah dikebumikan",
+    "page": 1137
+  },
+  {
+    "id": 59,
+    "category": "U",
+    "title": "Solat Jenazah dalam keadaan mayat dalam keranda tanpa dibuka",
+    "page": 1137
+  },
+  {
+    "id": 60,
+    "category": "U",
+    "title": "Solat Jenazah di atas kubur",
+    "page": 1139
+  },
+  {
+    "id": 61,
+    "category": "U",
+    "title": "Solat di tepi kubur kerana mayat sudah dikuburkan tanpa disolatkan",
+    "page": 1139
+  },
+  {
+    "id": 62,
+    "category": "U",
+    "title": "Memakai kasut yang ada najis di bawahnya ketika solat Jenazah",
+    "page": 1140
+  },
+  {
+    "id": 63,
+    "category": "U",
+    "title": "2 jenazah (lelaki dan perempuan) disolatkan bersama",
+    "page": 1140
+  },
+  {
+    "id": 64,
+    "category": "U",
+    "title": "Lalu di hadapan orang yang solat jenazah",
+    "page": 1140
+  },
+  {
+    "id": 65,
+    "category": "U",
+    "title": "Solat Jenazah sama seperti solat fardhu, ada muwafiq dan masbuk",
+    "page": 1141
+  },
+  {
+    "id": 66,
+    "category": "U",
+    "title": "Keadaan makmum masbuk dalam solat Jenazah",
+    "page": 1142
+  },
+  {
+    "id": 67,
+    "category": "U",
+    "title": "Makmum masbuk membaca doa Iftitah sehingga tidak dapat menghabiskan bacaan Al-Fatihah dalam solat Jenazah",
+    "page": 1143
+  },
+  {
+    "id": 68,
+    "category": "U",
+    "title": "Solat jenazah pada waktu-waktu yang makruh",
+    "page": 1143
+  },
+  {
+    "id": 69,
+    "category": "U",
+    "title": "Tidak diwajibkan menyebut nama mayat dalam solat Jenazah",
+    "page": 1144
+  },
+  {
+    "id": 70,
+    "category": "U",
+    "title": "Jarak boleh melakukan solat Ghaib",
+    "page": 1144
+  },
+  {
+    "id": 71,
+    "category": "U",
+    "title": "Solat Ghaib untuk orang hilang, orang yang tenggelam dan lain-lain",
+    "page": 1145
+  },
+  {
+    "id": 72,
+    "category": "U",
+    "title": "Syarat solat Ghaib",
+    "page": 1145
+  },
+  {
+    "id": 73,
+    "category": "U",
+    "title": "Had waktu solat Ghaib",
+    "page": 1147
+  },
+  {
+    "id": 74,
+    "category": "U",
+    "title": "Membaca doa iftitah dalam solat Jenazah Ghaib",
+    "page": 1148
+  },
+  {
+    "id": 75,
+    "category": "U",
+    "title": "Imam niat solat Ghaib dan makmum niat solat hadir",
+    "page": 1149
+  },
+  {
+    "id": 76,
+    "category": "U",
+    "title": "Solat Jenazah hadir tetapi jenazah tidak ada di hadapan imam",
+    "page": 1149
+  },
+  {
+    "id": 77,
+    "category": "U",
+    "title": "Hukum menguburkan mayat",
+    "page": 1150
+  },
+  {
+    "id": 78,
+    "category": "U",
+    "title": "Kadar liang atau lubang paling kurang dalam menguburkan mayat",
+    "page": 1150
+  },
+  {
+    "id": 79,
+    "category": "U",
+    "title": "Menghadiri pengebumian",
+    "page": 1151
+  },
+  {
+    "id": 80,
+    "category": "U",
+    "title": "Hukum menghantar jenazah ke kubur",
+    "page": 1151
+  },
+  {
+    "id": 81,
+    "category": "U",
+    "title": "Orang yang mengiring (menghantar) jenazah",
+    "page": 1154
+  },
+  {
+    "id": 82,
+    "category": "U",
+    "title": "Memikul jenazah",
+    "page": 1155
+  },
+  {
+    "id": 83,
+    "category": "U",
+    "title": "Orang yang memikul jenazah",
+    "page": 1155
+  },
+  {
+    "id": 84,
+    "category": "U",
+    "title": "Menghantar jenazah dengan kereta mayat atau ambulan",
+    "page": 1156
+  },
+  {
+    "id": 85,
+    "category": "U",
+    "title": "Kedudukan pengiring jenazah",
+    "page": 1156
+  },
+  {
+    "id": 86,
+    "category": "U",
+    "title": "Kedudukan kepala jenazah ketika diusung ke kubur",
+    "page": 1158
+  },
+  {
+    "id": 87,
+    "category": "U",
+    "title": "Berjalan cepat membawa jenazah",
+    "page": 1158
+  },
+  {
+    "id": 88,
+    "category": "U",
+    "title": "Mengusung jenazah bergilir-gilir dari satu tangan ke tangan lain",
+    "page": 1158
+  },
+  {
+    "id": 89,
+    "category": "U",
+    "title": "Berzikir ketika menghantar jenazah",
+    "page": 1159
+  },
+  {
+    "id": 90,
+    "category": "U",
+    "title": "Terjumpa tulang ketika menggali kubur",
+    "page": 1161
+  },
+  {
+    "id": 91,
+    "category": "U",
+    "title": "Sikap ketika jenazah melalui di hadapan seseorang",
+    "page": 1161
+  },
+  {
+    "id": 92,
+    "category": "U",
+    "title": "Menguburkan mayat dalam keranda",
+    "page": 1162
+  },
+  {
+    "id": 93,
+    "category": "U",
+    "title": "Mayat menghadap kiblat tetapi kepalanya di arah selatan",
+    "page": 1164
+  },
+  {
+    "id": 94,
+    "category": "U",
+    "title": "Melepaskan tali pengikat kain kafan ketika dalam kubur",
+    "page": 1164
+  },
+  {
+    "id": 95,
+    "category": "U",
+    "title": "Ukuran dalam kubur",
+    "page": 1165
+  },
+  {
+    "id": 96,
+    "category": "U",
+    "title": "Melindungi mayat dengan kayu (dalam kubur) supaya tidak tertimpa tanah",
+    "page": 1166
+  },
+  {
+    "id": 97,
+    "category": "U",
+    "title": "Pipi jenazah menyentuh tanah",
+    "page": 1166
+  },
+  {
+    "id": 98,
+    "category": "U",
+    "title": "Pengebumian di tanah sendiri atau tanah perkuburan umum",
+    "page": 1166
+  },
+  {
+    "id": 99,
+    "category": "U",
+    "title": "Menguburkan mayat orang Islam di perkuburan bukan Islam",
+    "page": 1167
+  },
+  {
+    "id": 100,
+    "category": "U",
+    "title": "Menunda pengebumian kerana menunggu keluarga atau kerabat yang jauh",
+    "page": 1167
+  },
+  {
+    "id": 101,
+    "category": "U",
+    "title": "Mayat yang sudah dikuburkan belum dimandikan",
+    "page": 1169
+  },
+  {
+    "id": 102,
+    "category": "U",
+    "title": "Mayat dikuburkan tidak menghadap kiblat",
+    "page": 1169
+  },
+  {
+    "id": 103,
+    "category": "U",
+    "title": "Mayat dikuburkan sekali dengan gigi emas",
+    "page": 1170
+  },
+  {
+    "id": 104,
+    "category": "U",
+    "title": "Suami isteri dikuburkan dalam satu kubur",
+    "page": 1172
+  },
+  {
+    "id": 105,
+    "category": "U",
+    "title": "Jenazah orang Islam dikebumikan di perkuburan bukan Islam di negara minoriti Muslim",
+    "page": 1173
+  },
+  {
+    "id": 106,
+    "category": "U",
+    "title": "Meletakkan batu nisan",
+    "page": 1173
+  },
+  {
+    "id": 107,
+    "category": "U",
+    "title": "Tempat pengebumian perempuan kafir zimmi yang mengandungkan anak seorang Islam",
+    "page": 1174
+  },
+  {
+    "id": 108,
+    "category": "U",
+    "title": "Membuka keranda mayat sebelum dikebumikan",
+    "page": 1174
+  },
+  {
+    "id": 109,
+    "category": "U",
+    "title": "Tidak pernah solat dan puasa, tetapi suka membantu program-program agama",
+    "page": 1175
+  },
+  {
+    "id": 110,
+    "category": "U",
+    "title": "Hukum talqin mayat selepas dikebumikan",
+    "page": 1175
+  },
+  {
+    "id": 111,
+    "category": "U",
+    "title": "Keadaan orang yang mentalqin mayat",
+    "page": 1176
+  },
+  {
+    "id": 112,
+    "category": "U",
+    "title": "Salah menggunakan dhamir ketika talqin",
+    "page": 1177
+  },
+  {
+    "id": 113,
+    "category": "U",
+    "title": "Menabur bunga di atas kubur",
+    "page": 1178
+  },
+  {
+    "id": 114,
+    "category": "U",
+    "title": "Penyelenggaraan jenazah bayi",
+    "page": 1178
+  },
+  {
+    "id": 115,
+    "category": "U",
+    "title": "Penyelenggaraan jenazah bayi yang keguguran",
+    "page": 1179
+  },
+  {
+    "id": 116,
+    "category": "U",
+    "title": "Menguruskan jenazah dengan segera",
+    "page": 1180
+  },
+  {
+    "id": 117,
+    "category": "U",
+    "title": "Jenazah ibu hamil",
+    "page": 1180
+  },
+  {
+    "id": 118,
+    "category": "U",
+    "title": "Hukum menguruskan (tajhiz) jenazah yang meninggal kerana membunuh diri",
+    "page": 1181
+  },
+  {
+    "id": 119,
+    "category": "U",
+    "title": "Hukum menguruskan (tajhiz) jenazah yang tidak pernah solat",
+    "page": 1182
+  },
+  {
+    "id": 120,
+    "category": "U",
+    "title": "Meninggal ketika dalam ihram",
+    "page": 1182
+  },
+  {
+    "id": 121,
+    "category": "U",
+    "title": "Jenazah bayi kembar siam",
+    "page": 1183
+  },
+  {
+    "id": 122,
+    "category": "U",
+    "title": "Jenazah adalah kanak-kanak baru lahir berusia 6 bulan dalam kandungan",
+    "page": 1184
+  },
+  {
+    "id": 123,
+    "category": "U",
+    "title": "Hukum pembedahan (bedah siasat) kepada mayat",
+    "page": 1184
+  },
+  {
+    "id": 124,
+    "category": "U",
+    "title": "Pengurusan kematian bagi jenazah yang tidak mampu",
+    "page": 1185
+  },
+  {
+    "id": 125,
+    "category": "U",
+    "title": "Jenazah terlalu ramai dan tidak diketahui orang Islam atau tidak",
+    "page": 1186
+  },
+  {
+    "id": 126,
+    "category": "U",
+    "title": "Meletakkan mayat dalam bekas yang boleh menghalang bau dan serangan binatang buas tanpa dikuburkan dalam tanah",
+    "page": 1186
+  },
+  {
+    "id": 127,
+    "category": "U",
+    "title": "Syahid akhirat tetap dimandi, dikafan dan disolatkan",
+    "page": 1187
+  },
+  {
+    "id": 128,
+    "category": "U",
+    "title": "Pemakaman tidak mengikut syariat",
+    "page": 1188
+  },
+  {
+    "id": 129,
+    "category": "U",
+    "title": "Jenazah mandi sendiri",
+    "page": 1188
+  },
+  {
+    "id": 130,
+    "category": "U",
+    "title": "Sebutan “al-marhum” untuk orang bukan Islam yang sudah meninggal dunia",
+    "page": 1189
+  },
+  {
+    "id": 131,
+    "category": "U",
+    "title": "Jenazah diawet",
+    "page": 1189
+  },
+  {
+    "id": 132,
+    "category": "U",
+    "title": "Mangsa korban yang terlalu ramai dan tidak terurus",
+    "page": 1190
+  },
+  {
+    "id": 133,
+    "category": "U",
+    "title": "Mayat orang Islam diuruskan (tajhiz) seperti mayat orang bukan Islam",
+    "page": 1191
+  }
+]
