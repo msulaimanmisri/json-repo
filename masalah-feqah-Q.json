@@ -1,1 +1,656 @@
-
+[
+  {
+    "id": 1,
+    "category": "Q",
+    "title": "Hukum haji",
+    "page": 987
+  },
+  {
+    "id": 2,
+    "category": "Q",
+    "title": "Kewajipan haji hanya sekali",
+    "page": 988
+  },
+  {
+    "id": 3,
+    "category": "Q",
+    "title": "Umrah wajib sekali seumur hidup",
+    "page": 989
+  },
+  {
+    "id": 4,
+    "category": "Q",
+    "title": "Bulan-bulan haji",
+    "page": 989
+  },
+  {
+    "id": 5,
+    "category": "Q",
+    "title": "Perbezaan antara fardhu/rukun haji dan wajib haji",
+    "page": 990
+  },
+  {
+    "id": 6,
+    "category": "Q",
+    "title": "Keabsahan (sah) haji bagi orang yang belum wajib mengerjakan haji",
+    "page": 990
+  },
+  {
+    "id": 7,
+    "category": "Q",
+    "title": "Kadar harta yang dianggap cukup sebagai bekalan yang mewajibkan haji",
+    "page": 991
+  },
+  {
+    "id": 8,
+    "category": "Q",
+    "title": "Menjual tanah untuk membiayai perbelanjaan mengerjakan haji",
+    "page": 992
+  },
+  {
+    "id": 9,
+    "category": "Q",
+    "title": "Menjual rumah untuk membiayai perbelanjaan mengerjakan haji",
+    "page": 992
+  },
+  {
+    "id": 10,
+    "category": "Q",
+    "title": "Menjual barang perhiasan (rantai, gelang dan lain-lain) untuk membiayai perbelanjaan mengerjakan haji",
+    "page": 993
+  },
+  {
+    "id": 11,
+    "category": "Q",
+    "title": "Hukum ihram",
+    "page": 994
+  },
+  {
+    "id": 12,
+    "category": "Q",
+    "title": "Pakaian lelaki yang berihram (muhrim)",
+    "page": 995
+  },
+  {
+    "id": 13,
+    "category": "Q",
+    "title": "Memulakan ihram dari Jeddah",
+    "page": 996
+  },
+  {
+    "id": 14,
+    "category": "Q",
+    "title": "Miqat untuk haji badal",
+    "page": 996
+  },
+  {
+    "id": 15,
+    "category": "Q",
+    "title": "Menggantikan niat haji",
+    "page": 997
+  },
+  {
+    "id": 16,
+    "category": "Q",
+    "title": "Niat dan lafaz niat sekiranya menjadi pengganti orang lain dalam ibadah haji",
+    "page": 998
+  },
+  {
+    "id": 17,
+    "category": "Q",
+    "title": "Bertalbiah dalam ihram haji",
+    "page": 999
+  },
+  {
+    "id": 18,
+    "category": "Q",
+    "title": "Menyaringkan suara dalam talbiah",
+    "page": 999
+  },
+  {
+    "id": 19,
+    "category": "Q",
+    "title": "3 jenis tawaf",
+    "page": 1001
+  },
+  {
+    "id": 20,
+    "category": "Q",
+    "title": "Tawaf wajib adalah Tawaf Ifadhah",
+    "page": 1001
+  },
+  {
+    "id": 21,
+    "category": "Q",
+    "title": "Tawaf dengan berjalan dan menaiki kenderaan",
+    "page": 1002
+  },
+  {
+    "id": 22,
+    "category": "Q",
+    "title": "Ragu-ragu melakukan tawaf dalam keadaan suci atau tidak, selepas tawaf",
+    "page": 1002
+  },
+  {
+    "id": 23,
+    "category": "Q",
+    "title": "Tersentuh kulit ajnabi ketika tawaf",
+    "page": 1003
+  },
+  {
+    "id": 24,
+    "category": "Q",
+    "title": "Boleh (harus) melakukan tawaf pada waktu-waktu yang tidak boleh solat padanya",
+    "page": 1005
+  },
+  {
+    "id": 25,
+    "category": "Q",
+    "title": "Buang angin ketika melakukan tawaf",
+    "page": 1006
+  },
+  {
+    "id": 26,
+    "category": "Q",
+    "title": "Hukum sa'i di tempat mas'a (sa'i) sekarang yang telah dibesarkan",
+    "page": 1006
+  },
+  {
+    "id": 27,
+    "category": "Q",
+    "title": "Menggunakan eskalator ketika melakukan sa'i",
+    "page": 1007
+  },
+  {
+    "id": 28,
+    "category": "Q",
+    "title": "7 pusingan sa'i",
+    "page": 1009
+  },
+  {
+    "id": 29,
+    "category": "Q",
+    "title": "Tidak memiliki rambut ketika tahallul",
+    "page": 1009
+  },
+  {
+    "id": 30,
+    "category": "Q",
+    "title": "Wuquf di Arafah",
+    "page": 1010
+  },
+  {
+    "id": 31,
+    "category": "Q",
+    "title": "Wuquf tanpa turun daripada kenderaan",
+    "page": 1010
+  },
+  {
+    "id": 32,
+    "category": "Q",
+    "title": "Mabit di Muzdalifah",
+    "page": 1011
+  },
+  {
+    "id": 33,
+    "category": "Q",
+    "title": "Mabit di Mina",
+    "page": 1011
+  },
+  {
+    "id": 34,
+    "category": "Q",
+    "title": "Mabit di Mina Jadid dan Mina Ajdad",
+    "page": 1011
+  },
+  {
+    "id": 35,
+    "category": "Q",
+    "title": "Tidak mabit kerana menjaga orang sakit",
+    "page": 1012
+  },
+  {
+    "id": 36,
+    "category": "Q",
+    "title": "Melempar jumrah pada hari tasyriq sebelum fajar",
+    "page": 1012
+  },
+  {
+    "id": 37,
+    "category": "Q",
+    "title": "Tidak kuat melempar jumrah",
+    "page": 1013
+  },
+  {
+    "id": 38,
+    "category": "Q",
+    "title": "Perubahan struktur tiang tempat jumrah",
+    "page": 1013
+  },
+  {
+    "id": 39,
+    "category": "Q",
+    "title": "Hilang tidak dijumpai dan belum melontar di 3 jumrah",
+    "page": 1014
+  },
+  {
+    "id": 40,
+    "category": "Q",
+    "title": "Mengambil batu kerikil bukan dari Muzdalifah",
+    "page": 1014
+  },
+  {
+    "id": 41,
+    "category": "Q",
+    "title": "Nafar Awwal dengan meninggalkan Mina sebelum zawal",
+    "page": 1015
+  },
+  {
+    "id": 42,
+    "category": "Q",
+    "title": "Memakai jam tangan ketika dalam ihram",
+    "page": 1015
+  },
+  {
+    "id": 43,
+    "category": "Q",
+    "title": "Wangi-wangian diharamkan kepada orang yang sedang dalam ihram (muhrim)",
+    "page": 1016
+  },
+  {
+    "id": 44,
+    "category": "Q",
+    "title": "Membawa minyak wangi di dalam beg tangan",
+    "page": 1016
+  },
+  {
+    "id": 45,
+    "category": "Q",
+    "title": "Menyikat rambut ketika dalam ihram",
+    "page": 1017
+  },
+  {
+    "id": 46,
+    "category": "Q",
+    "title": "Memotong kuku yang pecah atau terluka ketika sedang dalam ihram",
+    "page": 1018
+  },
+  {
+    "id": 47,
+    "category": "Q",
+    "title": "Terkena minyak wangi orang lain",
+    "page": 1018
+  },
+  {
+    "id": 48,
+    "category": "Q",
+    "title": "Mandi dengan sabun ketika dalam ibadah haji",
+    "page": 1018
+  },
+  {
+    "id": 49,
+    "category": "Q",
+    "title": "Memakai cermin mata dan penutup muka (mask)",
+    "page": 1019
+  },
+  {
+    "id": 50,
+    "category": "Q",
+    "title": "Menggunakan bahan atau makan makanan yang berbau harum (wangi) ketika dalam ihram",
+    "page": 1020
+  },
+  {
+    "id": 51,
+    "category": "Q",
+    "title": "Membawa minyak wangi ketika ihram",
+    "page": 1022
+  },
+  {
+    "id": 52,
+    "category": "Q",
+    "title": "Minyak wangi tumpah di pakaian ihram ketika dalam ihram",
+    "page": 1022
+  },
+  {
+    "id": 53,
+    "category": "Q",
+    "title": "Memotong kuku dan rambut ketika dalam ihram",
+    "page": 1023
+  },
+  {
+    "id": 54,
+    "category": "Q",
+    "title": "Tidak tahan dengan panas matahari",
+    "page": 1023
+  },
+  {
+    "id": 55,
+    "category": "Q",
+    "title": "Tidak boleh memakai seluar dalam ketika dalam ihram",
+    "page": 1024
+  },
+  {
+    "id": 56,
+    "category": "Q",
+    "title": "Memakai seluar dalam ketika ihram",
+    "page": 1024
+  },
+  {
+    "id": 57,
+    "category": "Q",
+    "title": "Wangian dalam ruang menunggu hotel",
+    "page": 1025
+  },
+  {
+    "id": 58,
+    "category": "Q",
+    "title": "Melepaskan binatang peliharaan ketika ihram",
+    "page": 1025
+  },
+  {
+    "id": 59,
+    "category": "Q",
+    "title": "Menyembelih binatang ketika ihram",
+    "page": 1026
+  },
+  {
+    "id": 60,
+    "category": "Q",
+    "title": "Memotong setengah helai rambut",
+    "page": 1026
+  },
+  {
+    "id": 61,
+    "category": "Q",
+    "title": "Lelaki memakai tali pinggang ketika ihram",
+    "page": 1027
+  },
+  {
+    "id": 62,
+    "category": "Q",
+    "title": "Perempuan haid tidak sah tawaf",
+    "page": 1027
+  },
+  {
+    "id": 63,
+    "category": "Q",
+    "title": "Jilbab (tudung) menutup kening bagi perempuan",
+    "page": 1028
+  },
+  {
+    "id": 64,
+    "category": "Q",
+    "title": "Perempuan menggunakan cermin mata dan penutup muka (mask) ketika dalam ihram",
+    "page": 1028
+  },
+  {
+    "id": 65,
+    "category": "Q",
+    "title": "Perempuan menguatkan suara ketika bertalbiah",
+    "page": 1029
+  },
+  {
+    "id": 66,
+    "category": "Q",
+    "title": "Tawaf Ifadhah untuk perempuan haid",
+    "page": 1030
+  },
+  {
+    "id": 67,
+    "category": "Q",
+    "title": "Perempuan hendaklah membuka mukanya ketika solat dan ketika dalam ihram",
+    "page": 1032
+  },
+  {
+    "id": 68,
+    "category": "Q",
+    "title": "Muka perempuan tertutup kain secara tidak sengaja",
+    "page": 1032
+  },
+  {
+    "id": 69,
+    "category": "Q",
+    "title": "Perempuan haji tanpa mahram",
+    "page": 1032
+  },
+  {
+    "id": 70,
+    "category": "Q",
+    "title": "Perlu keizinan suami sebelum menunaikan haji",
+    "page": 1033
+  },
+  {
+    "id": 71,
+    "category": "Q",
+    "title": "Tidak haji kerana iddah",
+    "page": 1034
+  },
+  {
+    "id": 72,
+    "category": "Q",
+    "title": "Keadaan isteri yang suaminya meninggal ketika sama-sama menunaikan haji",
+    "page": 1036
+  },
+  {
+    "id": 73,
+    "category": "Q",
+    "title": "Tawaf Ifadhah untuk perempuan nifas",
+    "page": 1037
+  },
+  {
+    "id": 74,
+    "category": "Q",
+    "title": "Makan ubat untuk menangguhkan haid supaya boleh menyelesaikan ibadah haji",
+    "page": 1037
+  },
+  {
+    "id": 75,
+    "category": "Q",
+    "title": "Membayar dam haji tamattu‘ menggunakan duit (qimah)",
+    "page": 1038
+  },
+  {
+    "id": 76,
+    "category": "Q",
+    "title": "Menyalurkan dam ke negara lain",
+    "page": 1039
+  },
+  {
+    "id": 77,
+    "category": "Q",
+    "title": "Badal haji untuk orang yang sudah meninggal",
+    "page": 1042
+  },
+  {
+    "id": 78,
+    "category": "Q",
+    "title": "Perluasan kawasan Mina",
+    "page": 1043
+  },
+  {
+    "id": 79,
+    "category": "Q",
+    "title": "Mengucup al-hajarul aswad adalah sunat",
+    "page": 1044
+  },
+  {
+    "id": 80,
+    "category": "Q",
+    "title": "Berebut-rebut mencium al-hajarul aswad",
+    "page": 1044
+  },
+  {
+    "id": 81,
+    "category": "Q",
+    "title": "Solat di kawasan perluasan Masjid Nabi",
+    "page": 1045
+  },
+  {
+    "id": 82,
+    "category": "Q",
+    "title": "Tidak mampu meneruskan manasik haji",
+    "page": 1045
+  },
+  {
+    "id": 83,
+    "category": "Q",
+    "title": "Melakukan haji untuk orang lain sedangkan dirinya belum melakukan haji",
+    "page": 1046
+  },
+  {
+    "id": 84,
+    "category": "Q",
+    "title": "Membawa pulang batu dari Tanah Haram",
+    "page": 1047
+  },
+  {
+    "id": 85,
+    "category": "Q",
+    "title": "Sunat menyembelih unta, lembu atau kambing selepas pulang daripada mengerjakan haji",
+    "page": 1047
+  },
+  {
+    "id": 86,
+    "category": "Q",
+    "title": "Meminta didoakan oleh orang yang baru pulang daripada haji",
+    "page": 1048
+  },
+  {
+    "id": 87,
+    "category": "Q",
+    "title": "Teringat Tawaf Ifadhah kurang sekali ketika sudah sampai di tanah air",
+    "page": 1049
+  },
+  {
+    "id": 88,
+    "category": "Q",
+    "title": "Sistem tabungan untuk pergi haji",
+    "page": 1050
+  },
+  {
+    "id": 89,
+    "category": "Q",
+    "title": "Antara haji dan kahwin",
+    "page": 1050
+  },
+  {
+    "id": 90,
+    "category": "Q",
+    "title": "Mampu tetapi belum mendapat panggilan daripada kerajaan untuk mengerjakan haji",
+    "page": 1051
+  },
+  {
+    "id": 91,
+    "category": "Q",
+    "title": "Meninggal dunia ketika menunggu giliran haji",
+    "page": 1052
+  },
+  {
+    "id": 92,
+    "category": "Q",
+    "title": "Menghajikan orang tua yang telah meninggal dunia",
+    "page": 1053
+  },
+  {
+    "id": 93,
+    "category": "Q",
+    "title": "Haji ketika kecil",
+    "page": 1053
+  },
+  {
+    "id": 94,
+    "category": "Q",
+    "title": "Tidak mahu pergi haji ketika mampu dan akhirnya jatuh miskin",
+    "page": 1054
+  },
+  {
+    "id": 95,
+    "category": "Q",
+    "title": "Menunaikan haji dengan duit haram",
+    "page": 1055
+  },
+  {
+    "id": 96,
+    "category": "Q",
+    "title": "Haji yang dilakukan sebelum murtad",
+    "page": 1056
+  },
+  {
+    "id": 97,
+    "category": "Q",
+    "title": "Tidak mampu berada dalam kenderaan dalam waktu yang lama",
+    "page": 1056
+  },
+  {
+    "id": 98,
+    "category": "Q",
+    "title": "Pesakit stroke menunaikan haji",
+    "page": 1057
+  },
+  {
+    "id": 99,
+    "category": "Q",
+    "title": "Haji bagi orang kaya yang lumpuh atau kurang upaya dari segi fizikal",
+    "page": 1057
+  },
+  {
+    "id": 100,
+    "category": "Q",
+    "title": "Antara haji kedua dan membantu pembangunan masjid atau sekolah",
+    "page": 1058
+  },
+  {
+    "id": 101,
+    "category": "Q",
+    "title": "Syarat-syarat daripada pemerintah kerajaan Arab Saudi dalam menunaikan haji",
+    "page": 1059
+  },
+  {
+    "id": 102,
+    "category": "Q",
+    "title": "Orang tua tidak boleh melarang anaknya untuk ibadah haji yang wajib dan haji nazar",
+    "page": 1060
+  },
+  {
+    "id": 103,
+    "category": "Q",
+    "title": "Kanak-kanak (ash-shibyan) dibolehkan untuk menunaikan haji",
+    "page": 1061
+  },
+  {
+    "id": 104,
+    "category": "Q",
+    "title": "Haji kanak-kanak",
+    "page": 1061
+  },
+  {
+    "id": 105,
+    "category": "Q",
+    "title": "Menunaikan haji dan menuntut ilmu tanpa izin ibu bapa",
+    "page": 1062
+  },
+  {
+    "id": 106,
+    "category": "Q",
+    "title": "Belum pernah menunaikan haji kemudian bernazar mengerjakan haji pada tahun tersebut, lalu mengerjakannya",
+    "page": 1062
+  },
+  {
+    "id": 107,
+    "category": "Q",
+    "title": "Lelaki melakukan haji untuk perempuan",
+    "page": 1063
+  },
+  {
+    "id": 108,
+    "category": "Q",
+    "title": "Belum tahallul, ditangkap polis",
+    "page": 1063
+  },
+  {
+    "id": 109,
+    "category": "Q",
+    "title": "Haji orang gila",
+    "page": 1064
+  }
+]
