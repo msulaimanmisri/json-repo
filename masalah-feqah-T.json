@@ -1,1 +1,242 @@
-
+[
+  {
+    "id": 1,
+    "category": "T",
+    "title": "Menghadapkan orang yang akan meninggal dunia ke arah kiblat",
+    "page": 1075
+  },
+  {
+    "id": 2,
+    "category": "T",
+    "title": "Apa yang harus dilakukan ketika menghadapi orang yang nazak",
+    "page": 1076
+  },
+  {
+    "id": 3,
+    "category": "T",
+    "title": "Memberi minum kepada orang yang sedang dalam sakaratul maut",
+    "page": 1076
+  },
+  {
+    "id": 4,
+    "category": "T",
+    "title": "Mentalqinkan kalimah tauhid kepada orang yang nazak",
+    "page": 1077
+  },
+  {
+    "id": 5,
+    "category": "T",
+    "title": "Menyebut 'Ucaplah' atau 'Haji' ketika mentalqin orang yang dalam sakaratul maut",
+    "page": 1078
+  },
+  {
+    "id": 6,
+    "category": "T",
+    "title": "Membaca surah Yaasin dan Ar-Ra'd dekat dengan orang yang sedang dalam sakaratul maut",
+    "page": 1078
+  },
+  {
+    "id": 7,
+    "category": "T",
+    "title": "Hukum wasiat",
+    "page": 1079
+  },
+  {
+    "id": 8,
+    "category": "T",
+    "title": "Berwasiat untuk dikuburkan di tempat tertentu",
+    "page": 1079
+  },
+  {
+    "id": 9,
+    "category": "T",
+    "title": "Berwasiat dikuburkan dekat dengan orang soleh",
+    "page": 1080
+  },
+  {
+    "id": 10,
+    "category": "T",
+    "title": "Menutup mata orang yang meninggal dunia",
+    "page": 1080
+  },
+  {
+    "id": 11,
+    "category": "T",
+    "title": "Menangisi mayat",
+    "page": 1080
+  },
+  {
+    "id": 12,
+    "category": "T",
+    "title": "Mencium orang yang meninggal dunia",
+    "page": 1081
+  },
+  {
+    "id": 13,
+    "category": "T",
+    "title": "Memaklumkan kematian",
+    "page": 1082
+  },
+  {
+    "id": 14,
+    "category": "T",
+    "title": "Mengumumkan berita kematian melalui pembesar suara",
+    "page": 1082
+  },
+  {
+    "id": 15,
+    "category": "T",
+    "title": "Tempoh bertakziah",
+    "page": 1083
+  },
+  {
+    "id": 16,
+    "category": "T",
+    "title": "Meninggal dan ada hutang puasa Ramadhan",
+    "page": 1083
+  },
+  {
+    "id": 17,
+    "category": "T",
+    "title": "Bercakap dengan suara yang kuat dekat jenazah",
+    "page": 1084
+  },
+  {
+    "id": 18,
+    "category": "T",
+    "title": "Menanggung hutang si mati",
+    "page": 1084
+  },
+  {
+    "id": 19,
+    "category": "T",
+    "title": "Menangisi jenazah",
+    "page": 1084
+  },
+  {
+    "id": 20,
+    "category": "T",
+    "title": "Membakar kemenyan atau wangian dekat dengan jenazah",
+    "page": 1085
+  },
+  {
+    "id": 21,
+    "category": "T",
+    "title": "Dianggap meninggal dunia, tetapi masih hidup",
+    "page": 1085
+  },
+  {
+    "id": 22,
+    "category": "T",
+    "title": "Perempuan meninggal dunia dalam keadaan mengandung",
+    "page": 1086
+  },
+  {
+    "id": 23,
+    "category": "T",
+    "title": "Mengqadha' solat dan puasa mayat",
+    "page": 1087
+  },
+  {
+    "id": 24,
+    "category": "T",
+    "title": "Orang yang meninggal dunia mempunyai hutang solat",
+    "page": 1088
+  },
+  {
+    "id": 25,
+    "category": "T",
+    "title": "Tasharruf orang yang akan mati",
+    "page": 1089
+  },
+  {
+    "id": 26,
+    "category": "T",
+    "title": "Status mati membunuh diri",
+    "page": 1089
+  },
+  {
+    "id": 27,
+    "category": "T",
+    "title": "Mati suri",
+    "page": 1090
+  },
+  {
+    "id": 28,
+    "category": "T",
+    "title": "Status meninggal dunia kerana gempa bumi atau tsunami",
+    "page": 1091
+  },
+  {
+    "id": 29,
+    "category": "T",
+    "title": "Hukum memindahkan mayat",
+    "page": 1091
+  },
+  {
+    "id": 30,
+    "category": "T",
+    "title": "Isteri keluar rumah dalam masa iddah",
+    "page": 1092
+  },
+  {
+    "id": 31,
+    "category": "T",
+    "title": "Isteri menghantar jenazah suami ke kubur",
+    "page": 1092
+  },
+  {
+    "id": 32,
+    "category": "T",
+    "title": "Perempuan dalam iddah menziarahi kubur suaminya",
+    "page": 1093
+  },
+  {
+    "id": 33,
+    "category": "T",
+    "title": "Perempuan dalam iddah keluar mengajar",
+    "page": 1093
+  },
+  {
+    "id": 34,
+    "category": "T",
+    "title": "Isteri kematian suami di negeri lain",
+    "page": 1094
+  },
+  {
+    "id": 35,
+    "category": "T",
+    "title": "Mempercepat iddah dengan ubat",
+    "page": 1094
+  },
+  {
+    "id": 36,
+    "category": "T",
+    "title": "Menggunakan harta warisan untuk tujuan pengurusan jenazah sebelum dibahagikan",
+    "page": 1095
+  },
+  {
+    "id": 37,
+    "category": "T",
+    "title": "Pembahagian harta warisan sebelum orang yang memberikannya meninggal dunia",
+    "page": 1095
+  },
+  {
+    "id": 38,
+    "category": "T",
+    "title": "Orang kafir tidak boleh mewarisi harta orang Islam",
+    "page": 1096
+  },
+  {
+    "id": 39,
+    "category": "T",
+    "title": "Orang mati hidup semula",
+    "page": 1096
+  },
+  {
+    "id": 40,
+    "category": "T",
+    "title": "Memberi formalin kepada jenazah",
+    "page": 1097
+  }
+]
