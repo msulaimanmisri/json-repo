@@ -1,1 +1,56 @@
-
+[
+  {
+    "id": 1,
+    "category": "S",
+    "title": "Hukum iktikaf",
+    "page": 1069
+  },
+  {
+    "id": 2,
+    "category": "S",
+    "title": "Masa iktikaf",
+    "page": 1070
+  },
+  {
+    "id": 3,
+    "category": "S",
+    "title": "Iktikaf di masjid",
+    "page": 1070
+  },
+  {
+    "id": 4,
+    "category": "S",
+    "title": "Hubungan suami isteri membatalkan iktikaf",
+    "page": 1071
+  },
+  {
+    "id": 5,
+    "category": "S",
+    "title": "Iktikaf tidak wajib kepada semua",
+    "page": 1071
+  },
+  {
+    "id": 6,
+    "category": "S",
+    "title": "Keadaan orang yang beriktikaf keluar dari masjid",
+    "page": 1072
+  },
+  {
+    "id": 7,
+    "category": "S",
+    "title": "Boleh keluar masjid untuk membuang air besar dan air kecil ketika beriktikaf",
+    "page": 1072
+  },
+  {
+    "id": 8,
+    "category": "S",
+    "title": "Niat iktikaf ketika sedang solat",
+    "page": 1073
+  },
+  {
+    "id": 9,
+    "category": "S",
+    "title": "Qadha’ iktikaf yang dinazarkan",
+    "page": 1073
+  }
+]
