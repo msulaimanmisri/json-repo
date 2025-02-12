@@ -1,1 +1,992 @@
-
+[
+  {
+    "id": 1,
+    "category": "O",
+    "title": "Wajib ibu bapa menyuruh anaknya yang sudah mumayyiz untuk berpuasa",
+    "page": 765
+  },
+  {
+    "id": 2,
+    "category": "O",
+    "title": "Rukyah terlihat, tetapi mengikut hisab tidak mungkin",
+    "page": 766
+  },
+  {
+    "id": 3,
+    "category": "O",
+    "title": "Rukyah tidak terlihat dan mengikut hisab berhasil",
+    "page": 767
+  },
+  {
+    "id": 4,
+    "category": "O",
+    "title": "Wajibnya pernyataan keputusan daripada hakim syar‘i tentang tsūbūtnya ru’yah al-hilal",
+    "page": 768
+  },
+  {
+    "id": 5,
+    "category": "O",
+    "title": "Kewajipan mengikut ketetapan daripada pemerintah dalam itsbat dan rukyah",
+    "page": 768
+  },
+  {
+    "id": 6,
+    "category": "O",
+    "title": "Keputusan pemerintah berbeza dengan rukyah",
+    "page": 769
+  },
+  {
+    "id": 7,
+    "category": "O",
+    "title": "Perbezaan pendapat dalam menentukan 1 Ramadhan dan 1 Syawal",
+    "page": 769
+  },
+  {
+    "id": 8,
+    "category": "O",
+    "title": "Penetapan 1 Ramadhan (itsbat) dengan persaksian orang yang adil",
+    "page": 770
+  },
+  {
+    "id": 9,
+    "category": "O",
+    "title": "Melihat hilal dengan teleskop",
+    "page": 771
+  },
+  {
+    "id": 10,
+    "category": "O",
+    "title": "Antara sunat-sunat puasa",
+    "page": 772
+  },
+  {
+    "id": 11,
+    "category": "O",
+    "title": "Berbuka puasa dengan segera (ta'jīl al-ifār)",
+    "page": 772
+  },
+  {
+    "id": 12,
+    "category": "O",
+    "title": "Antara perkara makruh ketika berpuasa",
+    "page": 773
+  },
+  {
+    "id": 13,
+    "category": "O",
+    "title": "Memberus gigi ketika berpuasa",
+    "page": 774
+  },
+  {
+    "id": 14,
+    "category": "O",
+    "title": "Puasa orang junub",
+    "page": 774
+  },
+  {
+    "id": 15,
+    "category": "O",
+    "title": "Puasa perempuan haid dan nifas tanpa mandi",
+    "page": 775
+  },
+  {
+    "id": 16,
+    "category": "O",
+    "title": "Orang tua yang tidak kuat berpuasa Ramadhan dibolehkan untuk tidak berpuasa",
+    "page": 776
+  },
+  {
+    "id": 17,
+    "category": "O",
+    "title": "Orang gila tidak wajib berpuasa",
+    "page": 777
+  },
+  {
+    "id": 18,
+    "category": "O",
+    "title": "Puasa orang nyanyuk (pikun)",
+    "page": 777
+  },
+  {
+    "id": 19,
+    "category": "O",
+    "title": "Cara niat puasa Ramadhan",
+    "page": 778
+  },
+  {
+    "id": 20,
+    "category": "O",
+    "title": "Wajib berniat puasa pada waktu malam (tabyit)",
+    "page": 779
+  },
+  {
+    "id": 21,
+    "category": "O",
+    "title": "Mentayinkan (menentukan) puasa dalam niat puasa",
+    "page": 779
+  },
+  {
+    "id": 22,
+    "category": "O",
+    "title": "Ragu-ragu sudah niat puasa atau belum",
+    "page": 780
+  },
+  {
+    "id": 23,
+    "category": "O",
+    "title": "Lupa berniat puasa Ramadhan pada malamnya, tetapi bersahur",
+    "page": 780
+  },
+  {
+    "id": 24,
+    "category": "O",
+    "title": "Niat puasa sebulan penuh",
+    "page": 781
+  },
+  {
+    "id": 25,
+    "category": "O",
+    "title": "Satu niat dua puasa",
+    "page": 782
+  },
+  {
+    "id": 26,
+    "category": "O",
+    "title": "Sekiranya lupa niat puasa Ramadhan pada waktu malam",
+    "page": 785
+  },
+  {
+    "id": 27,
+    "category": "O",
+    "title": "Melakukan jimak selepas berniat puasa",
+    "page": 787
+  },
+  {
+    "id": 28,
+    "category": "O",
+    "title": "Niat membatalkan puasa",
+    "page": 787
+  },
+  {
+    "id": 29,
+    "category": "O",
+    "title": "Niat puasa sunat pada waktu pagi selepas terlupa makan",
+    "page": 788
+  },
+  {
+    "id": 30,
+    "category": "O",
+    "title": "Sunat bersahur",
+    "page": 788
+  },
+  {
+    "id": 31,
+    "category": "O",
+    "title": "Makan sahur sebelum tengah malam",
+    "page": 789
+  },
+  {
+    "id": 32,
+    "category": "O",
+    "title": "Meneruskan sahur ketika waktu imsak",
+    "page": 790
+  },
+  {
+    "id": 33,
+    "category": "O",
+    "title": "Makan sahur sebelum tidur",
+    "page": 791
+  },
+  {
+    "id": 34,
+    "category": "O",
+    "title": "Makan sahur menyangkakan masih malam",
+    "page": 791
+  },
+  {
+    "id": 35,
+    "category": "O",
+    "title": "Berbuka puasa mengikut televisyen atau radio",
+    "page": 791
+  },
+  {
+    "id": 36,
+    "category": "O",
+    "title": "Menjawab azan ketika berbuka puasa",
+    "page": 792
+  },
+  {
+    "id": 37,
+    "category": "O",
+    "title": "Perbezaan waktu mengikut tempat dan negara",
+    "page": 792
+  },
+  {
+    "id": 38,
+    "category": "O",
+    "title": "Azan lebih cepat daripada waktu berbuka sebenar",
+    "page": 793
+  },
+  {
+    "id": 39,
+    "category": "O",
+    "title": "Haram makan dan minum bagi orang yang sedang berpuasa",
+    "page": 793
+  },
+  {
+    "id": 40,
+    "category": "O",
+    "title": "Makan sebutir nasi membatalkan puasa",
+    "page": 794
+  },
+  {
+    "id": 41,
+    "category": "O",
+    "title": "Sisa makanan di gigi tertelan ketika berpuasa",
+    "page": 794
+  },
+  {
+    "id": 42,
+    "category": "O",
+    "title": "Mencium bau makanan ketika berpuasa",
+    "page": 795
+  },
+  {
+    "id": 43,
+    "category": "O",
+    "title": "Makan sahur dalam keadaan junub",
+    "page": 795
+  },
+  {
+    "id": 44,
+    "category": "O",
+    "title": "Merasa (mencicip) makanan ketika berpuasa",
+    "page": 796
+  },
+  {
+    "id": 45,
+    "category": "O",
+    "title": "Mengunyah makanan untuk bayi",
+    "page": 798
+  },
+  {
+    "id": 46,
+    "category": "O",
+    "title": "Gusi berdarah ketika berpuasa",
+    "page": 799
+  },
+  {
+    "id": 47,
+    "category": "O",
+    "title": "Mulut atau telinga masuk air ketika berpuasa",
+    "page": 800
+  },
+  {
+    "id": 48,
+    "category": "O",
+    "title": "Menelan air liur",
+    "page": 802
+  },
+  {
+    "id": 49,
+    "category": "O",
+    "title": "Menelan sesuatu di gigi bersama air liur dimaafkan ketika berpuasa",
+    "page": 802
+  },
+  {
+    "id": 50,
+    "category": "O",
+    "title": "Tertelan air ketika berkumur ketika berpuasa",
+    "page": 803
+  },
+  {
+    "id": 51,
+    "category": "O",
+    "title": "Tertelan buih ubat gigi ketika menggosok gigi selepas Subuh",
+    "page": 804
+  },
+  {
+    "id": 52,
+    "category": "O",
+    "title": "Menggunakan siwak yang basah ketika berpuasa",
+    "page": 804
+  },
+  {
+    "id": 53,
+    "category": "O",
+    "title": "Menyedut hingus ketika berpuasa",
+    "page": 804
+  },
+  {
+    "id": 54,
+    "category": "O",
+    "title": "Menelan kahak ketika berpuasa",
+    "page": 805
+  },
+  {
+    "id": 55,
+    "category": "O",
+    "title": "Air termasuk ke dalam telinga ketika mandi hadas besar atau mandi sunat pada waktu siang bulan Ramadhan",
+    "page": 807
+  },
+  {
+    "id": 56,
+    "category": "O",
+    "title": "Sengaja membuka mulut untuk menghirup angin, bau masakan dan lain-lain ketika berpuasa",
+    "page": 808
+  },
+  {
+    "id": 57,
+    "category": "O",
+    "title": "Merokok ketika berpuasa",
+    "page": 810
+  },
+  {
+    "id": 58,
+    "category": "O",
+    "title": "Menghirup asap rokok",
+    "page": 810
+  },
+  {
+    "id": 59,
+    "category": "O",
+    "title": "Menghirup asap kemenyan",
+    "page": 811
+  },
+  {
+    "id": 60,
+    "category": "O",
+    "title": "Had lubang hidung dan telinga yang boleh membatalkan puasa",
+    "page": 811
+  },
+  {
+    "id": 61,
+    "category": "O",
+    "title": "Berkumur-kumur ketika berpuasa",
+    "page": 812
+  },
+  {
+    "id": 62,
+    "category": "O",
+    "title": "Menggosok gigi selepas Zuhur (zawal)",
+    "page": 812
+  },
+  {
+    "id": 63,
+    "category": "O",
+    "title": "Menggosok gigi menggunakan jari tangan selepas Zuhur",
+    "page": 815
+  },
+  {
+    "id": 64,
+    "category": "O",
+    "title": "Hukum menelan ludah ketika puasa dan solat",
+    "page": 815
+  },
+  {
+    "id": 65,
+    "category": "O",
+    "title": "Menelan air liur yang bercampur air sisa berkumur",
+    "page": 816
+  },
+  {
+    "id": 66,
+    "category": "O",
+    "title": "Telinga masuk semut ketika berpuasa",
+    "page": 816
+  },
+  {
+    "id": 67,
+    "category": "O",
+    "title": "Muntah dengan sengaja membatalkan puasa",
+    "page": 817
+  },
+  {
+    "id": 68,
+    "category": "O",
+    "title": "Memasukkan buasir kembali ke tempatnya bagi orang puasa yang berpenyakit buasir",
+    "page": 818
+  },
+  {
+    "id": 69,
+    "category": "O",
+    "title": "Menyentuh dubur ketika berpuasa",
+    "page": 819
+  },
+  {
+    "id": 70,
+    "category": "O",
+    "title": "Terkejut ketika buang air besar",
+    "page": 819
+  },
+  {
+    "id": 71,
+    "category": "O",
+    "title": "Hukum mencabut gigi ketika berpuasa",
+    "page": 820
+  },
+  {
+    "id": 72,
+    "category": "O",
+    "title": "Terminum air semasa berenang ketika berpuasa",
+    "page": 821
+  },
+  {
+    "id": 73,
+    "category": "O",
+    "title": "Pengsan ketika berpuasa",
+    "page": 821
+  },
+  {
+    "id": 74,
+    "category": "O",
+    "title": "Menjadi gila kerana mengambil barang-barang terlarang",
+    "page": 823
+  },
+  {
+    "id": 75,
+    "category": "O",
+    "title": "Berpuasa bagi orang yang tidak mampu berpuasa",
+    "page": 823
+  },
+  {
+    "id": 76,
+    "category": "O",
+    "title": "Tubuh bertambah sakit dan mudharat ketika berpuasa",
+    "page": 824
+  },
+  {
+    "id": 77,
+    "category": "O",
+    "title": "Membatalkan puasa kerana pening kepala atau demam ringan",
+    "page": 825
+  },
+  {
+    "id": 78,
+    "category": "O",
+    "title": "Orang yang bekerja dengan pekerjaan berat seperti petani, buruh binaan dan lain-lain berpuasa",
+    "page": 826
+  },
+  {
+    "id": 79,
+    "category": "O",
+    "title": "Petani ketika memungut hasil tanaman",
+    "page": 826
+  },
+  {
+    "id": 80,
+    "category": "O",
+    "title": "Haram jimak ketika sedang berpuasa",
+    "page": 828
+  },
+  {
+    "id": 81,
+    "category": "O",
+    "title": "Mencium dan memeluk isteri ketika berpuasa dan keluar air mani, membatalkan puasa",
+    "page": 830
+  },
+  {
+    "id": 82,
+    "category": "O",
+    "title": "Batal puasa ketika masih berhubung badan setelah terbit fajar (Subuh)",
+    "page": 831
+  },
+  {
+    "id": 83,
+    "category": "O",
+    "title": "Air mani keluar selepas fajar shadiq (Subuh)",
+    "page": 832
+  },
+  {
+    "id": 84,
+    "category": "O",
+    "title": "Lupa ketika berpuasa, lalu melakukan hubungan badan dengan isteri",
+    "page": 833
+  },
+  {
+    "id": 85,
+    "category": "O",
+    "title": "Makan pada waktu siang bulan Ramadhan dengan sengaja, kemudian melakukan hubungan badan dengan isterinya secara sengaja",
+    "page": 833
+  },
+  {
+    "id": 86,
+    "category": "O",
+    "title": "Mimpi basah (ihtilam) pada waktu siang ketika berpuasa",
+    "page": 834
+  },
+  {
+    "id": 87,
+    "category": "O",
+    "title": "Menonton filem atau video atau melihat gambar yang tidak bermoral ketika berpuasa sehingga bersyahwat dan keluar air mani",
+    "page": 835
+  },
+  {
+    "id": 88,
+    "category": "O",
+    "title": "Onani ketika berpuasa",
+    "page": 836
+  },
+  {
+    "id": 90,
+    "category": "O",
+    "title": "Membayangkan (mengkhayalkan) perempuan ketika berpuasa",
+    "page": 836
+  },
+  {
+    "id": 91,
+    "category": "O",
+    "title": "Perempuan haid dan nifas tidak boleh berpuasa",
+    "page": 837
+  },
+  {
+    "id": 92,
+    "category": "O",
+    "title": "Perempuan haid tidak boleh berpuasa sedangkan suci daripada hadas besar bukan syarat sah puasa",
+    "page": 839
+  },
+  {
+    "id": 93,
+    "category": "O",
+    "title": "Haid berhenti pada waktu siang Ramadhan",
+    "page": 839
+  },
+  {
+    "id": 94,
+    "category": "O",
+    "title": "Haid yang menyalahi kebiasaan ketika berpuasa",
+    "page": 839
+  },
+  {
+    "id": 95,
+    "category": "O",
+    "title": "Perempuan yang mengalami darah istihadah (mustahadhah) menyumbat kemaluannya ketika berpuasa",
+    "page": 840
+  },
+  {
+    "id": 96,
+    "category": "O",
+    "title": "Puasa dalam perjalanan",
+    "page": 840
+  },
+  {
+    "id": 97,
+    "category": "O",
+    "title": "Bermusafir selepas Subuh",
+    "page": 841
+  },
+  {
+    "id": 98,
+    "category": "O",
+    "title": "Bermusafir ketika berpuasa kerana semata-mata untuk mendapatkan rukhsah membatalkan puasa",
+    "page": 842
+  },
+  {
+    "id": 99,
+    "category": "O",
+    "title": "Berniat melakukan rukhsah untuk tidak berpuasa kerana musafir",
+    "page": 842
+  },
+  {
+    "id": 100,
+    "category": "O",
+    "title": "Musafir membatalkan puasanya ketika sampai di rumah",
+    "page": 843
+  },
+  {
+    "id": 101,
+    "category": "O",
+    "title": "Lebih utama berpuasa atau tidak ketika musafir",
+    "page": 843
+  },
+  {
+    "id": 102,
+    "category": "O",
+    "title": "Tidak boleh berniat untuk membatalkan puasa pada waktu malam bagi orang yang hendak bermusafir",
+    "page": 845
+  },
+  {
+    "id": 103,
+    "category": "O",
+    "title": "Hukum berpuasa bagi musafir yang selalu bermusafir dan tidak ada harapan bermukim",
+    "page": 845
+  },
+  {
+    "id": 104,
+    "category": "O",
+    "title": "Tidak boleh membatalkan puasa Ramadhan dalam musafir maksiat dan tidak boleh membatalkan puasa sebelum mencapai jarak sebuah musafir",
+    "page": 846
+  },
+  {
+    "id": 105,
+    "category": "O",
+    "title": "Menitiskan ubat ke telinga ketika berpuasa",
+    "page": 847
+  },
+  {
+    "id": 106,
+    "category": "O",
+    "title": "Menggunakan ubat menundakan haid supaya dapat berpuasa",
+    "page": 848
+  },
+  {
+    "id": 107,
+    "category": "O",
+    "title": "Viks inhaler",
+    "page": 848
+  },
+  {
+    "id": 108,
+    "category": "O",
+    "title": "Ubat titis mata",
+    "page": 849
+  },
+  {
+    "id": 109,
+    "category": "O",
+    "title": "Suntikan tidak membatalkan puasa",
+    "page": 849
+  },
+  {
+    "id": 110,
+    "category": "O",
+    "title": "Keadaan perempuan yang mengandung dan perempuan yang menyusukan anak",
+    "page": 853
+  },
+  {
+    "id": 111,
+    "category": "O",
+    "title": "Murtad ketika sedang berpuasa membatalkan puasa",
+    "page": 854
+  },
+  {
+    "id": 112,
+    "category": "O",
+    "title": "Berpuasa qadha' Ramadhan boleh pada bila-bila masa",
+    "page": 854
+  },
+  {
+    "id": 113,
+    "category": "O",
+    "title": "Tidak ingat berapa hari puasa yang ditinggalkan",
+    "page": 854
+  },
+  {
+    "id": 114,
+    "category": "O",
+    "title": "Terbatal ketika tengah qadha' puasa",
+    "page": 856
+  },
+  {
+    "id": 115,
+    "category": "O",
+    "title": "Wajib fidyah dan digandakan kerana melengahkan qadha' sebagai denda",
+    "page": 856
+  },
+  {
+    "id": 116,
+    "category": "O",
+    "title": "Tidak tahu sekiranya mengakhirkan qadha' akan kena fidyah",
+    "page": 857
+  },
+  {
+    "id": 117,
+    "category": "O",
+    "title": "Membahagikan jumlah hari qadha' kepada orang lain",
+    "page": 857
+  },
+  {
+    "id": 118,
+    "category": "O",
+    "title": "Memberi fidyah kepada fakir miskin di luar daerah (kawasan)",
+    "page": 857
+  },
+  {
+    "id": 119,
+    "category": "O",
+    "title": "Sakit tidak mampu berpuasa dan tidak mampu membayar fidyah",
+    "page": 858
+  },
+  {
+    "id": 120,
+    "category": "O",
+    "title": "Fidyah bagi orang yang tidak mengqadha' puasa sejak beberapa tahun",
+    "page": 858
+  },
+  {
+    "id": 121,
+    "category": "O",
+    "title": "Membayar seluruh fidyah sekali gus pada awal bulan Ramadhan",
+    "page": 859
+  },
+  {
+    "id": 122,
+    "category": "O",
+    "title": "Nilai fidyah boleh berubah-ubah mengikut jenis beras",
+    "page": 860
+  },
+  {
+    "id": 123,
+    "category": "O",
+    "title": "Kaffarah kerana melakukan hubungan badan (jimak) pada waktu siang bulan Ramadhan",
+    "page": 860
+  },
+  {
+    "id": 124,
+    "category": "O",
+    "title": "Bersama dengan isteri (jimak) kerana yakin telah terbatal puasa",
+    "page": 861
+  },
+  {
+    "id": 125,
+    "category": "O",
+    "title": "Jimak ketika puasa qadha' atau nazar",
+    "page": 862
+  },
+  {
+    "id": 126,
+    "category": "O",
+    "title": "Membatalkan puasa untuk melakukan hubungan badan (jimak)",
+    "page": 862
+  },
+  {
+    "id": 127,
+    "category": "O",
+    "title": "Tidak wajib qadha' untuk puasa sunat yang tidak diteruskan",
+    "page": 863
+  },
+  {
+    "id": 128,
+    "category": "O",
+    "title": "Perempuan haid mengqadha'kan puasa",
+    "page": 864
+  },
+  {
+    "id": 129,
+    "category": "O",
+    "title": "Qadha' kerana menyangka belum terlihat hilal 1 Ramadhan yang sebenarnya terlihat",
+    "page": 864
+  },
+  {
+    "id": 130,
+    "category": "O",
+    "title": "Qadha' puasa orang yang meninggal dunia",
+    "page": 864
+  },
+  {
+    "id": 131,
+    "category": "O",
+    "title": "Maksud wali yang berhak berpuasa atas nama mayat",
+    "page": 866
+  },
+  {
+    "id": 132,
+    "category": "O",
+    "title": "Mengqadha' (mengganti) puasa orang yang masih hidup",
+    "page": 867
+  },
+  {
+    "id": 133,
+    "category": "O",
+    "title": "Ragu-ragu ada hutang puasa Ramadhan",
+    "page": 867
+  },
+  {
+    "id": 134,
+    "category": "O",
+    "title": "Kaffarah mengikut hari berlakunya hubungan suami isteri",
+    "page": 868
+  },
+  {
+    "id": 135,
+    "category": "O",
+    "title": "Kaffarah hanya sekali walaupun melakukan hubungan suami isteri beberapa kali dalam sehari",
+    "page": 868
+  },
+  {
+    "id": 136,
+    "category": "O",
+    "title": "Hamba dalam kaffarah melakukan hubungan suami isteri pada waktu siang bulan Ramadhan adalah hamba yang beriman",
+    "page": 869
+  },
+  {
+    "id": 137,
+    "category": "O",
+    "title": "Berpuasa 2 bulan berturut-turut sekiranya tidak dapat membebaskan seorang hamba dalam kaffarah melakukan hubungan suami isteri pada waktu siang bulan Ramadhan",
+    "page": 869
+  },
+  {
+    "id": 138,
+    "category": "O",
+    "title": "Tidak boleh berpuasa pada Hari Raya Aidil Fitri dan Aidil Adha",
+    "page": 870
+  },
+  {
+    "id": 139,
+    "category": "O",
+    "title": "Puasa wishal",
+    "page": 872
+  },
+  {
+    "id": 140,
+    "category": "O",
+    "title": "Menggabungkan qadha' puasa Ramadhan dengan puasa sunat bulan Syawal (indiraj)",
+    "page": 873
+  },
+  {
+    "id": 141,
+    "category": "O",
+    "title": "Mengqadha'kan puasa sekali dengan puasa sunat",
+    "page": 874
+  },
+  {
+    "id": 142,
+    "category": "O",
+    "title": "Berpuasa sunat selepas Nisfu Sya’ban (15 Sya’ban)",
+    "page": 874
+  },
+  {
+    "id": 143,
+    "category": "O",
+    "title": "Puasa Syawal tidak sekali gus",
+    "page": 876
+  },
+  {
+    "id": 144,
+    "category": "O",
+    "title": "Puasa Arafah sekali dengan puasa wajib",
+    "page": 877
+  },
+  {
+    "id": 145,
+    "category": "O",
+    "title": "Puasa Arafah bersama dengan puasa sunat lain",
+    "page": 878
+  },
+  {
+    "id": 146,
+    "category": "O",
+    "title": "Puasa sunat Syawal di bulan Zulqaedah",
+    "page": 878
+  },
+  {
+    "id": 147,
+    "category": "O",
+    "title": "Tidak wajib berpuasa pada hari-hari putih (ayyam al-bidh)",
+    "page": 879
+  },
+  {
+    "id": 148,
+    "category": "O",
+    "title": "Makruh mengkhususkan puasa Jumaat sahaja",
+    "page": 879
+  },
+  {
+    "id": 149,
+    "category": "O",
+    "title": "Berpuasa sunat semata-mata pada hari Jumaat atau Sabtu atau Ahad",
+    "page": 880
+  },
+  {
+    "id": 150,
+    "category": "O",
+    "title": "Puasa Hari Arafah",
+    "page": 881
+  },
+  {
+    "id": 151,
+    "category": "O",
+    "title": "Puasa sunat bertepatan dengan kenduri kahwin",
+    "page": 882
+  },
+  {
+    "id": 152,
+    "category": "O",
+    "title": "Yaum asy-syak (hari syak)",
+    "page": 882
+  },
+  {
+    "id": 153,
+    "category": "O",
+    "title": "Izin suami untuk isteri berpuasa sunat (tathawwu')",
+    "page": 883
+  },
+  {
+    "id": 154,
+    "category": "O",
+    "title": "Tidak sah puasa, solat dan wudhu’ tanpa mengetahui syarat dan rukunnya",
+    "page": 883
+  },
+  {
+    "id": 155,
+    "category": "O",
+    "title": "Membuka restoran pada waktu siang ketika berpuasa",
+    "page": 884
+  },
+  {
+    "id": 156,
+    "category": "O",
+    "title": "Berbohong ketika berpuasa",
+    "page": 886
+  },
+  {
+    "id": 157,
+    "category": "O",
+    "title": "Puasa tetapi tidak solat",
+    "page": 886
+  },
+  {
+    "id": 158,
+    "category": "O",
+    "title": "Berapa hari puasa sebelum solat Istisqa’ (meminta hujan)?",
+    "page": 886
+  },
+  {
+    "id": 159,
+    "category": "O",
+    "title": "Menggosok gigi orang yang meninggal dunia dalam keadaan puasa",
+    "page": 887
+  },
+  {
+    "id": 160,
+    "category": "O",
+    "title": "Perlu mengetahui 2 hujung waktu siang untuk keabsahan (sah) puasa",
+    "page": 888
+  },
+  {
+    "id": 161,
+    "category": "O",
+    "title": "Isteri hendaklah meminta izin suami untuk berpuasa sunat ketika suami berada di rumah",
+    "page": 888
+  },
+  {
+    "id": 162,
+    "category": "O",
+    "title": "Tidak boleh berpuasa untuk orang lain",
+    "page": 889
+  },
+  {
+    "id": 163,
+    "category": "O",
+    "title": "Berpuasa pada waktu malam",
+    "page": 889
+  },
+  {
+    "id": 164,
+    "category": "O",
+    "title": "Berbuka puasa di masjid dengan dana daripada masjid",
+    "page": 889
+  },
+  {
+    "id": 165,
+    "category": "O",
+    "title": "Bernazar berpuasa pada 1 Syawal",
+    "page": 890
+  },
+  {
+    "id": 166,
+    "category": "O",
+    "title": "Syaitan dibelenggu pada bulan Ramadhan",
+    "page": 890
+  }
+]
