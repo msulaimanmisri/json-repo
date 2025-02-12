@@ -1,1 +1,32 @@
-
+[
+  {
+    "id": 1,
+    "category": "R",
+    "title": "Hukum berkhatan kepada lelaki atau perempuan",
+    "page": 1065
+  },
+  {
+    "id": 2,
+    "category": "R",
+    "title": "Anak dikhatan sejak kecil",
+    "page": 1067
+  },
+  {
+    "id": 3,
+    "category": "R",
+    "title": "Tidak berkhatan kerana tidak tahu hukumnya",
+    "page": 1067
+  },
+  {
+    "id": 4,
+    "category": "R",
+    "title": "Dilahirkan dalam keadaan telah berkhatan",
+    "page": 1068
+  },
+  {
+    "id": 5,
+    "category": "R",
+    "title": "Meninggal dunia tidak berkhatan",
+    "page": 1068
+  }
+]
