@@ -1,1 +1,596 @@
-
+[
+  {
+    "id": 1,
+    "category": "Z",
+    "title": "Hukum jual beli (bai')",
+    "page": 1381
+  },
+  {
+    "id": 2,
+    "category": "Z",
+    "title": "Perbezaan dasar antara jual beli dan riba",
+    "page": 1382
+  },
+  {
+    "id": 3,
+    "category": "Z",
+    "title": "Kenapa sighah diisyaratkan mesti ada dalam jual beli?",
+    "page": 1382
+  },
+  {
+    "id": 4,
+    "category": "Z",
+    "title": "Jual beli online",
+    "page": 1383
+  },
+  {
+    "id": 5,
+    "category": "Z",
+    "title": "Penggenapan harga",
+    "page": 1384
+  },
+  {
+    "id": 6,
+    "category": "Z",
+    "title": "Penukaran wang asing",
+    "page": 1385
+  },
+  {
+    "id": 7,
+    "category": "Z",
+    "title": "Penukaran wang kepada lebih kecil",
+    "page": 1385
+  },
+  {
+    "id": 8,
+    "category": "Z",
+    "title": "Menjual barang yang cacat",
+    "page": 1386
+  },
+  {
+    "id": 9,
+    "category": "Z",
+    "title": "Wajib memberitahu barang dagangan yang cacat",
+    "page": 1386
+  },
+  {
+    "id": 10,
+    "category": "Z",
+    "title": "Menjual barang tamat tempoh (expired)",
+    "page": 1387
+  },
+  {
+    "id": 11,
+    "category": "Z",
+    "title": "Batasan menipu dalam jual beli",
+    "page": 1387
+  },
+  {
+    "id": 12,
+    "category": "Z",
+    "title": "Membolak-balik barang dagangan",
+    "page": 1388
+  },
+  {
+    "id": 13,
+    "category": "Z",
+    "title": "Jual beli sesuatu yang masih tertanam",
+    "page": 1388
+  },
+  {
+    "id": 14,
+    "category": "Z",
+    "title": "Memuji barang dagangan",
+    "page": 1389
+  },
+  {
+    "id": 15,
+    "category": "Z",
+    "title": "Membayar dengan cek",
+    "page": 1390
+  },
+  {
+    "id": 16,
+    "category": "Z",
+    "title": "Perkara yang terangkum dalam jual beli tanah",
+    "page": 1390
+  },
+  {
+    "id": 17,
+    "category": "Z",
+    "title": "Menjual buah yang masih muda dan tanaman masih hijau",
+    "page": 1391
+  },
+  {
+    "id": 18,
+    "category": "Z",
+    "title": "Menjual binatang sembelihan yang bulu atau kotorannya belum dibersihkan",
+    "page": 1392
+  },
+  {
+    "id": 19,
+    "category": "Z",
+    "title": "Menawarkan barang yang dijual ketika masih dalam masa khiyar",
+    "page": 1392
+  },
+  {
+    "id": 20,
+    "category": "Z",
+    "title": "Hak khiyar selepas pembelian",
+    "page": 1392
+  },
+  {
+    "id": 21,
+    "category": "Z",
+    "title": "Menjual barang yang masih disewa orang lain",
+    "page": 1393
+  },
+  {
+    "id": 22,
+    "category": "Z",
+    "title": "Jual beli yang dilakukan oleh kanak-kanak",
+    "page": 1393
+  },
+  {
+    "id": 23,
+    "category": "Z",
+    "title": "Menjual dan membeli racun",
+    "page": 1395
+  },
+  {
+    "id": 24,
+    "category": "Z",
+    "title": "Promosi dan iklan perdagangan",
+    "page": 1396
+  },
+  {
+    "id": 25,
+    "category": "Z",
+    "title": "Wang muka dalam pembelian",
+    "page": 1396
+  },
+  {
+    "id": 26,
+    "category": "Z",
+    "title": "Jual beli binatang melata (seperti tikus, ular dan lain-lain), alat muzik yang haram dan patung",
+    "page": 1397
+  },
+  {
+    "id": 27,
+    "category": "Z",
+    "title": "Lebih kain yang dihantar kepada penjahit",
+    "page": 1398
+  },
+  {
+    "id": 28,
+    "category": "Z",
+    "title": "Jual beli pada hari Jumaat",
+    "page": 1398
+  },
+  {
+    "id": 29,
+    "category": "Z",
+    "title": "Barang disewa tetapi tidak diguna",
+    "page": 1399
+  },
+  {
+    "id": 30,
+    "category": "Z",
+    "title": "Jual beli dengan harga rendah",
+    "page": 1400
+  },
+  {
+    "id": 31,
+    "category": "Z",
+    "title": "Barang sampai tidak seperti yang dipesan",
+    "page": 1400
+  },
+  {
+    "id": 32,
+    "category": "Z",
+    "title": "Money changer",
+    "page": 1402
+  },
+  {
+    "id": 33,
+    "category": "Z",
+    "title": "Jual beli tanpa sighah (ijab qabul)",
+    "page": 1402
+  },
+  {
+    "id": 34,
+    "category": "Z",
+    "title": "Memberi jaminan (guarantee) dalam jual beli",
+    "page": 1402
+  },
+  {
+    "id": 35,
+    "category": "Z",
+    "title": "Jual beli dengan cara lelong iaitu yang membayar paling tinggi akan mendapat barang jualan",
+    "page": 1403
+  },
+  {
+    "id": 36,
+    "category": "Z",
+    "title": "Jual beli lintah",
+    "page": 1403
+  },
+  {
+    "id": 37,
+    "category": "Z",
+    "title": "Jual beli burung berkicau atau ikan perhiasan",
+    "page": 1404
+  },
+  {
+    "id": 38,
+    "category": "Z",
+    "title": "Melanggan surat khabar setiap hari dan membayar semuanya setiap akhir bulan",
+    "page": 1404
+  },
+  {
+    "id": 39,
+    "category": "Z",
+    "title": "Jual beli senjata tajam",
+    "page": 1404
+  },
+  {
+    "id": 40,
+    "category": "Z",
+    "title": "Jual beli darah",
+    "page": 1405
+  },
+  {
+    "id": 41,
+    "category": "Z",
+    "title": "Mengambil air dan meletakkan duit RM1",
+    "page": 1406
+  },
+  {
+    "id": 42,
+    "category": "Z",
+    "title": "Penjual tidak ada, barang jualan diambil dan membayarnya kemudian",
+    "page": 1406
+  },
+  {
+    "id": 43,
+    "category": "Z",
+    "title": "Menjual najis binatang sebagai baja tumbuh-tumbuhan",
+    "page": 1407
+  },
+  {
+    "id": 44,
+    "category": "Z",
+    "title": "Menjual beras yang masih dalam kulit dan membuat tempahan awal secara berbayar",
+    "page": 1408
+  },
+  {
+    "id": 45,
+    "category": "Z",
+    "title": "Menyimpan hasil perusahaan untuk menunggu harganya tinggi kemudian dijual dengan harga yang tinggi serta tidak mahu menjualnya ketika harganya masih rendah (murah)",
+    "page": 1409
+  },
+  {
+    "id": 46,
+    "category": "Z",
+    "title": "Menjual kotoran kambing",
+    "page": 1409
+  },
+  {
+    "id": 47,
+    "category": "Z",
+    "title": "Harga hutang (kredit) lebih mahal daripada harga tunai (cash)",
+    "page": 1409
+  },
+  {
+    "id": 48,
+    "category": "Z",
+    "title": "Menjual barang milik orang lain",
+    "page": 1410
+  },
+  {
+    "id": 49,
+    "category": "Z",
+    "title": "Menjual barang-barang yang tidak bertuah",
+    "page": 1411
+  },
+  {
+    "id": 50,
+    "category": "Z",
+    "title": "Menjual ayam yang ada potensi digunakan dalam sabung ayam",
+    "page": 1412
+  },
+  {
+    "id": 51,
+    "category": "Z",
+    "title": "Jual beli ijazah",
+    "page": 1413
+  },
+  {
+    "id": 52,
+    "category": "Z",
+    "title": "Jual beli saham",
+    "page": 1413
+  },
+  {
+    "id": 53,
+    "category": "Z",
+    "title": "Menjual kertas saham",
+    "page": 1414
+  },
+  {
+    "id": 54,
+    "category": "Z",
+    "title": "Jual beli secara hutang (bai' at-taqsith)",
+    "page": 1414
+  },
+  {
+    "id": 55,
+    "category": "Z",
+    "title": "Membaca buku-buku dalam kedai buku tanpa membelinya",
+    "page": 1414
+  },
+  {
+    "id": 56,
+    "category": "Z",
+    "title": "Menjual barang promosi",
+    "page": 1415
+  },
+  {
+    "id": 57,
+    "category": "Z",
+    "title": "Jual beli kucing betina dan monyet",
+    "page": 1416
+  },
+  {
+    "id": 58,
+    "category": "Z",
+    "title": "Jual beli penawar bisa ular",
+    "page": 1416
+  },
+  {
+    "id": 59,
+    "category": "Z",
+    "title": "Pembayaran dengan cara pemindahan duit (transfer)",
+    "page": 1417
+  },
+  {
+    "id": 60,
+    "category": "Z",
+    "title": "Menjual kelapa berserta kulit yang belum dibuka",
+    "page": 1418
+  },
+  {
+    "id": 61,
+    "category": "Z",
+    "title": "Hak cipta",
+    "page": 1418
+  },
+  {
+    "id": 62,
+    "category": "Z",
+    "title": "Mencampur beras yang tidak elok dengan yang elok",
+    "page": 1419
+  },
+  {
+    "id": 63,
+    "category": "Z",
+    "title": "Boleh berjual beli dengan orang kafir",
+    "page": 1419
+  },
+  {
+    "id": 64,
+    "category": "Z",
+    "title": "Hukum menjual rambut",
+    "page": 1420
+  },
+  {
+    "id": 65,
+    "category": "Z",
+    "title": "Tidak boleh (haram) berjual beli arak (al-khamr)",
+    "page": 1421
+  },
+  {
+    "id": 66,
+    "category": "Z",
+    "title": "Jual beli secara paksa tanpa hak",
+    "page": 1421
+  },
+  {
+    "id": 67,
+    "category": "Z",
+    "title": "Menjual kemenyan kepada orang kafir",
+    "page": 1422
+  },
+  {
+    "id": 68,
+    "category": "Z",
+    "title": "Jualan sementara",
+    "page": 1422
+  },
+  {
+    "id": 69,
+    "category": "Z",
+    "title": "Memborong padi di sawah",
+    "page": 1423
+  },
+  {
+    "id": 70,
+    "category": "Z",
+    "title": "Perjanjian barang dibeli tidak boleh dikembalikan",
+    "page": 1423
+  },
+  {
+    "id": 71,
+    "category": "Z",
+    "title": "Menjual emas lebih tinggi sekiranya membelinya secara hutang",
+    "page": 1424
+  },
+  {
+    "id": 72,
+    "category": "Z",
+    "title": "Jual beli menggunakan wang palsu",
+    "page": 1424
+  },
+  {
+    "id": 73,
+    "category": "Z",
+    "title": "Menjual susu campuran",
+    "page": 1425
+  },
+  {
+    "id": 74,
+    "category": "Z",
+    "title": "Jual beli siput babi (siput darat yang berjalan dengan perut/achatina fulica)",
+    "page": 1425
+  },
+  {
+    "id": 75,
+    "category": "Z",
+    "title": "Mengeluarkan duit sekali gus dan mendapat barang secara bertahap",
+    "page": 1425
+  },
+  {
+    "id": 76,
+    "category": "Z",
+    "title": "Menjual ubi kayu yang masih dalam tanah",
+    "page": 1426
+  },
+  {
+    "id": 77,
+    "category": "Z",
+    "title": "Penjaga kedai hendak membeli atau berhutang daripada kedai",
+    "page": 1426
+  },
+  {
+    "id": 78,
+    "category": "Z",
+    "title": "Buku yang rosak",
+    "page": 1427
+  },
+  {
+    "id": 79,
+    "category": "Z",
+    "title": "Jual beli burung",
+    "page": 1428
+  },
+  {
+    "id": 80,
+    "category": "Z",
+    "title": "Menjual ulat dan cengkerik",
+    "page": 1428
+  },
+  {
+    "id": 81,
+    "category": "Z",
+    "title": "Menjual pelindung",
+    "page": 1429
+  },
+  {
+    "id": 82,
+    "category": "Z",
+    "title": "Menjual barang-barang yang dicuri",
+    "page": 1430
+  },
+  {
+    "id": 83,
+    "category": "Z",
+    "title": "Pembelian ada jaminan (guarantee)",
+    "page": 1430
+  },
+  {
+    "id": 84,
+    "category": "Z",
+    "title": "Menjual barang-barang yang sudah rosak atau tidak boleh digunakan lagi",
+    "page": 1431
+  },
+  {
+    "id": 85,
+    "category": "Z",
+    "title": "Memesan barang tanpa memberikan duit terus",
+    "page": 1431
+  },
+  {
+    "id": 86,
+    "category": "Z",
+    "title": "Menjual air susu ibu",
+    "page": 1431
+  },
+  {
+    "id": 87,
+    "category": "Z",
+    "title": "Menjual keropok yang dibungkus",
+    "page": 1432
+  },
+  {
+    "id": 88,
+    "category": "Z",
+    "title": "Memesan makanan",
+    "page": 1432
+  },
+  {
+    "id": 89,
+    "category": "Z",
+    "title": "Dropshipping",
+    "page": 1433
+  },
+  {
+    "id": 90,
+    "category": "Z",
+    "title": "\"Boleh bayar bila-bila sahaja\"",
+    "page": 1433
+  },
+  {
+    "id": 91,
+    "category": "Z",
+    "title": "Menjual barang yang tidak jelas",
+    "page": 1434
+  },
+  {
+    "id": 92,
+    "category": "Z",
+    "title": "Menjual barang buangan",
+    "page": 1434
+  },
+  {
+    "id": 93,
+    "category": "Z",
+    "title": "Menjual minyak lintah",
+    "page": 1434
+  },
+  {
+    "id": 94,
+    "category": "Z",
+    "title": "Menjual atau membeli buku ramalan atau buku yang sesat",
+    "page": 1435
+  },
+  {
+    "id": 95,
+    "category": "Z",
+    "title": "Menjual barang dengan harga yang terlalu tinggi",
+    "page": 1435
+  },
+  {
+    "id": 96,
+    "category": "Z",
+    "title": "Menjual rumah yang dibina daripada kotoran lembu",
+    "page": 1436
+  },
+  {
+    "id": 97,
+    "category": "Z",
+    "title": "Menjual barang yang belum diketahui",
+    "page": 1436
+  },
+  {
+    "id": 98,
+    "category": "Z",
+    "title": "Menawarkan harga tinggi dengan tujuan dibeli orang lain",
+    "page": 1437
+  },
+  {
+    "id": 99,
+    "category": "Z",
+    "title": "Menjual kereta kepada perompak",
+    "page": 1438
+  }
+]
