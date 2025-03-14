@@ -1,1 +1,596 @@
-
+[
+  {
+    "id": 1,
+    "category": "H1",
+    "title": "Binatang hendaklah disembelih",
+    "page": 1503
+  },
+  {
+    "id": 2,
+    "category": "H1",
+    "title": "Sunat-sunat dalam penyembelihan",
+    "page": 1504
+  },
+  {
+    "id": 3,
+    "category": "H1",
+    "title": "Syarat keadaan hidup binatang dalam penyembelihan",
+    "page": 1505
+  },
+  {
+    "id": 4,
+    "category": "H1",
+    "title": "Tanda binatang dalam keadaan nyawa yang sempurna (al-hayah al-mustaqirrah)",
+    "page": 1505
+  },
+  {
+    "id": 5,
+    "category": "H1",
+    "title": "Cara menyembelih yang baik",
+    "page": 1506
+  },
+  {
+    "id": 6,
+    "category": "H1",
+    "title": "Siapa yang afhdal menyembelih binatang?",
+    "page": 1507
+  },
+  {
+    "id": 7,
+    "category": "H1",
+    "title": "Binatang disembelih orang bukan Islam",
+    "page": 1507
+  },
+  {
+    "id": 8,
+    "category": "H1",
+    "title": "Menyembelih haiwan dengan mesin",
+    "page": 1507
+  },
+  {
+    "id": 9,
+    "category": "H1",
+    "title": "Memotong hulqum atau mari’ sahaja",
+    "page": 1508
+  },
+  {
+    "id": 10,
+    "category": "H1",
+    "title": "Terputus hulqum dan urat mari’ tetapi masih hidup",
+    "page": 1509
+  },
+  {
+    "id": 11,
+    "category": "H1",
+    "title": "Kepala ayam putus ketika disembelih",
+    "page": 1510
+  },
+  {
+    "id": 12,
+    "category": "H1",
+    "title": "Pisau terangkat ketika menyembelih",
+    "page": 1510
+  },
+  {
+    "id": 13,
+    "category": "H1",
+    "title": "Berburu burung dengan senapang api atau senapang angin",
+    "page": 1513
+  },
+  {
+    "id": 14,
+    "category": "H1",
+    "title": "Alat penyembelihan seperti gigi, kuku dan tulang",
+    "page": 1515
+  },
+  {
+    "id": 15,
+    "category": "H1",
+    "title": "Penyembelihan dengan alat yang diambil dengan cara tidak benar",
+    "page": 1516
+  },
+  {
+    "id": 16,
+    "category": "H1",
+    "title": "Beberapa cara penyembelihan terhadap binatang yang darahnya tidak mengalir",
+    "page": 1516
+  },
+  {
+    "id": 17,
+    "category": "H1",
+    "title": "Menyebut nama Allah ketika menyembelih",
+    "page": 1517
+  },
+  {
+    "id": 18,
+    "category": "H1",
+    "title": "Menyembelih tanpa membaca basmalah",
+    "page": 1518
+  },
+  {
+    "id": 19,
+    "category": "H1",
+    "title": "Perempuan atau kanak-kanak menyembelih binatang",
+    "page": 1518
+  },
+  {
+    "id": 20,
+    "category": "H1",
+    "title": "Hukum perempuan Muslimah atau kitabiyyah (ahli kitab) menyembelih",
+    "page": 1518
+  },
+  {
+    "id": 21,
+    "category": "H1",
+    "title": "Keluar separuh, induk (ibu) disembelih",
+    "page": 1519
+  },
+  {
+    "id": 22,
+    "category": "H1",
+    "title": "Penyembelihan oleh orang bisu",
+    "page": 1519
+  },
+  {
+    "id": 23,
+    "category": "H1",
+    "title": "Penyembelihan oleh orang yang tidak berkhatan",
+    "page": 1519
+  },
+  {
+    "id": 24,
+    "category": "H1",
+    "title": "Menyembelih ayam sakit",
+    "page": 1520
+  },
+  {
+    "id": 25,
+    "category": "H1",
+    "title": "Salah tembak binatang ketika berburu",
+    "page": 1521
+  },
+  {
+    "id": 26,
+    "category": "H1",
+    "title": "Hukum korban",
+    "page": 1521
+  },
+  {
+    "id": 27,
+    "category": "H1",
+    "title": "Waktu menyembelih haiwan korban",
+    "page": 1522
+  },
+  {
+    "id": 28,
+    "category": "H1",
+    "title": "Perkara yang disunatkan bagi orang yang berkorban",
+    "page": 1522
+  },
+  {
+    "id": 29,
+    "category": "H1",
+    "title": "Perbezaan antara korban dan aqiqah",
+    "page": 1523
+  },
+  {
+    "id": 30,
+    "category": "H1",
+    "title": "Keadaan cacat pada binatang korban dan aqiqah",
+    "page": 1524
+  },
+  {
+    "id": 31,
+    "category": "H1",
+    "title": "Binatang kebiri untuk korban atau aqiqah",
+    "page": 1524
+  },
+  {
+    "id": 32,
+    "category": "H1",
+    "title": "Menggabungkan aqiqah dengan korban",
+    "page": 1524
+  },
+  {
+    "id": 33,
+    "category": "H1",
+    "title": "Ungkapan: 'Ini untuk korban.'",
+    "page": 1526
+  },
+  {
+    "id": 34,
+    "category": "H1",
+    "title": "Tidak tahu umur binatang untuk korban atau aqiqah",
+    "page": 1528
+  },
+  {
+    "id": 35,
+    "category": "H1",
+    "title": "Menyembelih binatang korban sebelum solat sunat Hari Raya Aidil Adha",
+    "page": 1528
+  },
+  {
+    "id": 36,
+    "category": "H1",
+    "title": "Menyembelih binatang di luar hari-hari berkorban",
+    "page": 1529
+  },
+  {
+    "id": 37,
+    "category": "H1",
+    "title": "Niat pahala seekor kambing atau satu bahagian lembu untuk seluruh keluarga",
+    "page": 1530
+  },
+  {
+    "id": 38,
+    "category": "H1",
+    "title": "Korban atas nama institusi atau kumpulan",
+    "page": 1532
+  },
+  {
+    "id": 39,
+    "category": "H1",
+    "title": "Daging korban nazar bercampur dengan yang lain",
+    "page": 1532
+  },
+  {
+    "id": 40,
+    "category": "H1",
+    "title": "Korban untuk orang yang sudah meninggal dunia",
+    "page": 1533
+  },
+  {
+    "id": 41,
+    "category": "H1",
+    "title": "Daging korban wajib dan aqiqah wajib",
+    "page": 1535
+  },
+  {
+    "id": 42,
+    "category": "H1",
+    "title": "Makan daging korban",
+    "page": 1535
+  },
+  {
+    "id": 43,
+    "category": "H1",
+    "title": "Daging korban diberikan kepada hanya seorang",
+    "page": 1536
+  },
+  {
+    "id": 44,
+    "category": "H1",
+    "title": "Kadar banyak daging korban yang boleh dimakan",
+    "page": 1536
+  },
+  {
+    "id": 45,
+    "category": "H1",
+    "title": "Memindahkan (memberikan) daging korban keluar daerah",
+    "page": 1536
+  },
+  {
+    "id": 46,
+    "category": "H1",
+    "title": "Kulit binatang korban sebagai upah kepada tukang sembelih",
+    "page": 1537
+  },
+  {
+    "id": 47,
+    "category": "H1",
+    "title": "Nazar korban binatang cacat",
+    "page": 1538
+  },
+  {
+    "id": 48,
+    "category": "H1",
+    "title": "Daging korban semuanya dimasak sebelum dibahagikan",
+    "page": 1539
+  },
+  {
+    "id": 49,
+    "category": "H1",
+    "title": "Mana yang lebih utama, korban atau sedekah?",
+    "page": 1540
+  },
+  {
+    "id": 50,
+    "category": "H1",
+    "title": "Di mana korban lebih afhdal disembelih?",
+    "page": 1541
+  },
+  {
+    "id": 51,
+    "category": "H1",
+    "title": "Menyembelih korban atas nama orang yang masih hidup",
+    "page": 1541
+  },
+  {
+    "id": 52,
+    "category": "H1",
+    "title": "Binatang putus telinga dijadikan korban",
+    "page": 1541
+  },
+  {
+    "id": 53,
+    "category": "H1",
+    "title": "Orang kaya yang tidak mahu berkorban",
+    "page": 1542
+  },
+  {
+    "id": 54,
+    "category": "H1",
+    "title": "Penyembelih yang disuruh untuk menyembelih binatang korban mendapat daging korban",
+    "page": 1543
+  },
+  {
+    "id": 55,
+    "category": "H1",
+    "title": "Berkorban dengan duit, bukan binatang",
+    "page": 1543
+  },
+  {
+    "id": 56,
+    "category": "H1",
+    "title": "Hukum memberikan sebahagian daging korban kepada orang kaya",
+    "page": 1543
+  },
+  {
+    "id": 57,
+    "category": "H1",
+    "title": "Apakah yang boleh dibuat oleh orang kaya dan orang miskin yang menerima daging korban?",
+    "page": 1544
+  },
+  {
+    "id": 58,
+    "category": "H1",
+    "title": "Berkorban seekor lembu atau seekor unta boleh untuk 7 orang",
+    "page": 1544
+  },
+  {
+    "id": 59,
+    "category": "H1",
+    "title": "Istilah 'fakir' dan 'kaya' dalam perkara korban",
+    "page": 1545
+  },
+  {
+    "id": 60,
+    "category": "H1",
+    "title": "Orang yang berkorban (mudhahhi) mengambil kulit dan tanduk binatang korbannya",
+    "page": 1546
+  },
+  {
+    "id": 61,
+    "category": "H1",
+    "title": "Orang yang berkorban (mudhahhi) memotong kuku dan rambut sebelum binatang korbannya disembelih",
+    "page": 1546
+  },
+  {
+    "id": 62,
+    "category": "H1",
+    "title": "Pembahagian daging korban kepada orang bukan Islam",
+    "page": 1546
+  },
+  {
+    "id": 63,
+    "category": "H1",
+    "title": "Hukum menjual kulit binatang korban",
+    "page": 1547
+  },
+  {
+    "id": 64,
+    "category": "H1",
+    "title": "Perbezaan daging korban wajib dan korban sunat",
+    "page": 1549
+  },
+  {
+    "id": 65,
+    "category": "H1",
+    "title": "Daging korban nazar bercampur dengan daging korban sunat",
+    "page": 1550
+  },
+  {
+    "id": 66,
+    "category": "H1",
+    "title": "Ayam sebagai binatang korban",
+    "page": 1551
+  },
+  {
+    "id": 67,
+    "category": "H1",
+    "title": "Korban menggunakan haiwan betina",
+    "page": 1552
+  },
+  {
+    "id": 68,
+    "category": "H1",
+    "title": "Korban menggunakan duit senilai binatang atau bahagian korban",
+    "page": 1553
+  },
+  {
+    "id": 69,
+    "category": "H1",
+    "title": "Binatang korban yang dijaga atau diikat oleh pihak pengurusan korban seperti AJK masjid atau surau mati atau cacat",
+    "page": 1553
+  },
+  {
+    "id": 70,
+    "category": "H1",
+    "title": "Mewakilkan seseorang untuk melakukan korban bagi dirinya yang bekerja di luar negara",
+    "page": 1554
+  },
+  {
+    "id": 71,
+    "category": "H1",
+    "title": "Korban nazar untuk jamuan perkahwinan",
+    "page": 1554
+  },
+  {
+    "id": 72,
+    "category": "H1",
+    "title": "Mewakilkan korban untuk orang lain tanpa izin daripadanya",
+    "page": 1555
+  },
+  {
+    "id": 73,
+    "category": "H1",
+    "title": "Menjual haiwan korban sebelum disembelih dan menjual daging korban setelah disembelih",
+    "page": 1556
+  },
+  {
+    "id": 74,
+    "category": "H1",
+    "title": "Orang yang diwakilkan dalam korban mengambil bahagian daging korban",
+    "page": 1557
+  },
+  {
+    "id": 75,
+    "category": "H1",
+    "title": "Berkorban dengan haiwan korban yang bunting",
+    "page": 1557
+  },
+  {
+    "id": 76,
+    "category": "H1",
+    "title": "Disuruh menyembelih binatang korban yang belum memasuki umur korban",
+    "page": 1558
+  },
+  {
+    "id": 77,
+    "category": "H1",
+    "title": "Berkorban dengan binatang yang berpenyakit kudis",
+    "page": 1559
+  },
+  {
+    "id": 78,
+    "category": "H1",
+    "title": "Daging korban orang yang sudah meninggal dunia",
+    "page": 1559
+  },
+  {
+    "id": 79,
+    "category": "H1",
+    "title": "Berkongsi duit untuk satu bahagian korban pada lembu",
+    "page": 1560
+  },
+  {
+    "id": 80,
+    "category": "H1",
+    "title": "Membahagikan daging korban di luar hari-hari Tasyrik",
+    "page": 1560
+  },
+  {
+    "id": 81,
+    "category": "H1",
+    "title": "Persamaan hukum dalam aqiqah dengan korban",
+    "page": 1561
+  },
+  {
+    "id": 82,
+    "category": "H1",
+    "title": "Seekor lembu untuk 7 orang",
+    "page": 1561
+  },
+  {
+    "id": 83,
+    "category": "H1",
+    "title": "Sunat-sunat aqiqah",
+    "page": 1562
+  },
+  {
+    "id": 84,
+    "category": "H1",
+    "title": "Aqiqah untuk anak yang sudah meninggal dunia",
+    "page": 1563
+  },
+  {
+    "id": 85,
+    "category": "H1",
+    "title": "Melakukan aqiqah untuk diri sendiri setelah dewasa",
+    "page": 1564
+  },
+  {
+    "id": 86,
+    "category": "H1",
+    "title": "Memasak daging aqiqah",
+    "page": 1565
+  },
+  {
+    "id": 87,
+    "category": "H1",
+    "title": "Memberi nama anak yang masih dalam kandungan",
+    "page": 1565
+  },
+  {
+    "id": 88,
+    "category": "H1",
+    "title": "Memberi nama anak dengan nama Malaikat",
+    "page": 1565
+  },
+  {
+    "id": 89,
+    "category": "H1",
+    "title": "Mengaqiqahkan 7 anak lelaki dengan seekor lembu",
+    "page": 1566
+  },
+  {
+    "id": 90,
+    "category": "H1",
+    "title": "Daging aqiqah boleh dimakan atau dijual atau disedekahkan",
+    "page": 1566
+  },
+  {
+    "id": 91,
+    "category": "H1",
+    "title": "Keadaan aqiqah bayi yang keguguran (premature)",
+    "page": 1567
+  },
+  {
+    "id": 92,
+    "category": "H1",
+    "title": "Terlambat dalam melakukan aqiqah terhadap anak-anak",
+    "page": 1569
+  },
+  {
+    "id": 93,
+    "category": "H1",
+    "title": "Persamaan antara aqiqah dengan korban",
+    "page": 1570
+  },
+  {
+    "id": 94,
+    "category": "H1",
+    "title": "Seekor kambing untuk aqiqah anak lelaki",
+    "page": 1570
+  },
+  {
+    "id": 95,
+    "category": "H1",
+    "title": "Aqiqah dengan membeli daging dan bersedekah",
+    "page": 1571
+  },
+  {
+    "id": 96,
+    "category": "H1",
+    "title": "Datuk melakukan aqiqah untuk cucu",
+    "page": 1571
+  },
+  {
+    "id": 97,
+    "category": "H1",
+    "title": "Mengaqiqahkan anak yang sudah dewasa",
+    "page": 1572
+  },
+  {
+    "id": 98,
+    "category": "H1",
+    "title": "Daging aqiqah untuk majlis perkahwinan",
+    "page": 1573
+  },
+  {
+    "id": 99,
+    "category": "H1",
+    "title": "Aqiqah bertahap",
+    "page": 1573
+  }
+]
