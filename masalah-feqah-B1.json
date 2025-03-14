@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "category": "B1",
+    "title": "Meminjamkan barang orang lain kepada orang lain",
+    "page": 1443
+  },
+  {
+    "id": 2,
+    "category": "B1",
+    "title": "Menyuruh orang lain menggunakan barang pinjaman",
+    "page": 1444
+  },
+  {
+    "id": 3,
+    "category": "B1",
+    "title": "Mendapati kesalahan tulisan pada buku pinjaman",
+    "page": 1444
+  },
+  {
+    "id": 4,
+    "category": "B1",
+    "title": "Memberi syarat: 'Jika ada kerosakan, maka mesti diganti.'",
+    "page": 1444
+  },
+  {
+    "id": 5,
+    "category": "B1",
+    "title": "Meminjam motorsikal",
+    "page": 1445
+  },
+  {
+    "id": 6,
+    "category": "B1",
+    "title": "Meminjam barang yang menjadi milik bersama",
+    "page": 1446
+  },
+  {
+    "id": 7,
+    "category": "B1",
+    "title": "Tidak menentukan siapa yang meminjam",
+    "page": 1447
+  },
+  {
+    "id": 8,
+    "category": "B1",
+    "title": "Meminjam tanpa meminta izin terlebih dahulu",
+    "page": 1447
+  },
+  {
+    "id": 9,
+    "category": "B1",
+    "title": "Membuat salinan buku pinjaman",
+    "page": 1448
+  }
+]
