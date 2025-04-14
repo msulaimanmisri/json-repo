@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Laravel"
+  },
+  {
+    "id": 2,
+    "name": "WordPress"
+  },
+  {
+    "id": 3,
+    "name": "PHP"
+  },
+  {
+    "id": 4,
+    "name": "JavaScript"
+  },
+  {
+    "id": 5,
+    "name": "jQuery"
+  },
+  {
+    "id": 6,
+    "name": "Vue Js"
+  },
+  {
+    "id": 7,
+    "name": "React Js"
+  },
+  {
+    "id": 8,
+    "name": "Bootstrap CSS"
+  },
+  {
+    "id": 9,
+    "name": "Digital Ocean"
+  },
+  {
+    "id": 10,
+    "name": "RunCloud"
+  },
+  {
+    "id": 11,
+    "name": "HTML"
+  },
+  {
+    "id": 12,
+    "name": "CSS"
+  },
+  {
+    "id": 13,
+    "name": "Laravel Livewire"
+  },
+  {
+    "id": 14,
+    "name": "Alpine Js"
+  },
+  {
+    "id": 15,
+    "name": "Tailwind CSS"
+  },
+  {
+    "id": 16,
+    "name": "WooCommerce"
+  },
+  {
+    "id": 17,
+    "name": "WordPress CPT"
+  },
+  {
+    "id": 18,
+    "name": "WordPress CCT"
+  },
+  {
+    "id": 19,
+    "name": "Elementor"
+  },
+  {
+    "id": 20,
+    "name": "Breakdance"
+  },
+  {
+    "id": 21,
+    "name": "Restful API"
+  },
+  {
+    "id": 22,
+    "name": "Postman"
+  },
+  {
+    "id": 23,
+    "name": "GitHub"
+  },
+  {
+    "id": 24,
+    "name": "cURL"
+  },
+  {
+    "id": 25,
+    "name": "Guzzle HTTP"
+  },
+  {
+    "id": 26,
+    "name": "MySQL"
+  },
+  {
+    "id": 27,
+    "name": "CloudFlare"
+  },
+  {
+    "id": 28,
+    "name": "AWS SES"
+  },
+  {
+    "id": 29,
+    "name": "PEST2"
+  },
+  {
+    "id": 30,
+    "name": "Google Bard"
+  },
+  {
+    "id": 31,
+    "name": "ChatGPT"
+  },
+  {
+    "id": 32,
+    "name": "VSCode"
+  },
+  {
+    "id": 33,
+    "name": "Putty"
+  },
+  {
+    "id": 34,
+    "name": "FileZilla"
+  },
+  {
+    "id": 35,
+    "name": "Laragon"
+  },
+  {
+    "id": 36,
+    "name": "Adobe XD"
+  },
+  {
+    "id": 37,
+    "name": "Figma"
+  },
+  {
+    "id": 38,
+    "name": "Asana"
+  },
+  {
+    "id": 39,
+    "name": "Balsamiq"
+  },
+  {
+    "id": 40,
+    "name": "Google Analytics"
+  },
+  {
+    "id": 41,
+    "name": "Stripe"
+  },
+  {
+    "id": 42,
+    "name": "BillPlz"
+  },
+  {
+    "id": 43,
+    "name": "PWA"
+  },
+  {
+    "id": 44,
+    "name": "Canva"
+  },
+  {
+    "id": 45,
+    "name": "Sendy"
+  }
+]
