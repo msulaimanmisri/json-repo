@@ -1,0 +1,71 @@
+{
+  "working_experiences": [
+    {
+      "duration": "June 2016 – September 2016",
+      "job_title": "Intership as Communication Designer",
+      "company": "Intellectual Property Corporation of Malaysia (MyIPO)",
+      "activities": [
+        "Responsible for designing every event poster, posting it on social media, and printing it out.",
+        "Responsible for making sure every morning the officer gets the news about intellectual property (prepared the related news for them).",
+        "Responsible for redesigning the UI and UX official website.",
+        "Attending weekly and monthly meetings to give reports and to make sure to communicate with each other team members in the department."
+      ],
+      "achievements": [
+        "Successfully redesigned MyIPO's new website using WordPress and Custom PHP Code and approved by top officers."
+      ],
+      "tech_stack_used": [
+        "WordPress",
+        "PHP",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Adobe InDesign",
+        "Adobe Photoshop",
+        "Adobe Illustrator",
+        "Adobe Dreamweaver"
+      ],
+      "skill_acquired": [
+        "Programming",
+        "Communication",
+        "Critical Thinking",
+        "Design Thinking"
+      ],
+      "images": [
+        "image link",
+        "image link"
+      ]
+    },
+    
+    {
+      "duration": "October 2016 – February 2016",
+      "job_title": "Head of Publicity & Digital Marketing",
+      "company": "Student Entreperneur division, Universiti Malaysia Sarawak",
+      "activities": [
+        "Responsible for creating strategic planning for the event.",
+        "Responsible for making sure all the team members get a suitable task according to their expertise.",
+        "Responsible for making sure all team members give weekly reports.",
+        "Responsible for attending weekly and monthly meetings with top management and other departments to get updated information."
+      ],
+      "achievements": [
+        "Successfully invited top businessmen in Sarawak to share about entrepreneurship.",
+        "Managed to get more than 15,000 crowds to attend the event.",
+        "Successfully Manage to handle team conflict and delegate task for each team members"
+      ],
+      "tech_stack_used": [
+        "Microsoft Excel",
+        "Adobe After Effect"
+      ],
+      "skill_acquired": [
+        "Management",
+        "Creative Thinking",
+        "Critical Thinking",
+        "Lead",
+        "Business-mindset"
+      ],
+      "images": [
+        "image link",
+        "image link"
+      ]
+    }
+  ]
+}
