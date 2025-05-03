@@ -35,7 +35,6 @@
         "image link"
       ]
     },
-    
     {
       "duration": "October 2016 – February 2016",
       "job_title": "Head of Publicity & Digital Marketing",
@@ -60,7 +59,51 @@
         "Creative Thinking",
         "Critical Thinking",
         "Lead",
-        "Business-mindset"
+        "Business mindset"
+      ],
+      "images": [
+        "image link",
+        "image link"
+      ]
+    },
+    {
+      "duration": "April 2018 – Julai 2018",
+      "job_title": "Lead Developer",
+      "company": "Ministry of Education Malaysia & ASEAN Schools Games 2018",
+      "activities": [
+        "Responsible for designing the UIX ASEAN Schools Games website.",
+        "Present the strategic planning in front of the directors, officers, and related ministries.",
+        "Responsible to interview and choose officer that will be placed in team IT.",
+        "Responsible for delegating the tasks among team members and monitoring each task update.",
+        "Responsible for working closely with MAMPU regarding Server and DNS.",
+        "Responsible to make sure the website can be accessed without having problems.",
+        "Responsible for making sure all the information is updated and the competition results are shown in real time.",
+        "Responsible to make sure the support team replies to each ticket that was received from the website.",
+        "Responsible for making sure website security levels are at the maximum level."
+      ],
+      "achievements": [
+        "Successfully make ASEAN Schools Games can be accessed from other countries without having long load time.",
+        "Manage to get recognition from the media because of how easy to get the information on the website.",
+        "Manage to fix the Sport Center Management System before the due date."
+      ],
+      "tech_stack_used": [
+        "WordPress",
+        "PHP",
+        "HTML",
+        "CSS",
+        "MySQL",
+        "JSON",
+        "Linux Shared Hosting",
+        "CloudFlare",
+        "Tawk.to API"
+      ],
+      "skill_acquired": [
+        "Management",
+        "Creative Thinking",
+        "Critical Thinking",
+        "Leading the team",
+        "Conflict Management",
+        "Negotiation"
       ],
       "images": [
         "image link",
