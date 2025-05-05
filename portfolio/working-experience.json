@@ -35,7 +35,6 @@
         "image link"
       ]
     },
-
     {
       "duration": "October 2016 – February 2016",
       "job_title": "Head of Publicity & Digital Marketing",
@@ -67,7 +66,6 @@
         "image link"
       ]
     },
-
     {
       "duration": "April 2018 – Julai 2018",
       "job_title": "Lead Developer",
@@ -112,7 +110,6 @@
         "image link"
       ]
     },
-
     {
       "duration": "August 2018 – December 2018",
       "job_title": "WordPress Developer",
@@ -152,6 +149,74 @@
         "Conflict Management",
         "Negotiation",
         "Cost Management"
+      ],
+      "images": [
+        "image link",
+        "image link"
+      ]
+    },
+    {
+      "duration": "January 2019 – September 2020",
+      "job_title": "Tech Lead & WordPress Developer",
+      "company": "Ardent Educational Consultants",
+      "activities": [
+        "Responsible for planning, analysing, executing, and dividing the task among other team members and related departments.",
+        "Responsible for creating strategic planning for web and system projects.",
+        "Responsible for following up with other departments to make sure all the requests are complete.",
+        "Responsible for leading the Scrum daily meeting with team members.",
+        "Responsible for giving weekly reports to the Directors and other related departments.",
+        "Responsible to make sure all the technologies are working well.",
+        "Responsible for making sure all the functions in the website/system work well in the development site before pushing to the production site.",
+        "Responsible for creating the UIX blueprint for each website and system features and proposing to other departments before development.",
+        "Responsible to explain to the user if anything happens to our system. E.g server down",
+        "Responsible for registering new domains, servers, and control panels for each competition and program.",
+        "Responsible to Monitor DNS, and server daily to make sure the website can be accessed.",
+        "Develop WordPress custom functions based on request.",
+        "Responsible for making sure all plugins and themes installed working after the update.",
+        "Responsible for creating a development (staging) site for each production site.",
+        "Responsible for optimizing all the WordPress files including the HTML, CSS, and JS."
+      ],
+      "achievements": [
+        "Successfully design a new company architecture that can handle 100K users simultaneously (tested using Loader.io)",
+        "Successfully teamed with the Marketing team to develop a Sales Funnel and generate more than RM3 million sales (that year)",
+        "Led the team to create a strategic plan for the server to handle up to 100K users simultaneously",
+        "Successfully increase the security level on a website that is already being hacked",
+        "Successfully deploy a complex website structure with more than 3K users",
+        "Successfully integrate various external APIs to the application such as Payment Gateway"
+      ],
+      "tech_stack_used": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "PHP",
+        "WordPress",
+        "Custom Theme Development",
+        "Custom Plugin Development",
+        "Laravel",
+        "MySQL",
+        "Digital Ocean VPS",
+        "AWS EC2",
+        "Linux Command Line",
+        "AWS S3",
+        "CloudFlare",
+        "RunCloud CI/CD",
+        "Google Spreadsheet",
+        "Asana",
+        "Loader.io",
+        "Zapier",
+        "Slack"
+      ],
+      "skill_acquired": [
+        "Programming",
+        "Leading",
+        "Management",
+        "Business Development",
+        "Creative Thinking",
+        "Critical Thinking",
+        "Conflict Management",
+        "Negotiation",
+        "Cost Management",
+        "Product Design"
       ],
       "images": [
         "image link",
