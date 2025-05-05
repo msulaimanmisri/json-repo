@@ -1,319 +1,420 @@
 {
-    "working_experiences": [
-        {
-            "duration": "June 2016 – September 2016",
-            "job_title": "Intership as Communication Designer",
-            "company": "Intellectual Property Corporation of Malaysia (MyIPO)",
-            "activities": [
-                "Responsible for designing every event poster, posting it on social media, and printing it out.",
-                "Responsible for making sure every morning the officer gets the news about intellectual property (prepared the related news for them).",
-                "Responsible for redesigning the UI and UX official website.",
-                "Attending weekly and monthly meetings to give reports and to make sure to communicate with each other team members in the department."
-            ],
-            "achievements": [
-                "Successfully redesigned MyIPO's new website using WordPress and Custom PHP Code and approved by top officers."
-            ],
-            "tech_stack_used": [
-                "WordPress",
-                "PHP",
-                "HTML",
-                "CSS",
-                "JavaScript",
-                "Adobe InDesign",
-                "Adobe Photoshop",
-                "Adobe Illustrator",
-                "Adobe Dreamweaver"
-            ],
-            "skill_acquired": [
-                "Programming",
-                "Communication",
-                "Critical Thinking",
-                "Design Thinking",
-                "Public Speaking"
-            ],
-            "images": [
-                "image link",
-                "image link"
-            ]
-        },
-        {
-            "duration": "October 2016 – February 2016",
-            "job_title": "Head of Publicity & Digital Marketing",
-            "company": "Student Entreperneur division, Universiti Malaysia Sarawak",
-            "activities": [
-                "Responsible for creating strategic planning for the event.",
-                "Responsible for making sure all the team members get a suitable task according to their expertise.",
-                "Responsible for making sure all team members give weekly reports.",
-                "Responsible for attending weekly and monthly meetings with top management and other departments to get updated information."
-            ],
-            "achievements": [
-                "Successfully invited top businessmen in Sarawak to share about entrepreneurship.",
-                "Managed to get more than 15,000 crowds to attend the event.",
-                "Successfully Manage to handle team conflict and delegate task for each team members"
-            ],
-            "tech_stack_used": [
-                "Microsoft Excel",
-                "Adobe After Effect"
-            ],
-            "skill_acquired": [
-                "Management",
-                "Creative Thinking",
-                "Critical Thinking",
-                "Lead",
-                "Business mindset",
-                "Public Speaking"
-            ],
-            "images": [
-                "image link",
-                "image link"
-            ]
-        },
-        {
-            "duration": "April 2018 – Julai 2018",
-            "job_title": "Lead Developer",
-            "company": "Ministry of Education Malaysia & ASEAN Schools Games 2018",
-            "activities": [
-                "Responsible for designing the UIX ASEAN Schools Games website.",
-                "Present the strategic planning in front of the directors, officers, and related ministries.",
-                "Responsible to interview and choose officer that will be placed in team IT.",
-                "Responsible for delegating the tasks among team members and monitoring each task update.",
-                "Responsible for working closely with MAMPU regarding Server and DNS.",
-                "Responsible to make sure the website can be accessed without having problems.",
-                "Responsible for making sure all the information is updated and the competition results are shown in real time.",
-                "Responsible to make sure the support team replies to each ticket that was received from the website.",
-                "Responsible for making sure website security levels are at the maximum level."
-            ],
-            "achievements": [
-                "Successfully make ASEAN Schools Games can be accessed from other countries without having long load time.",
-                "Manage to get recognition from the media because of how easy to get the information on the website.",
-                "Manage to fix the Sport Center Management System before the due date."
-            ],
-            "tech_stack_used": [
-                "WordPress",
-                "PHP",
-                "HTML",
-                "CSS",
-                "MySQL",
-                "JSON",
-                "Linux Shared Hosting",
-                "CloudFlare",
-                "Tawk.to API"
-            ],
-            "skill_acquired": [
-                "Management",
-                "Creative Thinking",
-                "Critical Thinking",
-                "Leading the team",
-                "Conflict Management",
-                "Negotiation",
-                "Public Speaking"
-            ],
-            "images": [
-                "image link",
-                "image link"
-            ]
-        },
-        {
-            "duration": "August 2018 – December 2018",
-            "job_title": "WordPress Developer",
-            "company": "Cepat Funnels Marketing Agency",
-            "activities": [
-                "Responsible for designing new UIX for the company website and system structure.",
-                "Responsible for creating a strategic plan to make sure the website can be accessed without having problems such as slow load time, errors, and images not loading properly.",
-                "Responsible for registering new domains, deploying a new server, and control panel, and creating a wildcard DNS, and wildcard SSL for the system.",
-                "Responsible for developing company systems using Bootstrap UI Framework and WordPress.",
-                "Responsible for designing templates for the customer landing page.",
-                "Responsible for designing database structure (SaaS, Multi-Tenant)",
-                "Develop a custom function to fit the company's request.",
-                "Server configuration and responsible for optimizing all the files in the website including image compression and minified the code."
-            ],
-            "achievements": [
-                "Successfully developed a WordPress Multisite with the sub-domain, Multi-tenant Databases Structure, Domain Mapping, Wildcard SSL functions, and many more.",
-                "Successfully developed a custom function that enables plugins and themes to work with WordPress Multisite."
-            ],
-            "tech_stack_used": [
-                "WordPress",
-                "Custom Theme Development",
-                "Custom Plugin Development",
-                "PHP",
-                "HTML",
-                "CSS",
-                "JavaScript",
-                "MySQL",
-                "Digital Ocean VPS",
-                "CloudFlare",
-                "RunCloud CI/CD"
-            ],
-            "skill_acquired": [
-                "Programming",
-                "Business mindset",
-                "Creative Thinking",
-                "Critical Thinking",
-                "Conflict Management",
-                "Negotiation",
-                "Cost Management",
-                "Public Speaking"
-            ],
-            "images": [
-                "image link",
-                "image link"
-            ]
-        },
-        {
-            "duration": "January 2019 – September 2020",
-            "job_title": "Tech Lead & WordPress Developer",
-            "company": "Ardent Educational Consultants",
-            "activities": [
-                "Responsible for planning, analysing, executing, and dividing the task among other team members and related departments.",
-                "Responsible for creating strategic planning for web and system projects.",
-                "Responsible for following up with other departments to make sure all the requests are complete.",
-                "Responsible for leading the Scrum daily meeting with team members.",
-                "Responsible for giving weekly reports to the Directors and other related departments.",
-                "Responsible to make sure all the technologies are working well.",
-                "Responsible for making sure all the functions in the website/system work well in the development site before pushing to the production site.",
-                "Responsible for creating the UIX blueprint for each website and system features and proposing to other departments before development.",
-                "Responsible to explain to the user if anything happens to our system. E.g server down",
-                "Responsible for registering new domains, servers, and control panels for each competition and program.",
-                "Responsible to Monitor DNS, and server daily to make sure the website can be accessed.",
-                "Develop WordPress custom functions based on request.",
-                "Responsible for making sure all plugins and themes installed working after the update.",
-                "Responsible for creating a development (staging) site for each production site.",
-                "Responsible for optimizing all the WordPress files including the HTML, CSS, and JS."
-            ],
-            "achievements": [
-                "Successfully design a new company architecture that can handle 100K users simultaneously (tested using Loader.io)",
-                "Successfully teamed with the Marketing team to develop a Sales Funnel and generate more than RM3 million sales (that year)",
-                "Led the team to create a strategic plan for the server to handle up to 100K users simultaneously",
-                "Successfully increase the security level on a website that is already being hacked",
-                "Successfully deploy a complex website structure with more than 3K users",
-                "Successfully integrate various external APIs to the application such as Payment Gateway"
-            ],
-            "tech_stack_used": [
-                "HTML",
-                "CSS",
-                "JavaScript",
-                "PHP",
-                "WordPress",
-                "Bootstrap CSS",
-                "Custom Theme Development",
-                "Custom Plugin Development",
-                "Laravel",
-                "MySQL",
-                "Digital Ocean VPS",
-                "AWS EC2",
-                "Linux Command Line",
-                "AWS S3",
-                "CloudFlare",
-                "RunCloud CI/CD",
-                "Google Spreadsheet",
-                "Asana",
-                "Loader.io",
-                "Zapier",
-                "Slack"
-            ],
-            "skill_acquired": [
-                "Programming",
-                "Leading",
-                "Management",
-                "Business Development",
-                "Creative Thinking",
-                "Critical Thinking",
-                "Conflict Management",
-                "Negotiation",
-                "Cost Management",
-                "Product Design",
-                "Public Speaking"
-            ],
-            "images": [
-                "image link",
-                "image link"
-            ]
-        },
-        {
-            "duration": "October 2020 – July 2024",
-            "job_title": "Software Engineer & Lead Developer",
-            "company": "AsiaQuest Internet Malaysia",
-            "activities": [
-                "Responsible for planning, analyzing, and executing ideas into production products such as Web, Web Apps, and Mobile Apps together with the team.",
-                "Responsible for creating strategic planning for web and system projects.",
-                "Responsible for developing and customizing WordPress Themes and Plugins.",
-                "Worked with the team to produce and use best practices codes.",
-                "Responsible for monitoring and reviewing other team members' code, especially Junior PR.",
-                "Responsible for giving monthly and yearly task/skill reviews for higher management such as Project Manager, HR, and Managing Director.",
-                "Responsible for making sure all client application security is in top-notch condition.",
-                "Responsible for client Software architecture or Web architecture.",
-                "Lead code reviews and mentor junior developers to ensure code quality and adherence to best practices.",
-                "Collaborate with cross-functional teams including designers, QA, and product managers to deliver project requirements.",
-                "Architect scalable and maintainable solutions for new and existing projects.",
-                "Identify and resolve technical challenges and bottlenecks throughout the development lifecycle.",
-                "Establish and enforce development workflows, version control strategies, and deployment processes.",
-                "Research and recommend new technologies to improve product performance and team productivity.",
-                "Coordinate sprint planning, task estimation, and progress tracking with the team.",
-                "Ensure timely delivery of features and bug fixes according to project timelines.",
-                "Facilitate knowledge sharing sessions and technical workshops within the team."
-            ],
-            "achievements": [
-                "Successfully worked with the Project Manager to create and implement a strategic plan to manage the team and the project.",
-                "Ensured all team member code consistently aligned with User Stories in Agile projects, improving project delivery quality.",
-                "Achieved top-notch optimization for every website or application built, resulting in improved speed and SEO performance.",
-                "Successfully solo developed a System using Laravel Framework (Ticketing System) and WordPress (internal onboarding system).",
-                "Successfully developed a Kimono website (Client from Japan) using WordPress API, WordPress custom architecture and Vue.js.",
-                "Saved more than 40% of the company's yearly hosting expenses by migrating from Shared Hosting to Private Server.",
-                "Reduced server errors and improved optimization by over 30% through the implementation of a Cloud monitoring server system.",
-                "Led the team to successfully migrate from Cpanel to GitHub Repositories, streamlining deployment and version control.",
-                "Delivered more than 15 custom-made WordPress plugins to clients and internal projects.",
-                "Selected to represent the company in Indonesia to learn Agile implementation from Mitsubishi Motor DC, and IT management best practices from Gojek, Tokopedia, and other Lead Developers."
-            ],
-            "tech_stack_used": [
-                "HTML",
-                "CSS",
-                "JavaScript",
-                "PHP",
-                "Java",
-                "WordPress",
-                "Bootstrap CSS",
-                "Tailwind CSS",
-                "Custom Theme Development",
-                "Custom Plugin Development",
-                "Laravel",
-                "Vue.js",
-                "Alpine.js",
-                "MySQL",
-                "SqLite",
-                "Digital Ocean VPS",
-                "AWS EC2",
-                "AWS Route 53",
-                "AWS CloudFront",
-                "Linux Command Line",
-                "Bash Scripting",
-                "AWS S3",
-                "CloudFlare",
-                "RunCloud CI/CD",
-                "Google Spreadsheet",
-                "Asana",
-                "Loader.io",
-                "Zapier",
-                "Slack",
-                "API Integration"
-            ],
-            "skill_acquired": [
-                "Programming",
-                "Leading",
-                "Management",
-                "Business Development",
-                "Creative Thinking",
-                "Critical Thinking",
-                "Conflict Management",
-                "Negotiation",
-                "Cost Management",
-                "Product Design",
-                "Public Speaking",
-                "Travelling"
-            ],
-            "images": [
-                "image link",
-                "image link"
-            ]
-        }
-    ]
+  "working_experiences": [
+    {
+      "duration": "June 2016 – September 2016",
+      "job_title": "Intership as Communication Designer",
+      "company": "Intellectual Property Corporation of Malaysia (MyIPO)",
+      "activities": [
+        "Responsible for designing every event poster, posting it on social media, and printing it out.",
+        "Responsible for making sure every morning the officer gets the news about intellectual property (prepared the related news for them).",
+        "Responsible for redesigning the UI and UX official website.",
+        "Attending weekly and monthly meetings to give reports and to make sure to communicate with each other team members in the department."
+      ],
+      "achievements": [
+        "Successfully redesigned MyIPO's new website using WordPress and Custom PHP Code and approved by top officers."
+      ],
+      "tech_stack_used": [
+        "WordPress",
+        "PHP",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Adobe InDesign",
+        "Adobe Photoshop",
+        "Adobe Illustrator",
+        "Adobe Dreamweaver"
+      ],
+      "skill_acquired": [
+        "Programming",
+        "Communication",
+        "Critical Thinking",
+        "Design Thinking",
+        "Public Speaking"
+      ],
+      "images": [
+        "image link",
+        "image link"
+      ]
+    },
+    {
+      "duration": "October 2016 – February 2016",
+      "job_title": "Head of Publicity & Digital Marketing",
+      "company": "Student Entreperneur division, Universiti Malaysia Sarawak",
+      "activities": [
+        "Responsible for creating strategic planning for the event.",
+        "Responsible for making sure all the team members get a suitable task according to their expertise.",
+        "Responsible for making sure all team members give weekly reports.",
+        "Responsible for attending weekly and monthly meetings with top management and other departments to get updated information."
+      ],
+      "achievements": [
+        "Successfully invited top businessmen in Sarawak to share about entrepreneurship.",
+        "Managed to get more than 15,000 crowds to attend the event.",
+        "Successfully Manage to handle team conflict and delegate task for each team members"
+      ],
+      "tech_stack_used": [
+        "Microsoft Excel",
+        "Adobe After Effect"
+      ],
+      "skill_acquired": [
+        "Management",
+        "Creative Thinking",
+        "Critical Thinking",
+        "Lead",
+        "Business mindset",
+        "Public Speaking",
+        "Software Architecture"
+      ],
+      "images": [
+        "image link",
+        "image link"
+      ]
+    },
+    {
+      "duration": "April 2018 – Julai 2018",
+      "job_title": "Lead Developer",
+      "company": "Ministry of Education Malaysia & ASEAN Schools Games 2018",
+      "activities": [
+        "Responsible for designing the UIX ASEAN Schools Games website.",
+        "Present the strategic planning in front of the directors, officers, and related ministries.",
+        "Responsible to interview and choose officer that will be placed in team IT.",
+        "Responsible for delegating the tasks among team members and monitoring each task update.",
+        "Responsible for working closely with MAMPU regarding Server and DNS.",
+        "Responsible to make sure the website can be accessed without having problems.",
+        "Responsible for making sure all the information is updated and the competition results are shown in real time.",
+        "Responsible to make sure the support team replies to each ticket that was received from the website.",
+        "Responsible for making sure website security levels are at the maximum level."
+      ],
+      "achievements": [
+        "Successfully make ASEAN Schools Games can be accessed from other countries without having long load time.",
+        "Manage to get recognition from the media because of how easy to get the information on the website.",
+        "Manage to fix the Sport Center Management System before the due date."
+      ],
+      "tech_stack_used": [
+        "WordPress",
+        "PHP",
+        "HTML",
+        "CSS",
+        "MySQL",
+        "JSON",
+        "Linux Shared Hosting",
+        "CloudFlare",
+        "Tawk.to API"
+      ],
+      "skill_acquired": [
+        "Management",
+        "Creative Thinking",
+        "Critical Thinking",
+        "Leading the team",
+        "Conflict Management",
+        "Negotiation",
+        "Public Speaking",
+        "Software Architecture"
+      ],
+      "images": [
+        "image link",
+        "image link"
+      ]
+    },
+    {
+      "duration": "August 2018 – December 2018",
+      "job_title": "WordPress Developer",
+      "company": "Cepat Funnels Marketing Agency",
+      "activities": [
+        "Responsible for designing new UIX for the company website and system structure.",
+        "Responsible for creating a strategic plan to make sure the website can be accessed without having problems such as slow load time, errors, and images not loading properly.",
+        "Responsible for registering new domains, deploying a new server, and control panel, and creating a wildcard DNS, and wildcard SSL for the system.",
+        "Responsible for developing company systems using Bootstrap UI Framework and WordPress.",
+        "Responsible for designing templates for the customer landing page.",
+        "Responsible for designing database structure (SaaS, Multi-Tenant)",
+        "Develop a custom function to fit the company's request.",
+        "Server configuration and responsible for optimizing all the files in the website including image compression and minified the code."
+      ],
+      "achievements": [
+        "Successfully developed a WordPress Multisite with the sub-domain, Multi-tenant Databases Structure, Domain Mapping, Wildcard SSL functions, and many more.",
+        "Successfully developed a custom function that enables plugins and themes to work with WordPress Multisite."
+      ],
+      "tech_stack_used": [
+        "WordPress",
+        "Custom Theme Development",
+        "Custom Plugin Development",
+        "PHP",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "MySQL",
+        "Digital Ocean VPS",
+        "CloudFlare",
+        "RunCloud CI/CD"
+      ],
+      "skill_acquired": [
+        "Programming",
+        "Business mindset",
+        "Creative Thinking",
+        "Critical Thinking",
+        "Conflict Management",
+        "Negotiation",
+        "Cost Management",
+        "Public Speaking",
+        "Software Architecture"
+      ],
+      "images": [
+        "image link",
+        "image link"
+      ]
+    },
+    {
+      "duration": "January 2019 – September 2020",
+      "job_title": "Tech Lead & WordPress Developer",
+      "company": "Ardent Educational Consultants",
+      "activities": [
+        "Responsible for planning, analysing, executing, and dividing the task among other team members and related departments.",
+        "Responsible for creating strategic planning for web and system projects.",
+        "Responsible for following up with other departments to make sure all the requests are complete.",
+        "Responsible for leading the Scrum daily meeting with team members.",
+        "Responsible for giving weekly reports to the Directors and other related departments.",
+        "Responsible to make sure all the technologies are working well.",
+        "Responsible for making sure all the functions in the website/system work well in the development site before pushing to the production site.",
+        "Responsible for creating the UIX blueprint for each website and system features and proposing to other departments before development.",
+        "Responsible to explain to the user if anything happens to our system. E.g server down",
+        "Responsible for registering new domains, servers, and control panels for each competition and program.",
+        "Responsible to Monitor DNS, and server daily to make sure the website can be accessed.",
+        "Develop WordPress custom functions based on request.",
+        "Responsible for making sure all plugins and themes installed working after the update.",
+        "Responsible for creating a development (staging) site for each production site.",
+        "Responsible for optimizing all the WordPress files including the HTML, CSS, and JS."
+      ],
+      "achievements": [
+        "Successfully design a new company architecture that can handle 100K users simultaneously (tested using Loader.io)",
+        "Successfully teamed with the Marketing team to develop a Sales Funnel and generate more than RM3 million sales (that year)",
+        "Led the team to create a strategic plan for the server to handle up to 100K users simultaneously",
+        "Successfully increase the security level on a website that is already being hacked",
+        "Successfully deploy a complex website structure with more than 3K users",
+        "Successfully integrate various external APIs to the application such as Payment Gateway"
+      ],
+      "tech_stack_used": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "PHP",
+        "WordPress",
+        "Bootstrap CSS",
+        "Custom Theme Development",
+        "Custom Plugin Development",
+        "Laravel",
+        "MySQL",
+        "Digital Ocean VPS",
+        "AWS EC2",
+        "Linux Command Line",
+        "AWS S3",
+        "CloudFlare",
+        "RunCloud CI/CD",
+        "Google Spreadsheet",
+        "Asana",
+        "Loader.io",
+        "Zapier",
+        "Slack"
+      ],
+      "skill_acquired": [
+        "Programming",
+        "Leading",
+        "Management",
+        "Business Development",
+        "Creative Thinking",
+        "Critical Thinking",
+        "Conflict Management",
+        "Negotiation",
+        "Cost Management",
+        "Product Design",
+        "Public Speaking",
+        "Software Architecture"
+      ],
+      "images": [
+        "image link",
+        "image link"
+      ]
+    },
+    {
+      "duration": "October 2020 – July 2024",
+      "job_title": "Software Engineer & Lead Developer",
+      "company": "AsiaQuest Internet Malaysia",
+      "activities": [
+        "Responsible for planning, analyzing, and executing ideas into production products such as Web, Web Apps, and Mobile Apps together with the team.",
+        "Responsible for creating strategic planning for web and system projects.",
+        "Responsible for developing and customizing WordPress Themes and Plugins.",
+        "Worked with the team to produce and use best practices codes.",
+        "Responsible for monitoring and reviewing other team members' code, especially Junior PR.",
+        "Responsible for giving monthly and yearly task/skill reviews for higher management such as Project Manager, HR, and Managing Director.",
+        "Responsible for making sure all client application security is in top-notch condition.",
+        "Responsible for client Software architecture or Web architecture.",
+        "Lead code reviews and mentor junior developers to ensure code quality and adherence to best practices.",
+        "Collaborate with cross-functional teams including designers, QA, and product managers to deliver project requirements.",
+        "Architect scalable and maintainable solutions for new and existing projects.",
+        "Identify and resolve technical challenges and bottlenecks throughout the development lifecycle.",
+        "Establish and enforce development workflows, version control strategies, and deployment processes.",
+        "Research and recommend new technologies to improve product performance and team productivity.",
+        "Coordinate sprint planning, task estimation, and progress tracking with the team.",
+        "Ensure timely delivery of features and bug fixes according to project timelines.",
+        "Facilitate knowledge sharing sessions and technical workshops within the team."
+      ],
+      "achievements": [
+        "Successfully worked with the Project Manager to create and implement a strategic plan to manage the team and the project.",
+        "Ensured all team member code consistently aligned with User Stories in Agile projects, improving project delivery quality.",
+        "Achieved top-notch optimization for every website or application built, resulting in improved speed and SEO performance.",
+        "Successfully solo developed a System using Laravel Framework (Ticketing System) and WordPress (internal onboarding system).",
+        "Successfully developed a Kimono website (Client from Japan) using WordPress API, WordPress custom architecture and Vue.js.",
+        "Saved more than 40% of the company's yearly hosting expenses by migrating from Shared Hosting to Private Server.",
+        "Reduced server errors and improved optimization by over 30% through the implementation of a Cloud monitoring server system.",
+        "Led the team to successfully migrate from Cpanel to GitHub Repositories, streamlining deployment and version control.",
+        "Delivered more than 15 custom-made WordPress plugins to clients and internal projects.",
+        "Selected to represent the company in Indonesia to learn Agile implementation from Mitsubishi Motor DC, and IT management best practices from Gojek, Tokopedia, and other Lead Developers."
+      ],
+      "tech_stack_used": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "PHP",
+        "Java",
+        "WordPress",
+        "Bootstrap CSS",
+        "Tailwind CSS",
+        "Custom Theme Development",
+        "Custom Plugin Development",
+        "Laravel",
+        "Vue.js",
+        "Alpine.js",
+        "MySQL",
+        "SqLite",
+        "Digital Ocean VPS",
+        "AWS EC2",
+        "AWS Route 53",
+        "AWS CloudFront",
+        "Linux Command Line",
+        "Bash Scripting",
+        "AWS S3",
+        "CloudFlare",
+        "RunCloud CI/CD",
+        "Google Spreadsheet",
+        "Asana",
+        "Loader.io",
+        "Zapier",
+        "Slack",
+        "API Integration"
+      ],
+      "skill_acquired": [
+        "Programming",
+        "Leading",
+        "Management",
+        "Business Development",
+        "Creative Thinking",
+        "Critical Thinking",
+        "Conflict Management",
+        "Negotiation",
+        "Cost Management",
+        "Product Design",
+        "Public Speaking",
+        "Travelling",
+        "Software Architecture"
+      ],
+      "images": [
+        "image link",
+        "image link"
+      ]
+    },
+    {
+      "duration": "July 2024 – October 2024",
+      "job_title": "Senior Full Stack Developer",
+      "company": "Juwai IQI Holdings",
+      "activities": [
+        "Responsible for handling internal & external WordPress site",
+        "Responsible for developing a WordPress plugins",
+        "Handling current Laravel applications",
+        "Reviewing Juniors code through GitHub"
+      ],
+      "achievements": [
+        "Successfully develop a few custom WordPress plugins for internal use.",
+        "Successfully develop a Learning Management System using WordPress for Company Onboarding.",
+        "Successfully deliver a few features in their Laravel application."
+      ],
+      "tech_stack_used": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "PHP",
+        "WordPress",
+        "Tailwind CSS",
+        "Custom Plugin Development",
+        "Laravel",
+        "Alpine.js",
+        "MySQL",
+        "AWS EC2",
+        "Linux Command Line",
+        "Bash Scripting",
+        "Docker",
+        "Redis",
+        "Bitbucket",
+        "Jira",
+        "Slack",
+        "API Integration"
+      ],
+      "skill_acquired": [
+        "Programming",
+        "Creative Thinking",
+        "Critical Thinking",
+        "Conflict Management",
+        "Negotiation",
+        "Product Design",
+        "Public Speaking",
+        "Software Architecture"
+      ],
+      "images": [
+        "image link",
+        "image link"
+      ]
+    },
+    {
+      "duration": "September 2024 – may 2025",
+      "job_title": "Senior Full Stack Developer",
+      "company": "NDA Company",
+      "activities": [
+        "Responsible for developing the company's internal system using various technologies.",
+        "Responsible for researching and implementing new technologies to improve the system's performance.",
+        "Responsible to discuss with the team to create a strategic plan for the system.",
+        "Responsible to make sure the timeline is followed and the project is delivered on time."
+      ],
+      "achievements": [
+        "Successfully develop the first version of the internal system before the deadline.",
+        "Save company time resources about 30% by implementing a more efficient system architecture."
+      ],
+      "tech_stack_used": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "PHP",
+        "Tailwind CSS",
+        "Laravel",
+        "Alpine.js",
+        "MySQL",
+        "AWS EC2",
+        "Linux Command Line",
+        "Bash Scripting",
+        "Redis",
+        "Bitbucket",
+        "Jira",
+        "Slack"
+      ],
+      "skill_acquired": [
+        "Programming",
+        "Creative Thinking",
+        "Critical Thinking",
+        "Negotiation",
+        "Product Design",
+        "Public Speaking",
+        "Software Architecture"
+      ],
+      "images": [
+        "image link",
+        "image link"
+      ]
+    }
+  ]
 }
