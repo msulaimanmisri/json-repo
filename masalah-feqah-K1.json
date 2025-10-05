@@ -136,5 +136,47 @@
     "category": "K1",
     "title": "Tidak boleh memanfaatkan harta anak yatim",
     "page": 1609
+  },
+  {
+    "id": 24,
+    "category": "K1",
+    "title": "Tidak membayar harga kuih yang dimakan",
+    "page": 1609
+  },
+  {
+    "id": 25,
+    "category": "K1",
+    "title": "Mengambil sisa-sisa potongan tebu",
+    "page": 1610
+  },
+  {
+    "id": 26,
+    "category": "K1",
+    "title": "Makanan yang tidak habis di kedai makan",
+    "page": 1610
+  },
+  {
+    "id": 27,
+    "category": "K1",
+    "title": "Pokok tidak bertuan di tepi jalan berbuah",
+    "page": 1611
+  },
+  {
+    "id": 28,
+    "category": "K1",
+    "title": "Mencetak dan menerbitkan karya orang lain tanpa izin",
+    "page": 1611
+  },
+  {
+    "id": 29,
+    "category": "K1",
+    "title": "Masuk rumah tanpa izin",
+    "page": 1612
+  },
+  {
+    "id": 30,
+    "category": "K1",
+    "title": "Membaca buku di kedai buku",
+    "page": 1612
   }
 ]
